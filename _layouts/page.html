@@ -39,7 +39,20 @@ code {
 }
 ol li {
   padding-bottom: 1rem;
-} 
+}
+
+header {
+    height: 600px;
+    width: 100vw;
+    background: white;
+    overflow: hidden;
+}
+
+img {
+   object-fit: cover;
+   opacity: 0.4;
+}
+
     </style>
 
     <title>{{ page.title }}</title>
@@ -50,10 +63,16 @@ ol li {
 
     <div class="row justify-content-center">
       
+      <header>
       <div class="col-lg-6 col-md-6">
-      <h1>{{ page.title }}</h1>
       <img width=100% title="{{ page.doodle-alt }}" alt="{{ page.doodle-alt }}" src="{{ page.doodle }}"></img>
+      <section class='header-text'>
+      <h1>{{ page.title }}</h1>
+      </section>
+
       </div>
+      </header>
+
       </div>
   
       <div class="row justify-content-center">
