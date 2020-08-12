@@ -4,8 +4,6 @@ title: "UCSD Data Science Capstone"
 doodle: "/doodle.png"
 ---
 
-# UCSD Data Science Capstone
-
 **Under Construction**
 
 ## Student Pages
