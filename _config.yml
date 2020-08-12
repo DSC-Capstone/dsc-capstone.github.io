@@ -1,0 +1,5 @@
+safe: true
+title: "UCSD Data Science Capstone"
+source: .
+destination: _site
+url: "https://dsc-capstone.github.io/"
