@@ -11,7 +11,6 @@
     <style>
 h1 {
   font-size: 24pt;
-  color: black;
 }
 h2 {
   font-size: 20pt;
@@ -27,13 +26,6 @@ a {
 }
 body {
   padding-bottom: 10em;
-}
-
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 .sidenote {
@@ -58,16 +50,12 @@ ol li {
 
   <div class="container">
 
-    <div class="container">
-      <img title="{{ page.doodle-alt }}" alt="{{ page.doodle-alt }}"
-      src="{{ page.doodle }}" style="width:100%;"></img>
-      <div class="centered">
-      <h1>{{ page.title }}</h1>
-      </div>
-    </div>
-
       <div class="row justify-content-center">
       <div class="col-lg-6 col-md-6">
+
+      <img title="{{ page.doodle-alt }}" alt="{{ page.doodle-alt }}"
+      src="{{ page.doodle }}"></img>
+      <h1>{{ page.title }}</h1>
 
       </div>
       </div>
