@@ -42,6 +42,12 @@ code {
 ol li {
     padding-bottom: 1rem;
 }
+header.container {
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 15px;
+    width: 960px;
+}
 
 
     </style>
@@ -51,23 +57,26 @@ ol li {
 
   <body>
 
-    <div class="container">
+    <div id="header">
+      <div class="container">
 
-      <div class="row justify-content-center">
-        <img title="{{ page.doodle-alt }}" alt="{{ page.doodle-alt }}"
-             src="{{ page.doodle }}"></img>
+        <div class="row justify-content-center">
+          <img title="{{ page.doodle-alt }}" alt="{{ page.doodle-alt }}"
+               src="{{ page.doodle }}"></img>
+        </div>
+        <div class="row justify-content-center">
+          <h1>{{ page.title }}</h1>
+        </div>
       </div>
-      <div class="row justify-content-center">
-      <h1>{{ page.title }}</h1>
-      </div>
 
+      <div id="content">
 
-      <div class="row justify-content-center">
-      <div class="col-lg-8 col-md-12 content">
+        <div class="row justify-content-center">
+          <div class="col-lg-8 col-md-12 content">
   
-      {{ content }}
-  
-      </div>
+            {{ content }}
+          </div>
+        </div>
       </div>
 
     
