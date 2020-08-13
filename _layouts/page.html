@@ -10,7 +10,7 @@
 
     <style>
 h1 {
-    font-size: 36pt;
+    font-size: 42pt;
 }
 h2 {
     font-size:q 20pt;
@@ -41,13 +41,12 @@ code {
 ol li {
     padding-bottom: 1rem;
 }
-header.container {
+.container {
     margin: 0 auto;
     overflow: hidden;
-    padding: 1em 0;
+    padding: 10px 0;
     /* width: 960px; */
 }
-
 
     </style>
 
@@ -59,28 +58,34 @@ header.container {
     <div id="header">
       <div class="container">
 
+
         <div class="row justify-content-center">
           <div class="col-lg-8 col-md-12 content">
             <img title="{{ page.doodle-alt }}" alt="{{ page.doodle-alt }}"
                  src="{{ page.doodle }}" width=100%></img>
           </div>
         </div>
+        
         <div class="row justify-content-center">
           <div class="col-lg-8 col-md-12 content">
             <h1>{{ page.title }}</h1>
           </div>
         </div>
       </div>
+    </div>
 
-      <div id="content">
+    <div id="content">
+      <div class="container">
 
         <div class="row justify-content-center">
           <div class="col-lg-8 col-md-12 content">
   
             {{ content }}
+
           </div>
         </div>
       </div>
+    </div>
 
     
 
