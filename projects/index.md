@@ -1,5 +1,5 @@
 ---
 layout: index
-title: Resources
+title: Archive
 doodle: /doodle.png
 ---
