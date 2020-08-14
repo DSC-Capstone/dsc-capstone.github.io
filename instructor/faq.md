@@ -2,6 +2,7 @@
 layout: page
 title: Domain Mentor FAQ
 doodle: /doodle.png
+permalink: /instructor/faq/
 ---
 
 ---

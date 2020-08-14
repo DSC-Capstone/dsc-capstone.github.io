@@ -2,6 +2,7 @@
 layout: page
 title: "UCSD Data Science Capstone"
 doodle: "/doodle.png"
+permalink: /
 ---
 
 ## Student Pages

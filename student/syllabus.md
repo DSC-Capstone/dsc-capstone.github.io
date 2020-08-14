@@ -2,6 +2,7 @@
 layout: page
 title: Syllabus (Quarter 1)
 doodle: /doodle.png
+permalink: /student/syllabus/
 ---
 
 ---
