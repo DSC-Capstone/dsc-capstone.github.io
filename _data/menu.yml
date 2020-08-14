@@ -1,0 +1,30 @@
+- text: Home
+  url: /
+- text: Student Pages
+  url: /student/
+  subitems:
+    - text: Syllabus
+      url: /student/syllabus/
+    - text: Schedule
+      url: /student/schedule/
+    - text: Assignments
+      url: /student/assignments/
+    - text: Staff & Domains
+      url: /student/domains/
+- text: Instructor Pages
+  url: /instructor/
+  subitems:
+    - text: Potential mentor FAQ
+      url: /instructor/faq/
+    - text: Current Mentor Guide
+      url: /instructor/current/
+- text: Resources
+  url: /resources/
+  subitems:
+    - text: Computing Resources
+      url: /resources/computing/
+- text: Archive
+  url: /projects/
+  subitems:
+    - text: 2019 - 2020
+      url: /projects-2019-2020/
