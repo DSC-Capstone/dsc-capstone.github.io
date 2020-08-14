@@ -6,17 +6,17 @@ permalink: /
 ---
 
 ## Student Pages
-* [Syllabus](/student/syllabus.html)
-* [Schedule](/student/schedule.html)
-* [Assignments](/student/assignments.html)
-* [Domains of Inquiry Reference Page](/student/domains.html)
+* [Syllabus](/student/syllabus)
+* [Schedule](/student/schedule)
+* [Assignments](/student/assignments)
+* [Domains of Inquiry Reference Page](/student/domains)
 
 ### References
-* [Computing Resources](/student/computing.html)
+* [Computing Resources](/student/computing)
 
 ## Instructor Pages
-* [Potential mentor FAQ](/instructor/faq.html)
-* [Current Mentor Guide](/instructor/current.html)
+* [Potential mentor FAQ](/instructor/faq)
+* [Current Mentor Guide](/instructor/current)
 
 ## Archive
 * [Projects (2019-2020)](https://dsc-capstone.github.io/projects-2019-2020/)
