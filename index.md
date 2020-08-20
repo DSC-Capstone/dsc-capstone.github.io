@@ -11,7 +11,12 @@ permalink: /
 * [Assignments](/student/assignments)
 * [Domains of Inquiry Reference Page](/student/domains)
 
-### References
+## Assignments
+* [Methodology Assignments](/assignments/quarter-1/methodology)
+* [Project Proposal](/assignments/quarter-1/project-proposal)
+* [Result Replication](/assignments/quarter-1/replication-final)
+
+## References
 * [Computing Resources](/student/computing)
 
 ## Instructor Pages
