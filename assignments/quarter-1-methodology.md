@@ -2,7 +2,7 @@
 layout: page
 title: Methodology Assignments
 doodle: /doodle.png
-permalink: /assignments/quarter-1/methodology
+permalink: /assignments/quarter-1-methodology
 ---
 
 ---

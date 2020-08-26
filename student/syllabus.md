@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabus (Quarter 1)
+title: Syllabus
 doodle: /doodle.png
 permalink: /student/syllabus/
 ---
@@ -16,21 +16,18 @@ permalink: /student/syllabus/
 Quarter 1 of the capstone covers two parallel topics:
 1. The basics of “data science methodology” for a large project,
    including best practices for data handling and project
-   reproducibility.
+   reproducibility ("lecture").
 2. Beginning research into your choice of domain. Acquaintance with a
-   domain is made via replicating a specified result on a curated
-   dataset in the listed possible areas (e.g. genetics, cognitive science,
-   computer vision, oceanography, political science, sociology,
-   industry analytics, and art).
+   domain is made via replicating a specified result in a your domain
+   of inquiry ("discussion"). 
    
-
 The replication of the domain result in (2) will use the best
 practices learned in (1). This work then serves as a foundation for
 project proposals due at the end of the quarter. The projects will be
 worked on, in groups, in the second quarter. While the methodology
 portion is taught in a traditional lecture setting, most of the
-material covered in this course will be done through reading, data
-exploration, and ensuing discussion.
+material covered in this course will be done through *self-guided*
+learning: readings, data exploration, and ensuing discussion.
 
 ## Course Components
 
@@ -41,12 +38,15 @@ methodology. There will be accompanying light homework assignments.
 ### Discussion (domain)
 
 Two hours per week will be devoted to discussion about domain specific
-topics, as such you must attend the section for your choice of
-domain. Discussion will involve discussion about reading and
+topics; you must attend the section for your choice of
+domain. Discussion will involve discussion about readings and
 assignments, so it is imperative that you complete the relevant
-assignments before attending discussion section. Each section begins
+assignments *before attending discussion section*. Each section begins
 with a set of questions to which you will write a response; your
-response will serve to stimulate class discussion.
+response will serve to drive the class discussion. **If you do not ask
+questions in discussion section, no discussion will occur.** Domains
+are run by mentors, not instructors; you must actively participate in
+discussion.
 
 ### Remark on how the course is split
 
@@ -63,38 +63,7 @@ solve the problem you are facing.
 
 ## Course Deliverables
 
-###  Methodology HW
-Weekly HW on the lecture component of the course is meant to reinforce
-lecture topics enough to enable you to apply the topics to the
-domain-specific project. **This HW is worked on individually**.
-
-### Replication of a result in chosen domain
-These assignments serve the dual purpose of introducing you to your
-domain of choice, as well as helping you learn the mechanics of
-putting together a project in your specific domain. Your output will
-serve “starter code” for your own project work in Q2. This output
-generally falls into the following categories:
-
-* Literature review (written report)
-* Exploratory data analysis of dataset (written report)
-* Result replication (written report)
-* Data acquisition + cleaning (code)
-* Full project pipeline (code)
-
-**This HW is worked on individually**
-
-### Project proposal
-
-The final course deliverable is a project proposal for the second
-quarter project. **This proposal (along with the project itself) will be
-worked on in small groups.**
-
-* Written proposal (with background research)
-* Skeleton project workflow / github repository / page.
-* Elevator pitch (video on Piazza)
-
-**This proposal (along with the project itself) will be
-worked on in small groups.**
+See the page on [Q1 assignments](/student/assignments)
 
 ## Assessments and Grades
 
@@ -107,6 +76,36 @@ The course grade will be computed using the following proportions:
 |Domain result replication (3 reports)|30%|
 |Domain result replication (workflow)|20%|
 |Project proposal|30%|
+
+### Grading Policy
+
+Implementing a consistent grading scheme for work in such a diverse
+collection of areas is helped by both a clear rubric and a coarse
+grading scheme.
+
+* Each assignment will have a (generally applicable) grading rubric
+  that will help guide your grading. 
+* Each assignment will be graded using a coarse schema that reflects
+  broad checkpoints that students met. This schema helps maintain
+  focus on *large, impactful* things that students can improve on and
+  should reduce grading disaggreements.
+  
+The grading scheme for assignments in the course are given on an
+A/B/C/F scale (without plus/minus). Generally, these grades reflect
+the following criteria (credit: Shannon Ellis),
+
+|Grade|Criteria|
+|---|---|
+|A (4.0) |Accomplishes the task accurately, completely, and clearly. Code is clear, effective, and efficient. Written component is concise, at the appropriate level, and correct. Oral component (when applicable) is effective both visually and explanation; is within the time limit. |
+|B (3.0) |Accomplishes the task well, but lacks some completeness or clarity. Code runs but lacks some aspect of clarity, effectiveness, and or efficiency. Written component is logical and generally correct, but lacks either clarity or accuracy. Oral component (when applicable) is moderately effective and/or slightly outside the time window. |
+|C (2.0) |The task is somewhat accomplished, but lacks significantly when it comes to completeness and clarity. Code present but does not accomplish the task up to the standards of a data science graduating senior. Written component lacks substantial clarity/correctness. Oral component (when applicable) significantly lacks effectiveness/clarity. |
+|F (0.0) |The task largely remains unaccomplished. Code lacks completeness, structure, and is unclear. Written component lacking required information to understand what you did and/or your results. Oral component (when applicable) is nonsensical/unclear. |
+
+
+Final grades will be computed using the grade-points above, using the
+proportions given in the course components table. Letter grades will
+be assigned using the standard university cutoffs.
+
 
 ## Collaboration Policy and Academic Integrity
 

@@ -17,7 +17,7 @@ permalink: /student/domains/
 |---|---|---|---|
 |A01|Explainable AI|WED 12:00 - 12:50 pm|Jurgen Schultze|
 |A02|Autonomous Vehicles|WED 9:00 - 9:50 am|Jack Silberman|
-|A03|Quantifying Artistic Style| WED 9:00 - 9:50 am|Robert Twomey|
+|A03|~~Quantifying Artistic Style~~| ~~WED 9:00 - 9:50 am~~|~~Robert Twomey~~|
 |A04|[Malware and Graph Learning](https://afraenkel.github.io/capstone-malware-domain/)| WED 9:00 - 9:50 am|Aaron Fraenkel|
 |A05|Text Mining and NLP| WED 9:00 - 9:50 am|Jingbo Shang|
 |A06|Recommender Systems| WED 9:00 - 9:50 am|Colin Jemmott|

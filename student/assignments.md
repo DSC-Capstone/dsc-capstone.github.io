@@ -2,7 +2,7 @@
 layout: page
 title: Assignments
 doodle: /doodle.png
-permalink: /student/assignments/
+permalink: /student/assignments
 ---
 
 ---
@@ -11,9 +11,7 @@ permalink: /student/assignments/
 
 ---
 
-## Quarter 1
-
-### Result Replication
+## Result Replication
 
 *This assignment is worked on in groups of 2*.
 
@@ -35,15 +33,15 @@ result replication will allow your own project to more developed,
 nuanced, and sophisticated!
 
 The result replication project is broken into three parts:
-* [Checkpoint 1](/assignments/quarter-1/replication-final)
-* [Checkpoint 2](/assignments/quarter-1/replication-final)
-* [Final Replication](/assignments/quarter-1/replication-final)
+* [Checkpoint 1](/assignments/quarter-1-replication-final)
+* [Checkpoint 2](/assignments/quarter-1-replication-final)
+* [Final Replication](/assignments/quarter-1-replication-final)
 
-### Project Proposal
+## Project Proposal
 
 *This assignment is worked on in your project group of 2-4*.
 
-The [project proposal](/assignments/quarter-1/project-proposal):
+The [project proposal](/assignments/quarter-1-project-proposal):
 * details the problem you will investigate in Quarter 2, 
 * lays out the initial plan for investigation, 
 * gives a verbal 'elevator pitch' describing the relevance of the
@@ -52,9 +50,9 @@ The [project proposal](/assignments/quarter-1/project-proposal):
 The proposal will motivated with due diligence and data-driven
 conclusions, much like a business or grant proposal.
 
-### Methodology Assignments
+## Methodology Assignments
 
-The [methodology assignments](/assignments/quarter-1/methodology)
+The [methodology assignments](/assignments/quarter-1-methodology)
 are weekly assignments that guide you through Data Science project
 basics that will be useful as you work in your chosen
 domain. Generally, these assignments have you apply a new tool or
@@ -64,6 +62,3 @@ parallel lecture topics and fall into the following categories:
 * Best Practices for Compute Environments
 * Effective Scientific Communication
 
-## Quarter 2
-
-TBA

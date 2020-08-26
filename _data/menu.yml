@@ -11,15 +11,15 @@
       url: /student/assignments/
     - text: Staff & Domains
       url: /student/domains/
-# - text: Assignments
-#   url: /assignments/quarter-1/
-#   subitems:
-#     - text: Methodology
-#       url: /assignments/quarter-1/methodology/
-#     - text: Project Proposal
-#       url: /assignments/quarter-1/project-proposal/
-#     - text: Result Replication
-#       url: /assignments/quarter-1/replication-final/
+- text: Assignments
+  url: /assignments/
+  subitems:
+    - text: Methodology
+      url: /assignments/quarter-1-methodology/
+    - text: Project Proposal
+      url: /assignments/quarter-1-project-proposal/
+    - text: Result Replication
+      url: /assignments/quarter-1-replication-final/
 - text: Instructor Pages
   url: /instructor/
   subitems:

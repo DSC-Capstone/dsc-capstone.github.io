@@ -12,9 +12,9 @@ permalink: /
 * [Domains of Inquiry Reference Page](/student/domains)
 
 ## Assignments
-* [Methodology Assignments](/assignments/quarter-1/methodology)
-* [Project Proposal](/assignments/quarter-1/project-proposal)
-* [Result Replication](/assignments/quarter-1/replication-final)
+* [Methodology Assignments](/assignments/quarter-1-methodology)
+* [Project Proposal](/assignments/quarter-1-project-proposal)
+* [Result Replication](/assignments/quarter-1-replication-final)
 
 ## References
 * [Computing Resources](/student/computing)
