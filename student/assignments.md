@@ -32,10 +32,11 @@ work you do on the Quarter 2 project -- building off of a thorough
 result replication will allow your own project to more developed,
 nuanced, and sophisticated!
 
-The result replication project is broken into three parts:
-* [Checkpoint 1](/assignments/quarter-1-replication-final)
-* [Checkpoint 2](/assignments/quarter-1-replication-final)
-* [Final Replication](/assignments/quarter-1-replication-final)
+The [result replication project](/assignments/quarter-1-replication/)
+is broken into three parts:
+* [Checkpoint 1](/assignments/quarter-1-replication/#checkpoint-1)
+* [Checkpoint 2](/assignments/quarter-1-replication/#checkpoint-2)
+* [Final Replication](/assignments/quarter-1-replication#final-report)
 
 ## Project Proposal
 

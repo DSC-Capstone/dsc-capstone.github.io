@@ -14,7 +14,7 @@ permalink: /
 ## Assignments
 * [Methodology Assignments](/assignments/quarter-1-methodology)
 * [Project Proposal](/assignments/quarter-1-project-proposal)
-* [Result Replication](/assignments/quarter-1-replication-final)
+* [Result Replication](/assignments/quarter-1-replication)
 
 ## References
 * [Computing Resources](/student/computing)
