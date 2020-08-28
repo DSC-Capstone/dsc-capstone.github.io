@@ -7,16 +7,16 @@ permalink: /student/schedule/
 
 <style>
 d {
-   color: red;
+   color: Tomato;
 }
 c {
-   color: green; 
+   color: Green; 
 }
 g {
-   color: brown; 
+   color: Violet; 
 }
 f {
-   color: orange; 
+   color: Orange;
 }
 
 </style>
