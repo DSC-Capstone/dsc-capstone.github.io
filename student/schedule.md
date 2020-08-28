@@ -5,25 +5,36 @@ doodle: /doodle.png
 permalink: /student/schedule/
 ---
 
+<style>
+d {
+   color: red;
+}
+c {
+   color: green; 
+}
+g {
+   color: blue; 
+}
+f {
+   color: orange; 
+}
+
+</style>
+
 For a schedule of topics in your domain, please see the course
 material for your discussion section.
 
-Most topics in Q1 ofthe methodology portion fall within the following:
-* **Env**: topics on managing computing environments.
-* **SWDev**: topics on software development for data science.
-* **Comm**: topics in effective written/oral communication.
-
-|Week|Topic (Methodology)|HW Due|
-|---|---|---|
-|1|Env: Servers||
-|2|SWDev: Boilerplate||
-|3|Comm: Anatomy of a Paper||
-|4|Env: Docker||
-|5|SWDev: config vs code||
-|6|Comm: Writing an EDA||
-|7|Env: Kubernetes||
-|8|Comm: Pitches||
-|9|SWDev: Secrets||
-|10|Project Management||
+|Week|Topic (Methodology)|Methodology HW Due|Major Assignments|
+|---|---|---|---|
+|1|<d>Servers</d>|[Methodology Assignment #1](/assignments/quarter-1-methodology#assignment-1)||
+|2|<g>Boilerplate</g>|[Methodology Assignment #2](/assignments/quarter-1-methodology#assignment-2)||
+|3|<c>Anatomy of a Paper</c>|[Methodology Assignment #3](/assignments/quarter-1-methodology#assignment-3)|**[Replication Checkpoint #1]()**|
+|4|<d>Docker</d>|[Methodology Assignment #4](/assignments/quarter-1-methodology#assignment-4)||
+|5|<g>config vs code</g>|[Methodology Assignment #5](/assignments/quarter-1-methodology#assignment-5)|**[Replication Checkpoint #2]()**|
+|6|<c>Writing an EDA</c>|[Methodology Assignment #6](/assignments/quarter-1-methodology#assignment-6)||
+|7|<d>Kubernetes</d>|[Methodology Assignment #7](/assignments/quarter-1-methodology#assignment-7)||
+|8|<c>Pitches</c>|[Methodology Assignment #8](/assignments/quarter-1-methodology#assignment-8)||
+|9|<g>Secrets</g>|[Methodology Assignment #9](/assignments/quarter-1-methodology#assignment-9)|**[Project Proposal]()**|
+|10|<f>Project Management</f>||**[Final Replication]()**|
 
 

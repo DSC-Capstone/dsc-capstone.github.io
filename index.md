@@ -7,9 +7,9 @@ permalink: /
 
 ## Student Pages
 * [Syllabus](/student/syllabus)
-* [Schedule](/student/schedule)
+* [Course Schedule](/student/schedule)
 * [Assignments](/student/assignments)
-* [Domains of Inquiry Reference Page](/student/domains)
+* [Domains/Mentor Directory](/student/domains)
 
 ## Assignments
 * [Methodology Assignments](/assignments/quarter-1-methodology)
