@@ -13,7 +13,7 @@ c {
    color: green; 
 }
 g {
-   color: blue; 
+   color: yellow; 
 }
 f {
    color: orange; 
