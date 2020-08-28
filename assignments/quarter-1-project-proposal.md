@@ -2,7 +2,6 @@
 layout: page
 title: Project Proposal
 doodle: /doodle.png
-permalink: /assignments/quarter-1-project-proposal
 ---
 
 The project proposal consists of three parts:

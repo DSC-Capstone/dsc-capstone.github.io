@@ -2,7 +2,6 @@
 layout: page
 title: Methodology Assignments
 doodle: /doodle.png
-permalink: /assignments/quarter-1-methodology
 ---
 
 ---
@@ -25,7 +24,7 @@ SW Dev: Organizing your files; templates
 
 ## Assignment 3
 
-WRiting: Analyzing the structure of a scientific paper
+Writing: Analyzing the structure of a scientific paper
 
 ---
 

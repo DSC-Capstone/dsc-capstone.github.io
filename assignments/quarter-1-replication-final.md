@@ -2,7 +2,6 @@
 layout: page
 title: Result Replication
 doodle: /doodle.png
-permalink: /assignments/quarter-1-replication-final
 ---
 
 
