@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Assignments
+title: Description of Assignments
 doodle: /doodle.png
 permalink: /student/assignments
 ---

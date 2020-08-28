@@ -8,7 +8,7 @@ permalink: /
 ## Student Pages
 * [Syllabus](/student/syllabus)
 * [Course Schedule](/student/schedule)
-* [Assignments](/student/assignments)
+* [Description of Assignments](/student/assignments)
 * [Domains/Mentor Directory](/student/domains)
 
 ## Assignments
