@@ -26,7 +26,7 @@ permalink: /student/domains/
 |A09|Spatial-temporal Analyses of Infectious Disease Dynamics| THURS 11:00 - 11:50 am|Yian Ma|
 |B01|Graph Data Analysis|WED 10:00 - 10:50 am|Gal Mishne|
 |B02|The Spread of Misinformation|WED 10:00 - 10:50 am|Justin Eldridge|
-|B03|Conflict and Collaboration in Online Communities|WED 10:00 - 10:50 am|Aaron Fraenkel|
+|B03|[Conflict and Collaboration in Online Communities](https://afraenkel.github.io/capstone-wiki-domain/)|WED 10:00 - 10:50 am|Aaron Fraenkel|
 |B04|Genetic Basis of Mental Health|WED 10:00 - 10:50 am|Shannon Ellis|
 |B05|VPN X-Ray|WED 10:00 - 10:50 am|Viasat|
 |B06|Particle Physics|WED 3:00 - 3:50 pm| Frank Weuthwein|
