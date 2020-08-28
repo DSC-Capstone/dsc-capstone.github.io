@@ -16,8 +16,11 @@ permalink: /
 * [Project Proposal](/assignments/quarter-1-project-proposal)
 * [Result Replication](/assignments/quarter-1-replication)
 
-## References
-* [Computing Resources](/student/computing)
+## Resources
+* [Computing Resources](/resources/computing)
+* [Software Development for Data Science](/resources/swdev)
+* [Effective Communication](/resources/communication)
+
 
 ## Instructor Pages
 * [Potential mentor FAQ](/instructor/faq)

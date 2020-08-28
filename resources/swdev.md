@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Computing Resources
+title: Software Development for Data Science
 doodle: /doodle.png
 ---
 

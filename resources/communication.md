@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Computing Resources
+title: Effective Communication
 doodle: /doodle.png
 ---
 
