@@ -16,7 +16,7 @@ g {
    color: Violet; 
 }
 f {
-   color: Orange;
+   color: Gray;
 }
 
 </style>
