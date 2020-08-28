@@ -12,9 +12,9 @@ permalink: /
 * [Domains/Mentor Directory](/student/domains)
 
 ## Assignments
-* [Methodology Assignments](/assignments/quarter-1-methodology.html)
-* [Project Proposal](/assignments/quarter-1-project-proposal.html)
-* [Result Replication](/assignments/quarter-1-replication-final.html)
+* [Methodology Assignments](/assignments/quarter-1-methodology)
+* [Project Proposal](/assignments/quarter-1-project-proposal)
+* [Result Replication](/assignments/quarter-1-replication-final)
 
 ## References
 * [Computing Resources](/student/computing)
