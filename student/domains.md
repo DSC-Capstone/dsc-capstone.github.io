@@ -16,7 +16,7 @@ permalink: /student/domains/
 |Section #|Title|Time|Location|Mentor|
 |---|---|---|---|---|
 |A01|Explainable AI|WED 12:00 - 12:50 pm|CSB 002|Jurgen Schultze|
-|A02|Autonomous Vehicles|WED 9:00 - 9:50 am|CSB 002|Jack Silberman|
+|A02|Autonomous Vehicles|WED 9:00 - 9:50 am|~~CSB 002~~ REMOTE|Jack Silberman|
 |A03|CANCELLED ~~Quantifying Artistic Style~~| ~~WED 9:00 - 9:50 am~~||~~Robert Twomey~~|
 |A04|[Malware and Graph Learning](https://afraenkel.github.io/capstone-malware-domain/)| WED 9:00 - 9:50 am|REMOTE|Aaron Fraenkel|
 |A05|Text Mining and NLP| WED 9:00 - 9:50 am|~~CSB 001~~ REMOTE|Jingbo Shang|
