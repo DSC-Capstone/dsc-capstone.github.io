@@ -29,7 +29,7 @@ permalink: /student/domains/
 |B03|[Conflict and Collaboration in Online Communities](https://afraenkel.github.io/capstone-wiki-domain/)|WED 10:00 - 10:50 am|REMOTE|Aaron Fraenkel|
 |B04|Genetic Basis of Mental Health|WED 10:00 - 10:50 am|WLH 2005|Shannon Ellis|
 |B05|VPN X-Ray|WED 10:00 - 10:50 am|SOLIS 104|Viasat|
-|B06|Particle Physics|WED 3:00 - 3:50 pm|PETER 102|Frank Weuthwein & Javier Duarte|
+|B06|Particle Physics|WED 3:00 - 3:50 pm|~~PETER 102~~ REMOTE|Frank Weuthwein & Javier Duarte|
 |B07|COVID-19 & Microbiome|WED 10:00 - 10:50 am|~~CENTR 115~~ REMOTE|Rob Knight|
 |B08|Cyber-Physical Systems (CPS) using IOT Devices|WED 10:00 - 10:50 am|REMOTE|Rajesh Gupta|
 |B09|System Usage Reporting (SUR, a.k.a. DCA)|FRI 11:00 - 11:50 am|REMOTE|Intel|
