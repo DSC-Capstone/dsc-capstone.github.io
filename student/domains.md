@@ -33,7 +33,7 @@ permalink: /student/domains/
 |B07|COVID-19 & Microbiome|WED 10:00 - 10:50 am|~~CENTR 115~~ REMOTE|Rob Knight|
 |B08|Cyber-Physical Systems (CPS) using IOT Devices|WED 10:00 - 10:50 am|REMOTE|Rajesh Gupta|
 |B09|System Usage Reporting (SUR, a.k.a. DCA)|FRI 11:00 - 11:50 am|REMOTE|Intel|
-
+|B10|Spatial Agent-based Modeling for School Reopening|WED 10:00 - 10:50 am|REMOTE|Ilya Zaslavsky|
 
 ## Course Staff
 
