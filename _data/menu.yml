@@ -16,6 +16,8 @@
   subitems:
     - text: Methodology
       url: /assignments/quarter-1-methodology/
+    - text: Participation
+      url: /assignments/quarter-1-participation/
     - text: Project Proposal
       url: /assignments/quarter-1-project-proposal/
     - text: Result Replication
