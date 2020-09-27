@@ -32,6 +32,10 @@
   subitems:
     - text: Computing Resources
       url: /resources/computing/
+    - text: Software Development for Data Science
+      url: /resources/swdev/
+    - text: Effective Communication
+      url: /resources/communication/
 - text: Archive
   url: /projects/
   subitems:

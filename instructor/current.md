@@ -93,6 +93,11 @@ You may find it useful to have students make appointments for office hours.
 
 ### Assignments
 
+All assignments in the course are "default assignments", suitably
+generic for any domain. However, if any assignment does not fit with
+your plans for your domain, feel free to adapt the default assignment
+for your students.
+
 **Large Assignments:** Quarter 1 consists of two primary assignments
 that are largely fixed across all domains:
 1. A [result replication](/student/assignments#result-replication), and
@@ -103,11 +108,21 @@ assignments doesn't fit with your domain, you can add additional
 domain-specific criteria; let staff and students know of these
 criteria.
 
-**Small Assignments:** Students complete small, [weekly assignments](/student/assignments#methodology-assignments)
-related to data science methodologies (software development; compute
-environments; effective communication). These weekly assignments
-independent of your domain, though you may find it useful to know what
-student's are learning parallel to their work in their domain.
+**Small Assignments:** 
+
+1. Students must participate in discussion; it is part of their
+   grade. To encourage well thought out discussion, students must also
+   submit their thoughts, in writing, on Canvas 24 hours before
+   discussion. You might find it useful to read student submissions
+   before section to structure discussion. You may also supply more
+   specific questions for students to answer. See
+   [Particpation](/student/assignments#Participation) for more detail.
+2. Students complete small, [weekly
+   assignments](/student/assignments#methodology-assignments)
+   related to data science methodologies (software development; compute
+   environments; effective communication). These weekly assignments
+   independent of your domain, though you may find it useful to know what
+   student's are learning parallel to their work in their domain.
 
 ### Grading
 
@@ -166,6 +181,16 @@ the following criteria (credit: Shannon Ellis),
 Final grades will be computed using the grade-points above, using the
 proportions given in the course components table. Letter grades will
 be assigned using the standard university cutoffs.
+
+### Student Compute Resources
+
+Alongside personal laptops, students will use the campus ITS [DSMLP
+Cluster](https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html). This
+is a Kubernetes cluster where students can specify their compute
+resources and a data science environment in which to work.
+
+Later in the first quarter, students will create and use a Dockerfile
+for deploying their data science environment on the DSMLP cluster.
 
 ---
 

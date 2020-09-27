@@ -63,3 +63,19 @@ parallel lecture topics and fall into the following categories:
 * Best Practices for Compute Environments
 * Effective Scientific Communication
 
+## Participation
+
+Each week, at least 24 hours prior to meeting with your domain, [submit
+material for discussion](/assignments/quarter-1-participation) on
+Canvas. This submission serves the following purposes:
+* It serves as a regular self-evaluation tool and place to gather your
+  thoughts, so that you can address difficulties in a timely
+  manner. The precision reqired of doing this in writing holds your
+  critical assessment of your understanding to a higher bar.
+* It allows your domain mentor to structure discussion *ahead* of
+  time, if they so choose.
+
+**Note**: As every domain is different, your mentor may choose to have
+you answer different questions than the one below. This assignment is
+merely a *default* assignment. However, you should always be turning
+something in.
