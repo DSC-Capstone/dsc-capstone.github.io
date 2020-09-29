@@ -10,6 +10,12 @@ doodle: /doodle.png
 
 ---
 
+## Assignment 0
+
+Syllabus Quiz
+
+---
+
 ## Assignment 1
 
 Envs: Intro to the server; remote vs local work.
