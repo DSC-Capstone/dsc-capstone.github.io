@@ -29,6 +29,13 @@ portion is taught in a traditional lecture setting, most of the
 material covered in this course will be done through *self-guided*
 learning: readings, data exploration, and ensuing discussion.
 
+Data Scientists typically work on projects in groups. As such, large
+assignments throughout the sequence (the replication; project
+proposal; project itself) are worked on in groups. Like in a career or
+research situation, these groups will be formed using a variety of
+factors, including academic background, mutual interests, and a little
+randomness.
+
 ## Course Components
 
 ### Lecture (data science methodology)
