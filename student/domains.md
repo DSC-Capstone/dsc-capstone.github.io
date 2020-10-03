@@ -15,7 +15,7 @@ permalink: /student/domains/
 
 |Section #|Title|Time|Location|Mentor|
 |---|---|---|---|---|
-|A01|Explainable AI|WED 12:00 - 12:50 pm|CSB 002|Jurgen Schultze|
+|A01|[Explainable AI](http://ivl.calit2.net/wiki/index.php/DSC_Capstone2020)|WED 12:00 - 12:50 pm|CSB 002|Jurgen Schultze|
 |A02|Autonomous Vehicles|WED 9:00 - 9:50 am|~~CSB 002~~ REMOTE|Jack Silberman|
 |A03|CANCELLED ~~Quantifying Artistic Style~~| ~~WED 9:00 - 9:50 am~~||~~Robert Twomey~~|
 |A04|[Malware and Graph Learning](https://afraenkel.github.io/capstone-malware-domain/)| WED 9:00 - 9:50 am|REMOTE|Aaron Fraenkel|
@@ -27,7 +27,7 @@ permalink: /student/domains/
 |B01|[Graph Data Analysis](https://gmishne.github.io/capstone-graph-analysis/)|WED 10:00 - 10:50 am|~~CSB 002~~ REMOTE|Gal Mishne|
 |B02|The Spread of Misinformation|WED 10:00 - 10:50 am|CSB 001|Justin Eldridge|
 |B03|[Conflict and Collaboration in Online Communities](https://afraenkel.github.io/capstone-wiki-domain/)|WED 10:00 - 10:50 am|REMOTE|Aaron Fraenkel|
-|B04|Genetic Basis of Mental Health|WED 10:00 - 10:50 am|~~WLH 2005~~ REMOTE|Shannon Ellis|
+|B04|[Genetic Basis of Mental Health](https://shanellis.github.io/capstone-genetics-domain)|WED 10:00 - 10:50 am|~~WLH 2005~~ REMOTE|Shannon Ellis|
 |B05|VPN X-Ray|WED 10:00 - 10:50 am|SOLIS 104|Viasat|
 |B06|[Particle Physics](https://jmduarte.github.io/capstone-particle-physics-domain)|WED 3:00 - 3:50 pm|~~PETER 102~~ REMOTE|Frank Weuthwein & Javier Duarte|
 |B07|COVID-19 & Microbiome|WED 10:00 - 10:50 am|~~CENTR 115~~ REMOTE|Rob Knight|
@@ -35,5 +35,5 @@ permalink: /student/domains/
 |B09|System Usage Reporting (SUR, a.k.a. DCA)|FRI 11:00 - 11:50 am|REMOTE|Intel|
 |B10|Spatial Agent-based Modeling for School Reopening|WED 10:00 - 10:50 am|REMOTE|Ilya Zaslavsky|
 
-## Course Staff
+
 
