@@ -17,7 +17,8 @@ following purposes:
 **Note**: As every domain is different, your mentor may choose to have
 you answer different questions than the one below. This assignment is
 merely a *default* assignment. However, you should always be turning
-something in.
+something in (with the exception of the first, when your mentor may
+not have assigned you any readings or tasks).
 
 Please turn in answers to the following questions to Canvas. You may
 choose to answer any combination of 1,2,3 from below, as long as you
