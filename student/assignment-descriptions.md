@@ -2,7 +2,7 @@
 layout: page
 title: Description of Assignments
 doodle: /doodle.png
-permalink: /student/assignments
+permalink: /student/assignment-descriptions
 ---
 
 ---
