@@ -12,7 +12,7 @@ doodle: /doodle.png
 
 ## Assignment 0
 
-Syllabus Quiz
+Syllabus Quiz: See Gradescope.
 
 ---
 
