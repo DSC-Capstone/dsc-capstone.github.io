@@ -45,15 +45,15 @@ methodology. There will be accompanying light homework assignments.
 ### Discussion (domain)
 
 Two hours per week will be devoted to discussion about domain specific
-topics; you must attend the section for your choice of
-domain. Discussion will involve discussion about readings and
-assignments, so it is imperative that you complete the relevant
-assignments *before attending discussion section*. Each section begins
-with a set of questions to which you will write a response; your
-response will serve to drive the class discussion. **If you do not ask
-questions in discussion section, no discussion will occur.** Domains
-are run by mentors, not instructors; you must actively participate in
-discussion.
+topics (1hr in section; 1hr in office hours); you must attend the
+section for your choice of domain. Discussion will involve discussion
+about readings and assignments, so it is imperative that you complete
+the relevant assignments *before attending discussion section*. Each
+section begins with a set of questions to which you will write a
+response; your response will serve to drive the class discussion. **If
+you do not ask questions in discussion section, no discussion will
+occur.** Domains are run by mentors, not instructors; you must
+actively participate in discussion.
 
 ### Remark on how the course is split
 
