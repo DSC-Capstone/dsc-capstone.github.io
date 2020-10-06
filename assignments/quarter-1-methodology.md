@@ -18,8 +18,8 @@ Syllabus Quiz: See Gradescope.
 
 ## Assignment 1 -- Using Remote Servers
 
-Follow the instructions in Lecture
-02 (Slide: logging-into DSMLP Server)
+Follow the instructions in [Lecture
+02](/resources/lecture-notes/Lecture02_Servers.pdf)
 and the [documentation](resources/computing/) to log onto a
 configurable campus server.
 
