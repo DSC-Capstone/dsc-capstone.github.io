@@ -16,12 +16,12 @@ Syllabus Quiz: See Gradescope.
 
 ---
 
-## Assignment 1 -- Using Remote Servers
+## Assignment 1 -- Using the DSMLP Server
 
 Follow the instructions in [Lecture
 02](/resources/lecture-notes/Lecture02_Servers.pdf)
 and the [documentation](/resources/computing/) to log onto a
-configurable campus server.
+configurable campus server (DSMLP).
 
 Note, that in some cases, your username for logging-in may not be your
 usual username:
