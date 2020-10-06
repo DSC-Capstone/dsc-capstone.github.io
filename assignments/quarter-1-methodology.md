@@ -20,7 +20,7 @@ Syllabus Quiz: See Gradescope.
 
 Follow the instructions in [Lecture
 02](/resources/lecture-notes/Lecture02_Servers.pdf)
-and the [documentation](resources/computing/) to log onto a
+and the [documentation](/resources/computing/) to log onto a
 configurable campus server.
 
 Note, that in some cases, your username for logging-in may not be your
