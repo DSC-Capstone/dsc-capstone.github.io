@@ -16,7 +16,7 @@ Syllabus Quiz: See Gradescope.
 
 ---
 
-## Assignment 1 -- Using the DSMLP Server
+## Assignment 1
 
 Follow the instructions in [Lecture
 02](/resources/lecture-notes/Lecture02_Servers.pdf)
