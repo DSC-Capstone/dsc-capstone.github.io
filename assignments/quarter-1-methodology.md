@@ -51,7 +51,7 @@ This is a multi-step process:
 3. On the jumpbox-server, run the command `uname -a >
    uname-jumpbox.txt` (this gives server info and saves it to a file
    called `uname-jumpbox.txt`.
-4. On the jump-box server, run the command `echo ~ > homdir.txt`.
+4. On the jump-box server, run the command `echo ~ > homedir.txt`.
 5. Launch a container using the script `launch-scipy-ml.sh` and run
    the command `uname -a > uname-container.txt`.
 6. Open a Jupyter Notebook from the URL given on the container's
