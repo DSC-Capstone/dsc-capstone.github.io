@@ -1,4 +1,8 @@
-# Command Line Interface
+---
+layout: page
+title: Command Line Interface
+doodle: /doodle.png
+---
 
 Following are the basic commands that you should be familiar with to smoothly work on a remote system:
 
