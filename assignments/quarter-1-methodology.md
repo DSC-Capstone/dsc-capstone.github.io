@@ -67,7 +67,23 @@ This is a multi-step process:
 
 ## Assignment 2
 
-SW Dev: Organizing your files; templates
+Review the last portion of Lecture 3 on 'Structuring a Project' and
+create the project structure for your result replication project.
+
+* create a private GitHub repository with the directories/files
+  discussed in lecture: `src`, `notebooks`, `config`, `references`,
+  `run.py`, `.gitignore`, `README.md`. 
+* Create 'stub files' in the directories as placeholders, as
+  well. Stub files can be empty, but should have the correct
+  extensions. 
+* Your `.gitignore` file should have content.
+
+You may find [this
+repository](https://github.com/DSC-Capstone/project-templates) useful,
+as an example.
+
+*Bonus:* Begin writing the code for your replication within this
+project structure!
 
 ---
 
