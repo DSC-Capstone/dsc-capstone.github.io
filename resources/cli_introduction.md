@@ -8,7 +8,7 @@ Following are the basic commands that you should be familiar with to smoothly wo
 
 ## Manuals
 
-Most of the following commands have a man page. So if you want to quickly find the flags or how to run the command just run `man <command>` or, you know, google it.
+Most of the following commands have a `man` page (short for 'manual'). So if you want to quickly find the flags or how to run the command just run `man <command>` or, you know, google it.
 
 ## File Handling
 `vim` - A cli text editor. Handy to quickly go through and edit files on a remote system.

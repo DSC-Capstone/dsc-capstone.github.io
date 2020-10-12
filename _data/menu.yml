@@ -29,6 +29,8 @@
       url: /instructor/faq/
     - text: Current Mentor Guide
       url: /instructor/current/
+    - text: Week-by-Week Guide
+      url: /instructor/week-by-week/
 - text: Resources
   url: /resources/
   subitems:

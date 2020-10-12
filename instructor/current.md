@@ -58,10 +58,13 @@ The schedule follows a reasonable cadence for Quarter 1:
 |Possible Extensions|2-3|
 |Elevator Pitch|1|
 
-
 ---
 
 ## Running Quarter 1 (Intro to Domain)
+
+For a week-by-week reference of what students will be doing in
+lecture and in their assignments, and how this relates to running a
+domain, see the [week-by-week guide](/instructor/week-by-week).
 
 ### Weekly Discussions
 

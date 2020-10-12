@@ -23,8 +23,9 @@ permalink: /
 
 
 ## Instructor Pages
-* [Potential mentor FAQ](/instructor/faq)
+* [Potential Mentor FAQ](/instructor/faq)
 * [Current Mentor Guide](/instructor/current)
+* [Week-by-Week Guide](/instructor/week-by-week)
 
 ## Archive
 * [Projects (2019-2020)](https://dsc-capstone.github.io/projects-2019-2020/)
