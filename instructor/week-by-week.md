@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Domain Mentor Guide
+title: Week-by-Week: What to be aware of
 doodle: /doodle.png
 permalink: /instructor/week-by-week/
 ---
