@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week-by-Week - what to be aware of in section.
+title: Useful course information, by week.
 doodle: /doodle.png
 permalink: /instructor/week-by-week/
 ---
