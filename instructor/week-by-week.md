@@ -22,6 +22,7 @@ of the course, especially when it relates to the domains in some way.
 * Students must turn in a 'participation' assignment every week, 24hrs
   before section meets. Mentors don't need to create their own
   assignments. See [here](/assignments/quarter-1-participation).
+* [Lecture Notes](/resources/lecture-notes/Lecture01_Intro.pdf)
 
 ## Week 1
 
@@ -33,6 +34,7 @@ of the course, especially when it relates to the domains in some way.
 * Domain mentors who wish to use the cluster (and/or store data there)
   can use a course account (each domain has their own). Contact course
   staff for access.
+* [Lecture Notes](/resources/lecture-notes/Lecture02_Servers.pdf)
 
 ## Week 2
 
@@ -42,6 +44,7 @@ of the course, especially when it relates to the domains in some way.
   domain and make it clear what their 'project replication' will
   consist of (either, a specific paper, or a clear topic/roadmap for
   creating their own survey paper).
+* [Lecture Notes](/resources/lecture-notes/Lecture03_Project_Org.pdf)
 
 ## Week 3
 
