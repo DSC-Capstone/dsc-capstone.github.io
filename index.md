@@ -20,6 +20,7 @@ permalink: /
 * [Computing Resources](/resources/computing)
 * [Software Development for Data Science](/resources/swdev)
 * [Effective Communication](/resources/communication)
+* [Command Line Introduction](/resources/cli_introduction)
 
 
 ## Instructor Pages
