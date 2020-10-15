@@ -12,6 +12,8 @@ doodle: /doodle.png
 
 ## Introduction
 
+*This assignment is worked on in pairs*.
+
 This quarter, each domain works through a central problem that
 introduces you to the area. Depending on the domain, you will produce
 either:
