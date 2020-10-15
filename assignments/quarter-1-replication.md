@@ -12,24 +12,29 @@ doodle: /doodle.png
 
 ## Introduction
 
-This quarter, each domain works through central problem that
-introduces you to the area. This problem usually takes the form of a
-(loose) replication of a known result found in a research paper in the
-area. By the end of the quarter, you will need to summarize the results of
+This quarter, each domain works through a central problem that
+introduces you to the area. Depending on the domain, you will produce
+either:
+1. a replication of a known result in a (published) paper, or
+2. a survey paper, with a hands-on, data driven inquiry
+   into a relevant question in the area.
+
+By the end of the quarter, you will summarize the results of
 your work in a well-organized report that follows the norms of
 research papers in your domain.
 
-Your work will go beyond mere paraprhasing of the (possible) paper
-being replicated:
-* Your domain may be taking a different or narrower view than the work
-  being replicated. Your report will reflect the work *you* are doing,
+Your work will go beyond mere paraprhasing of the existing work that
+you study:
+* Your domain may be taking a broader or narrower view than the work
+  of any one paper. Your report will reflect the work *you* are doing,
   not the broader research that may be found in the work being
   studied.
 * You will likely be using data that differs from that used in the
   work you are studying.
 * Your conclusions may be different than the work you are
-  studying. You should present the conclusions drawn from *your* data
-  and address any discrepancies with the work being studied.
+  studying. You should present the conclusions drawn from *your*
+  data/methods and address any discrepancies with the work being
+  studied.
 * The code supporting your work will conform to best practices in data
   science software development.
   
@@ -76,33 +81,53 @@ grade*.
 
 ### Checkpoint #1
 
-TODO
+Report portion:
 
-Report:
-* Introduction (problem statement)
-* Background / Literature Review
-* Description of Data Generation Process
-  - In case of a 'methods' focused project, focus on the type of data
-    for which the method is appropriate.
-* Basic description of observed data (e.g. relevant schematics, etc)
+Write an introduction, as laid out in lecture. This includes:
+1. An explanation of the problem being investigated.
+2. A brief explanation of the context of the problem and why it's
+   interesting.
+3. A description of either:
+   * the data generation process and its relationship to the problem
+     (i.e. for domain problems)
+   * the type of data for which the method is appropriate
+     (i.e. for methods problems)
+* Basic description of observed data used in the investigation and why
+  it's appropriate for addressing the problem.
 
-Code:
-* Data ingestion pipeline
-* Documentation (including addressing privacy concerns; design considerations)
+This introduction should be turned in as a PDF and conform to
+standards set in both lecture and your domain.
+
+Code Portion:
+
+Your code should be turned in via GitHub. It should:
+* conform to the template structure discussed in lecture,
+* contain a rudimentary data ingestion pipeline,
+* include documentation both in your README.md, describing the purpose
+  of the code, its contents, and how to run it.
+* be runnable runnable via the command `python run.py data`. Include a
+  `data-params.json` file in the `config` directory, which specifies
+  any data-input locations. If your data-ingestion requires data that
+  is on your local computer, include a copy of the data in your
+  domain's `/teams` directory on the DSMLP server and include that
+  location in your `data-params.json`.
+
 
 ### Checkpoint #2
 
 TODO
 
-Report:
-* Data Quality Assessment; 'relevant' EDA
-  - justify cleaning
-* Description/implememtation of methods
+Report Portion:
+
+* Write an EDA that gives a data-driven argument for why the data that
+you use is appropriate for answering the question in the problem laid
+out in your introduction.
+* Write a description of of the methods used in the investigation.
 
 Code:
 * Develop cleaning code.
 * Develop code that generates analysis/figures for EDA.
-* Code up the methods that generate results.
+* Implement the methods that generate results.
 
 ### Final Report
 
