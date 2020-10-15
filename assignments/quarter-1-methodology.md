@@ -90,6 +90,14 @@ project structure!
 ## Assignment 3
 
 Writing: Analyzing the structure of a scientific paper
+* Take a paper being studied in your domain and analyze it according
+  to lecture. In particular map each section in your paper to the
+  corresponding concept in lecture.
+* In preparation of checkpoint-1
+  1. write a once sentence summary of each section of your
+     introduction. 
+  2. Draw the main table of results of your paper, be as specific as
+     possible.
 
 ---
 
