@@ -1,4 +1,8 @@
-# CLI
+---
+layout: page
+title: CLI Tutorial
+doodle: /doodle.png
+---
 
 ## Logging in
 Run `ssh <USERNAME>@dsmlp-login.ucsd.edu`. Please, please read the next sentence. Replace `<USERNAME>` with your username.
