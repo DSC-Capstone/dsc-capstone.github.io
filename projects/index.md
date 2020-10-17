@@ -1,5 +1,5 @@
 ---
 layout: index
 title: Archive
-doodle: /doodle.png
+doodle: /assets/images/doodle.png
 ---

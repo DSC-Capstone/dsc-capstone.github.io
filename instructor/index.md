@@ -1,5 +1,5 @@
 ---
 layout: index
 title: Instructor Resources
-doodle: /doodle.png
+doodle: /assets/images/doodle.png
 ---

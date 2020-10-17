@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Methodology Assignments
-doodle: /doodle.png
+doodle: /assets/images/doodle.png
 ---
 
 ---

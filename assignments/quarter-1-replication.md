@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Result Replication
-doodle: /doodle.png
+doodle: /assets/images/doodle.png
 ---
 
 ---

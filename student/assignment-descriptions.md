@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Description of Assignments
-doodle: /doodle.png
+doodle: /assets/images/doodle.png
 permalink: /student/assignment-descriptions/
 ---
 

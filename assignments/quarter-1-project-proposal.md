@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Proposal
-doodle: /doodle.png
+doodle: /assets/images/doodle.png
 ---
 
 The project proposal consists of three parts:

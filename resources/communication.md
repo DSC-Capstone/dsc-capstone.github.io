@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Effective Communication
-doodle: /doodle.png
+doodle: /assets/images/doodle.png
 ---
 
 Material To Come

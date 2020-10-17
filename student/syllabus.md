@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-doodle: /doodle.png
+doodle: /assets/images/doodle.png
 permalink: /student/syllabus/
 ---
 

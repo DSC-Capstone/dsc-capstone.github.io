@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Command Line Interface
-doodle: /doodle.png
+doodle: /assets/images/doodle.png
 ---
 
 Following are the basic commands that you should be familiar with to smoothly work on a remote system:
@@ -17,7 +17,7 @@ Most of the following commands have a `man` page (short for 'manual'). So if you
 
 `git` - This is a must learn tool for any self-respecting students who deals with code and hates files with name such as assignment_final_final_v4[3].py
 
-<img src="/fire.png" data-canonical-src="https://www.instagram.com/p/8N8J8wRgPq/?utm_source=ig_web_copy_link" width="200" height="200" />
+<img src="/assets/images/fire.png" data-canonical-src="https://www.instagram.com/p/8N8J8wRgPq/?utm_source=ig_web_copy_link" width="200" height="200" />
 
 [Image Source](https://www.instagram.com/p/8N8J8wRgPq/?utm_source=ig_web_copy_link)
 

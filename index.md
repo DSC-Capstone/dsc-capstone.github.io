@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "UCSD Data Science Capstone"
-doodle: "/doodle.png"
+doodle: "/assets/images/doodle.png"
 permalink: /
 ---
 
@@ -20,6 +20,7 @@ permalink: /
 * [Computing Resources](/resources/computing)
 * [Software Development for Data Science](/resources/swdev)
 * [Effective Communication](/resources/communication)
+* [Methodology Lecture Notes](/resources/lecture_notes)
 
 ## Instructor Pages
 * [Potential Mentor FAQ](/instructor/faq)

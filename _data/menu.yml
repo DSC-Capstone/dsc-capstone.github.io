@@ -40,6 +40,8 @@
       url: /resources/swdev/
     - text: Effective Communication
       url: /resources/communication/
+    - text: Methodology Lecture Notes
+      url: /resources/lecture_notes/
 - text: Archive
   url: /projects/
   subitems:

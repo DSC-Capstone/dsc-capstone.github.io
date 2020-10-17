@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Staff Reference Page
-doodle: /doodle.png
+doodle: /assets/images/doodle.png
 permalink: /student/domains/
 ---
 

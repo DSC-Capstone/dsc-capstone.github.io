@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CLI Tutorial
-doodle: /doodle.png
+doodle: /assets/images/doodle.png
 ---
 
 ## Logging in

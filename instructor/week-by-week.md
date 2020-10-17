@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Useful course information, by week.
-doodle: /doodle.png
+doodle: /assets/images/doodle.png
 permalink: /instructor/week-by-week/
 ---
 

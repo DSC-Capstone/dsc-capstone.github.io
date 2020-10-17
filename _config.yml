@@ -4,3 +4,8 @@ source: .
 destination: _site
 url: "https://dsc-capstone.github.io/"
 permalink: /:url/
+defaults:
+  - scope:
+      path: "resources/lecture-notes"
+    values:
+      lecture_notes: true

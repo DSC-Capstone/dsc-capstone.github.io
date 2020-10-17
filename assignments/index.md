@@ -1,7 +1,7 @@
 ---
 layout: index
 title: Assignments
-doodle: /doodle.png
+doodle: /assets/images/doodle.png
 ---
 
 For summaries of each assignment, visit [this page](/student/assignment-descriptions).

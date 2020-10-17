@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Participation
-doodle: /doodle.png
+doodle: /assets/images/doodle.png
 ---
 
 Each week, at least 24 hours prior to meeting with your domain, submit
