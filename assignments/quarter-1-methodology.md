@@ -92,12 +92,19 @@ project structure!
 Writing: Analyzing the structure of a scientific paper
 * Take a paper being studied in your domain and analyze it according
   to lecture. In particular map each section in your paper to the
-  corresponding concept in lecture.
-* In preparation of checkpoint-1
-  1. write a once sentence summary of each section of your
-     introduction. 
-  2. Draw the main table of results of your paper, be as specific as
+  corresponding concept in lecture (do not turn in).
+* In preparation of checkpoint-1 for your replication/survey paper:
+  1. Write a one sentence summary of the problem being investigated
+     in conrete, testable terms.
+  2. Draw the main table/figure of results of your paper, be as specific as
      possible.
+  3. Write one sentence on the broader applicability of the
+     result. Why is it impactful?
+     
+The content of the answers to all three of these questions should find
+their way into your introduction. If your domain is having you write a
+survey paper (as opposed to a replication), you may need to
+incorporate material from multiple paper to summarize your Q1 investigation!
 
 ---
 
