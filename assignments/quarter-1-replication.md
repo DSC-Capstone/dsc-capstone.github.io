@@ -94,8 +94,9 @@ Write an introduction, as laid out in lecture. This includes:
      (i.e. for domain problems)
    * the type of data for which the method is appropriate
      (i.e. for methods problems)
-* Basic description of observed data used in the investigation and why
-  it's appropriate for addressing the problem.
+4. Basic description of observed data used in the investigation and
+   why it's appropriate for addressing the problem.
+   
 
 This introduction should be turned in as a PDF and conform to
 standards set in both lecture and your domain.
