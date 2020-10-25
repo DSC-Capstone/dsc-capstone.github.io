@@ -115,6 +115,8 @@ Your code should be turned in via GitHub. It should:
   domain's `/teams` directory on the DSMLP server and include that
   location in your `data-params.json`.
 
+For both the Report and Code Portion, **write in a Canvas comment
+listing what tasks each group member was responsible for**.
 
 ### Checkpoint #2
 
