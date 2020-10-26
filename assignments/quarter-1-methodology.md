@@ -110,7 +110,117 @@ incorporate material from multiple paper to summarize your Q1 investigation!
 
 ## Assignment 4
 
-Envs: Dockerfiles
+### Docker
+
+What is Docker? Go check the lecture slides for a formal definition
+and details as you work through this assignment.
+
+But to put in very easy to understand terms, Docker is the solution to
+the following problem: "Incompatible library version: whoops.so
+requires version a.b.c or later, but you currently have version x.y.z"
+And when you fix that something some other application breaks! Now,
+[virtualenv](https://docs.python.org/3/library/venv.html) does solve
+this problem for python packages but docker takes to the next level.
+
+Docker provides you a sandbox (separate environment for running your
+applications without breaking other stuff) and not just python
+applications.
+
+Now, that we understand why we need docker, let's see how to use it!
+
+The sandbox I just mentioned is nothing but a 'container'. Using
+docker you spin up a container which has all the dependencies that you
+require for your application. Every container is ephermal, meaning as
+soon as you close the container, you lose the changes. So how do we
+retain the changes?
+
+You can take a snapshot of the container and commit that, which saves all
+the changes that you made to the container. This snapshot is called an
+image.  This snapshot is generally several GBs depending on the
+software installled.
+
+How do you spin-up a container? Using an image.
+
+How do you create an image? This can be done in two ways:
+* Using Dockerfile
+* By saving the changes to an already created container.
+
+Both of these are covered in detail (with references) in lecture.
+
+### Dockerfiles
+What is a Dockerfile? It is a text file containing specifications
+which tells docker what software to include to build the
+image.  As you can understand, it is easier to share a dockerfile
+which anyone can build an image with, than share the image itself.
+
+After completing this assignment, you should be able to:
+1. Create a dockerfile with required specifications.
+2. Use that dockerfile to build an image.
+
+### Creating a Dockerfile
+Generally, you don't need to create every dockerfile from
+scratch. Instead, you build on existing images and add stuff that you
+need.  In this assignment, we will use `scipy-ml-notebook` as our base
+image and add a couple of software libraries that we need on top of that.
+
+So, let's start with an image from datahub/dsmlp and see what is
+already there in this image. Create an account on
+[Dockerhub](https://hub.docker.com) and open
+[this](https://hub.docker.com/r/ucsdets/scipy-ml-notebook). If you see
+the overview you will see a very long list of stuff that is already
+present in this image. Now, to the `Dockerfile` tab and give that a
+read. You will see that only a very small subset of the libraries are
+installed in the image. That is because this image is build on top of
+another image, `datahub-base-notebook:2020.2-stable` which already has
+most the dependencies.
+
+We are going to create our own Dockerfile, inspired from this one, and
+add a couple of libraries.
+
+### Task 1: Write a Dockerfile
+Create a Dockerfile using `scipy-ml-notebook` as your base image and
+then add the following libraries using linux's package manager
+`apt-get`:
+* [aria2](https://aria2.github.io/)
+* [nmap](https://nmap.org/)
+* [traceroute](https://en.wikipedia.org/wiki/Traceroute)
+
+And add the following libraries with `conda` or `pip`:
+* [geopandas](https://geopandas.org/)
+* [babyoabdas](https://github.com/babypandas-dev/babypandas)
+
+Note 1: There is nothing special about these libraries; we merely need
+you to download something!
+
+Note 2: The examples of Dockerfiles on the last few slides of lecture,
+along with [this
+tutorial](https://github.com/ucsd-ets/datahub-example-notebook)
+referred to in lecture, should get you through these steps!
+
+### Task 2: Build a Docker Image
+
+Create an image and launch a container using the Dockerfile and verify
+if all the softwares are present.
+
+Note: testing locally on your laptop will involve pulling ~10GB of
+data (an entire OS) the first time you build the image. Subsequent
+times will be much faster! If you cannot install Docker on your
+laptop, you can skip to step 3; however, debugging may be more difficult.
+
+### Task 3: Pull a Docker Image 
+
+Push the image to DockerHub and launch a pod on dsmlp server using
+this image.  Test out your environment on the pod (can you start
+python and import `babypandas`?)
+
+### Turn in your work
+
+* Upload your Dockerfile to Gradescope
+* Launch a pod using your Docker Image (as in step 3) and run the
+  following command: `<command to be added soon>` (Note, you should
+  work on this assignment as is -- this will be updated soon to
+  include the final command you have to run from DSMLP!
+      
 
 ---
 
