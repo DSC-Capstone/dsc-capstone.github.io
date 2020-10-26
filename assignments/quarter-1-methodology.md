@@ -126,18 +126,18 @@ Docker provides you a sandbox (separate environment for running your
 applications without breaking other stuff) and not just python
 applications.
 
-Now, that we understand why we need docker, let's see how to use it!
+Now that we understand why we need docker, let's see how to use it!
 
 The sandbox I just mentioned is nothing but a 'container'. Using
 docker you spin up a container which has all the dependencies that you
-require for your application. Every container is ephermal, meaning as
+require for your application. Every container is ephemeral, meaning as
 soon as you close the container, you lose the changes. So how do we
 retain the changes?
 
 You can take a snapshot of the container and commit that, which saves all
 the changes that you made to the container. This snapshot is called an
 image.  This snapshot is generally several GBs depending on the
-software installled.
+software installed.
 
 How do you spin-up a container? Using an image.
 
@@ -151,7 +151,7 @@ Both of these are covered in detail (with references) in lecture.
 What is a Dockerfile? It is a text file containing specifications
 which tells docker what software to include to build the
 image.  As you can understand, it is easier to share a dockerfile
-which anyone can build an image with, than share the image itself.
+from which anyone can build an image than share the image itself.
 
 After completing this assignment, you should be able to:
 1. Create a dockerfile with required specifications.
@@ -220,13 +220,12 @@ python and import `babypandas`?)
   following command: `<command to be added soon>` (Note, you should
   work on this assignment as is -- this will be updated soon to
   include the final command you have to run from DSMLP!
-      
 
 ---
 
 ## Assignment 5
 
-SW Dev: Code vs Configuration; parameterizing experimennts
+SW Dev: Code vs Configuration; parameterizing experiments
 
 ---
 
