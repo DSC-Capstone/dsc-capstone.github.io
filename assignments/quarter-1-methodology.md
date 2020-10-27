@@ -160,25 +160,25 @@ After completing this assignment, you should be able to:
 ### Creating a Dockerfile
 Generally, you don't need to create every dockerfile from
 scratch. Instead, you build on existing images and add stuff that you
-need.  In this assignment, we will use `scipy-ml-notebook` as our base
+need.  In this assignment, we will use `ucsdets/datascience-notebook:2020.2-stable` as our base
 image and add a couple of software libraries that we need on top of that.
 
 So, let's start with an image from datahub/dsmlp and see what is
 already there in this image. Create an account on
 [Dockerhub](https://hub.docker.com) and open
-[this](https://hub.docker.com/r/ucsdets/scipy-ml-notebook). If you see
+[this](https://hub.docker.com/r/ucsdets/datahub-base-notebook). If you see
 the overview you will see a very long list of stuff that is already
 present in this image. Now, to the `Dockerfile` tab and give that a
 read. You will see that only a very small subset of the libraries are
 installed in the image. That is because this image is build on top of
-another image, `datahub-base-notebook:2020.2-stable` which already has
+another image, `jupyter/datascience-notebook:python-3.7.6` which already has
 most the dependencies.
 
 We are going to create our own Dockerfile, inspired from this one, and
 add a couple of libraries.
 
 ### Task 1: Write a Dockerfile
-Create a Dockerfile using `scipy-ml-notebook` as your base image and
+Create a Dockerfile using `ucsdets/datascience-notebook:2020.2-stable` as your base image and
 then add the following libraries using linux's package manager
 `apt-get`:
 * [aria2](https://aria2.github.io/)
