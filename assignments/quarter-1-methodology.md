@@ -187,7 +187,7 @@ then add the following libraries using linux's package manager
 
 And add the following libraries with `conda` or `pip`:
 * [geopandas](https://geopandas.org/)
-* [babyoabdas](https://github.com/babypandas-dev/babypandas)
+* [babypandas](https://github.com/babypandas-dev/babypandas)
 
 Note 1: There is nothing special about these libraries; we merely need
 you to download something!
@@ -202,7 +202,7 @@ referred to in lecture, should get you through these steps!
 Create an image and launch a container using the Dockerfile and verify
 if all the softwares are present.
 
-Note: testing locally on your laptop will involve pulling ~10GB of
+Note: testing locally on your laptop will involve pulling ~5GB of
 data (an entire OS) the first time you build the image. Subsequent
 times will be much faster! If you cannot install Docker on your
 laptop, you can skip to step 3; however, debugging may be more difficult.
@@ -213,13 +213,11 @@ Push the image to DockerHub and launch a pod on dsmlp server using
 this image.  Test out your environment on the pod (can you start
 python and import `babypandas`?)
 
-### Turn in your work
+### Turn in your work (deadline extended to Nov 3rd)
 
-* Upload your Dockerfile to Gradescope
 * Launch a pod using your Docker Image (as in step 3) and run the
-  following command: `<command to be added soon>` (Note, you should
-  work on this assignment as is -- this will be updated soon to
-  include the final command you have to run from DSMLP!
+  following command: `bash /datasets/dsc180-fa20-grading-tmp/method4-grader.sh`
+* Go to gradescope and turn in both the image name and the Dockerfile. We will use this as a backup plan if that script above doesn't work for you.
 
 ---
 
