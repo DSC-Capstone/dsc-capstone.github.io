@@ -95,9 +95,12 @@ Writing: Analyzing the structure of a scientific paper
   corresponding concept in lecture (do not turn in).
 * In preparation of checkpoint-1 for your replication/survey paper:
   1. Write a one sentence summary of the problem being investigated
-     in conrete, testable terms.
+     in conrete, testable terms. Given a proposed solution to the
+     problem, the summary should make it clear how to (quantifiably)
+     judge if such a solution is a success.
   2. Draw the main table/figure of results of your paper, be as specific as
-     possible.
+     possible. This should illustrate a (proposed) solution to the
+     problem stated in 1.
   3. Write one sentence on the broader applicability of the
      result. Why is it impactful?
      
