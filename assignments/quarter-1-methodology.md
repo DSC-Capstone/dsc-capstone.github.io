@@ -226,7 +226,32 @@ python and import `babypandas`?)
 
 ## Assignment 5
 
-SW Dev: Code vs Configuration; parameterizing experiments
+This assignment, focused on software development for data science,
+will be turned in on Canvas as a free response submission.
+
+### Build Scripts
+
+From your current understanding of your Q1 project, what do you think
+are the broad steps of your project? The outputs of your project?
+
+Recall from lecture that these steps correspond to *targets* in a
+build script. List at least 4 core targets for your project and
+explain what they (will) do. They should be specific to your project,
+and not generic reuse of lecture.
+
+*Note*: these targets don't exist yet; they are your best guess at the
+over all steps of your Q1 project. This will not only help you
+organize your code, but also help plan your project and write your
+methods section!
+
+### Configuration vs Code
+
+For each of the targets above, create a possible configuration
+file. The keys should be details that you may like to tweak/change as
+you develop your project. The values should be reasonable,
+hypothetical sample values. Your key/value pairs should be specific to
+your project, and should have more than just e.g. "datapath".
+
 
 ---
 
