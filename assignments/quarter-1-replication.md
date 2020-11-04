@@ -122,7 +122,8 @@ listing what tasks each group member was responsible for**.
 
 In this checkpoint you will be writing the more completing your
 introduction and describing your methods. You should continue add this
-work into a narrative form according to the 'scientific writing' lecture.
+work into a narrative form according to the 'scientific writing'
+lecture.
 
 Report Portion:
 
@@ -144,6 +145,16 @@ Code (which bullet takes more time/code will depend on your domain):
 * Incorporate data cleaning code into your pipeline, if relevant.
 * Develop code that generates analysis/figures for EDA.
 * Implement the methods that generate results.
+
+*Note:* If you like, You can write your report in a jupyter notebook and strip out
+the code using `jupyter nbconvert`:
+```
+jupyter nbconvert --no-input --to pdf --output notebook.pdf notebook.ipynb
+```
+
+You can also save figures you've generated from scripts to files using
+`plt.savefig` and incorporate those into your report.
+
 
 ### Final Report
 
