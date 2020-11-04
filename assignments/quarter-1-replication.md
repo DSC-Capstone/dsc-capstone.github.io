@@ -120,17 +120,28 @@ listing what tasks each group member was responsible for**.
 
 ### Checkpoint #2
 
-TODO
+In this checkpoint you will be writing the more completing your
+introduction and describing your methods. You should continue add this
+work into a narrative form according to the 'scientific writing' lecture.
 
 Report Portion:
 
-* Write an EDA that gives a data-driven argument for why the data that
-you use is appropriate for answering the question in the problem laid
-out in your introduction.
 * Write a description of of the methods used in the investigation.
 
-Code:
-* Develop cleaning code.
+If you have a data-modeling focused domain:
+* Write an EDA that gives a data-driven argument for why the data that
+you use is appropriate for answering the question in the problem laid
+out in your introduction. You should also address and justify and data
+cleaning or manipulation.
+
+If you have a methods focused domain:
+* Describe the implementation of your method in detail, discussing
+  relevant decisions that had to be made in writing your code (and
+  their implications).
+
+
+Code (which bullet takes more time/code will depend on your domain):
+* Incorporate data cleaning code into your pipeline, if relevant.
 * Develop code that generates analysis/figures for EDA.
 * Implement the methods that generate results.
 
