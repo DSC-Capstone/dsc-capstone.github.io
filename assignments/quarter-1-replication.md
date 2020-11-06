@@ -125,7 +125,7 @@ introduction and describing your methods. You should continue add this
 work into a narrative form according to the 'scientific writing'
 lecture.
 
-Report Portion:
+#### Report Portion:
 
 * Write a description of of the methods used in the investigation.
 
@@ -141,7 +141,9 @@ If you have a methods focused domain:
   their implications).
 
 
-Code (which bullet takes more time/code will depend on your domain):
+#### Code Portion:
+
+Which bullet point takes more time/code will depend on your domain:
 * Incorporate data cleaning code into your pipeline, if relevant.
 * Develop code that generates analysis/figures for EDA.
 * Implement the methods that generate results.
