@@ -257,7 +257,30 @@ your project, and should have more than just e.g. "datapath".
 
 ## Assignment 6
 
-Writing: Effective EDAs
+In this assignment, you will start thinking of ideas for your Capstone
+project proposal. Please write a few sentence on each of the prompts below:
+
+1. The most interesting topic covered in your domain this quarter?
+2. Describe a potential investigation you would like to do for a
+   project proposal?
+3. What is a potential change you would like to make to the approach
+   taken in your current Q1 project?
+4. What other techniques/methods would you be interested in using in
+   your project?
+
+Answers to these questions will be circulated among your domain
+(anonymously); reading others work will be helpful in thinking about
+possible project.
+
+**Note:** If you are in a domain where the projects are already
+determined, this will still be a useful exercise. Do not just answer
+with the project you think you are doing; give the questions thought
+and respond with possible related project (e.g. if you get to go
+further than expected with your current project, or if your currrent
+project doesn't pan out). 
+
+Developing your own topic of investigation is an important skill that
+Data Scientist's must have!
 
 ---
 
