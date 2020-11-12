@@ -148,6 +148,24 @@ Which bullet point takes more time/code will depend on your domain:
 * Develop code that generates analysis/figures for EDA.
 * Implement the methods that generate results.
 
+In the root directory of you code, include a json file called
+`submission.json` which contains the following:
+
+```
+{
+    "config": ["config/<name>.json", "config/<name>.json"],  # paths of at least 2 config files
+    "build": "run.py", # path of your build script
+    "library": ["src"], # directory containing (your) library code
+    "notebook": ["<notebook_filepath>.ipynb"] # path to at least one notebook meant for reading by someone other than you.
+    "targets": ["target1", "target2"] # at least two targets
+}
+```
+
+All filepath should be relative to the project root (where
+`submission.json` is located). I will look at these entities by hand
+and programmatically. You **do not** need your project to build from
+scratch for this checkpoint.
+
 *Note:* If you like, You can write your report in a jupyter notebook and strip out
 the code using `jupyter nbconvert`:
 ```
