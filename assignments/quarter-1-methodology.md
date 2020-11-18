@@ -326,6 +326,11 @@ your build to run.
   should choose a data type that your algorithm may input and use that
   to model your test data.
 
+*Note:* As with every methodology assignment, you should work on this
+individually (discuss with your partner, but code the solution
+separately). Once the assignment is turned in, you can use both your
+test data.
+
 ---
 
 ## Assignment 8
