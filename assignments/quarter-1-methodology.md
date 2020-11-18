@@ -286,7 +286,45 @@ Data Scientist's must have!
 
 ## Assignment 7
 
-Envs: Long-running jobs
+In this assignment, you will get your Q1-project code working with
+test data and implement a the standard target `test`.
+
+1. Create test data, in `<projectdir>/test/testdata/`, according to
+   the lecture. For this assignment, you only need to create the bare
+   minimum of data so that your code builds the project
+   successfully. Your test data should be in the format that most
+   closely resembles "raw" data that your project may use (if you use
+   an API to access data, copy the format of the data queried from the
+   API).
+2. Implement the target `test` in `run.py` that runs all your targets
+   on the test data you created. (Since your project isn't finished,
+   it should build the output your project creates, as it currently
+   exists).
+
+Turn in your code to gradescope (this will be your project repository,
+though perhaps a different branch). In this submission, create a
+`submission-methodology.json` file that contains your dockerhub
+repository (The format should be `<user>/<image>:<tag>`. The default
+`<tag>` is `:latest` if you don't supply it).
+
+```
+{
+    "dockerhub-id": "<user>/<image>:<tag>",
+}
+```
+
+Your submission will be run on DSMLP (in a
+container built from your dockerhub image) with the command `python
+run.py test`. As this assignment encourages you to get your
+project-build in order early, there will be tests that don't depend on
+your build to run.
+
+*Note:* This assignment should readily apply to all domains. 
+* Data-centered domains start with collected data (that you will model
+  your test data after).
+* Methods domains are building algorithms that take data as input. You
+  should choose a data type that your algorithm may input and use that
+  to model your test data.
 
 ---
 
