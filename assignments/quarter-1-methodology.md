@@ -335,7 +335,27 @@ test data.
 
 ## Assignment 8
 
-Writing: Peer Reviewing Proposals
+In this assignment, you will make a first attempt at writing a project
+proposal.
+
+1. Read the [proposal assignment](/assignments/quarter-1-project-proposal.md).
+2. Consider *your* current favorite idea for the Q2 Capstone
+   project. Individally, write a first attempt of the proposal portion of the
+   assignment (you do not have to do a preliminary EDA, nor create the
+   schedule or elevator pitch). The point of this is to develop an
+   idea to the point that others can understand and evaluate it.
+3. Turn the proposal. Your submission will be peer reviewed by your
+   group members. These proposals will serve as a basis for discussion
+   among your group.
+   
+*Note 1:* You may discuss your ideas and thoughts with your group
+members, but you must turn in your own proposal. Your group will
+analyze your submission not just for content, but effective
+communication.
+
+*Note 2:* If you already have your project specified, use this as an
+oppurtunity for writing a rough draft of your proposal.
+   
 
 ---
 
