@@ -338,7 +338,7 @@ test data.
 In this assignment, you will make a first attempt at writing a project
 proposal.
 
-1. Read the [proposal assignment](/assignments/quarter-1-project-proposal.md).
+1. Read the [proposal assignment](/assignments/quarter-1-project-proposal/).
 2. Consider *your* current favorite idea for the Q2 Capstone
    project. Individally, write a first attempt of the proposal portion of the
    assignment (you do not have to do a preliminary EDA, nor create the
