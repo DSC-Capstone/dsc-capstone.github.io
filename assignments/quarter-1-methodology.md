@@ -361,6 +361,21 @@ oppurtunity for writing a rough draft of your proposal.
 
 ## Assignment 9
 
-Writing: Peer Reviewing Project Schedules
+In this assignment, you will structure and develop your elevator
+pitch. Since you will be responsible for giving your own elevator
+pitches, these should be done individually.
+
+1. Watch the lecture on 'project proposals' and pay careful attention
+   to the portion on developing an elevator pitch using slides.
+2. Create 4-5 slides as described in lecture that summarize the main
+   thoughts covered in your pitch. (These 4-5 slides correspond to
+   something *specific* in the lecture).
+3. Convert your slides to PDF and turn them into Canvas. 
+4. Practice your pitch by 'talking through' your slides. Be sure to
+   vary your word-choice each time to practice!
+   
+Recall, the elevator pitch is purely verbal; you do *not* use slides
+to give your pitch. The purpose of the slides is to help develop your
+main points and give you structure to talk over.
 
 
