@@ -67,16 +67,12 @@ proposal. The elevator pitch should be under two minutes and summarize
 the project proposal, and its relevance, to a non-specialist. The
 elevator pitch will be:
 
-1. Turned in on the due date above on Canvas, in writing.
+1. Recorded (as an `mp4`) and turned in on the due date specified on Canvas.
 2. Presented orally to the domain discussion group (either in section,
    in lab-hours, or on video, depending on the preference of the
    domain).
 
-## Rubric
-
-TBD
-
-### Proposal Content Checklist (NOTES --)
+### Proposal Content Checklist
 
 A thorough proposal should answer the following questions:
 * What set of problems are being investigated? (Or what are you
