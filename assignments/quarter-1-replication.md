@@ -178,11 +178,30 @@ You can also save figures you've generated from scripts to files using
 
 ### Final Report
 
-TODO
+#### Report Portion:
+* Write results and conclusion of your Quarter 1 Project.
+* Be sure to clarify with your mentor what's expected in your report.
 
-Report:
-* Write results and conclusion
+#### Code Portion:
 
-Code:
-* Develop code for generating results
-* Develop code that generates analysis/figures for results
+* Develop code for generating results.
+* Develop code that generates analysis/figures for results.
+
+In the root directory of you code, include a json file called
+`submission.json` which contains the following:
+
+```
+{
+    "dockerhub-id": "<user>/<image>:<tag>",
+    "repository-id": "https://github.com/<user>/<repo>.git"
+}
+```
+
+If your repository is too big for Gradescope (*only due to a
+git-submodule*), you should make the professor a collaborator on your
+private repository (github user: `afraenkel`).
+
+Your project will be download from Gradescope, uploaded to DSMLP in
+an empty directory. A pod will be launched with your docker container
+(in submission.json) and the command will `python run.py test` will be
+run in your project root.

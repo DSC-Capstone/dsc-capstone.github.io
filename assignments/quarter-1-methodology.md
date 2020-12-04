@@ -309,7 +309,7 @@ repository (The format should be `<user>/<image>:<tag>`. The default
 
 ```
 {
-    "dockerhub-id": "<user>/<image>:<tag>",
+    "dockerhub-id": "<user>/<image>:<tag>"
 }
 ```
 
