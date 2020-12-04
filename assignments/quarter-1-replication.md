@@ -120,9 +120,9 @@ listing what tasks each group member was responsible for**.
 
 ### Checkpoint #2
 
-In this checkpoint you will be writing the more completing your
-introduction and describing your methods. You should continue add this
-work into a narrative form according to the 'scientific writing'
+In this checkpoint you will be completing your introduction and
+describing your methods. You should continue add this work to your
+report in a narrative form according to the 'scientific writing'
 lecture.
 
 #### Report Portion:
