@@ -63,7 +63,7 @@ effective communication, and dealing with inevitable set-backs.
 
 You will need to write and present an [Elevator
 Pitch](https://en.wikipedia.org/wiki/Elevator_pitch) for your
-proposal. The elevator pitch should be under two minutes and summarize
+proposal. The elevator pitch should be under three minutes and summarize
 the project proposal, and its relevance, to a non-specialist. The
 elevator pitch will be:
 
