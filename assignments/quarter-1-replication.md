@@ -175,6 +175,8 @@ jupyter nbconvert --no-input --to pdf --output notebook.pdf notebook.ipynb
 You can also save figures you've generated from scripts to files using
 `plt.savefig` and incorporate those into your report.
 
+For both the Report and Code Portion, **write in a Canvas comment
+listing what tasks each group member was responsible for**.
 
 ### Final Report
 
@@ -205,3 +207,6 @@ Your project will be download from Gradescope, uploaded to DSMLP in
 an empty directory. A pod will be launched with your docker container
 (in submission.json) and the command will `python run.py test` will be
 run in your project root.
+
+For both the Report and Code Portion, **write in a Canvas comment
+listing what tasks each group member was responsible for**.
