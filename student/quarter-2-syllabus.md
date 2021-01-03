@@ -39,7 +39,7 @@ learn from other team's successes and obstacles.
 
 ## Course Deliverables
 
-See the page on [Q2 assignments](/student/assignments)
+See the page on [Q2 assignments](/student/assignment-descriptions)
 
 ## Assessments and Grades
 

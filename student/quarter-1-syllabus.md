@@ -70,7 +70,7 @@ solve the problem you are facing.
 
 ## Course Deliverables
 
-See the page on [Q1 assignments](/student/assignments)
+See the page on [Q1 assignments](/student/assignment-descriptions)
 
 ## Assessments and Grades
 
