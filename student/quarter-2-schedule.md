@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 doodle: /assets/images/doodle.png
-permalink: /student/schedule/
+permalink: /student/quarter-2-schedule/
 ---
 
 For a schedule of topics in your domain, please see the course

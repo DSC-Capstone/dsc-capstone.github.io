@@ -2,7 +2,7 @@
 layout: page
 title: Syllabus
 doodle: /assets/images/doodle.png
-permalink: /student/syllabus/
+permalink: /student/quarter-2-syllabus/
 ---
 
 ---

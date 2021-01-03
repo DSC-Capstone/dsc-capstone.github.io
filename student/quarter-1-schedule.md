@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 doodle: /assets/images/doodle.png
-permalink: /student/schedule/
+permalink: /student/quarter-1-schedule/
 ---
 
 <style>
