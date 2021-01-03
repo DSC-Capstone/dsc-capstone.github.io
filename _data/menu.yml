@@ -3,10 +3,14 @@
 - text: Student Pages
   url: /student/
   subitems:
-    - text: Syllabus
-      url: /student/syllabus/
-    - text: Schedule
-      url: /student/schedule/
+    - text: Syllabus (Q1)
+      url: /student/quarter-1-syllabus/
+    - text: Syllabus (Q2)
+      url: /student/quarter-2-syllabus/
+    - text: Schedule (Q1)
+      url: /student/quarter-1-schedule/
+    - text: Schedule (Q2)
+      url: /student/quarter-2-schedule/
     - text: Assignments
       url: /student/assignment-descriptions/
     - text: Staff & Domains
@@ -14,14 +18,20 @@
 - text: Assignments
   url: /assignments/
   subitems:
-    - text: Methodology
+    - text: Methodology (Q1)
       url: /assignments/quarter-1-methodology/
-    - text: Participation
+    - text: Participation (Q1)
       url: /assignments/quarter-1-participation/
-    - text: Project Proposal
+    - text: Project Proposal (Q1)
       url: /assignments/quarter-1-project-proposal/
-    - text: Result Replication
+    - text: Result Replication (Q1)
       url: /assignments/quarter-1-replication/
+    - text: Capstone Project (Q2)
+      url: /assignments/quarter-2-project/
+    - text: Project Checkpoints (Q2)
+      url: /assignments/quarter-2-checkpoints/
+    - text: Participation (Q2)
+      url: /assignments/quarter-2-participation/
 - text: Instructor Pages
   url: /instructor/
   subitems:
