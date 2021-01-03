@@ -13,12 +13,12 @@ permalink: /
 
 ## Assignments
 
-### Quarter 1
+#### Quarter 1
 * [Methodology Assignments](/assignments/quarter-1-methodology)
 * [Project Proposal](/assignments/quarter-1-project-proposal)
 * [Result Replication](/assignments/quarter-1-replication)
 
-### Quarter 2
+#### Quarter 2
 * [Participation](/assignments/quarter-2-participation)
 * [Project](/assignments/quarter-2-project)
 * [Checkpoints](/assignments/quarter-2-checkpoints)
