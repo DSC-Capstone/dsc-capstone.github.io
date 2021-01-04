@@ -106,7 +106,7 @@ The visual presentation may be a website, blog, artwork, functional
 product, or service. There must be some consumer-facing (or
 general-audience) component to this work.
 
-The visual presentation is graded by the methodology instructor.
+The visual presentation is graded by the domain mentor.
 
 ### Code Artifact
 
@@ -122,12 +122,12 @@ The presentation is a 15-20 minute slide-based presentation of the
 project. This presentation must balance accessibility to a general
 audience alongside detailed material for the domain expert.
 
-The presentation is graded by both the domain mentors and the
-methodology instructor.
+The presentation is graded by the domain mentor.
 
 ### Checkpoints
 
-Each of the above components will have one checkpoint.
+Each of the above components will have one checkpoint (all checkpoints
+besides the report are graded by the methodology instructor).
 
 ## Participation (Quarter 2)
 
