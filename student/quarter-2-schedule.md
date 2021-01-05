@@ -19,5 +19,5 @@ material for your discussion section.
 |7|Presidents' Day||
 |8|Oral Presentations (Practice)|Checkpoint: Presentation|
 |9|Oral Presentations (Practice)|Final Code, Final Report|
-|10||Presentation|
-|||**Capstone Presentation Event (Friday 9-11)**|
+|10||Final Presentation|
+||**Capstone Presentation Event (Friday 9-11)**||
