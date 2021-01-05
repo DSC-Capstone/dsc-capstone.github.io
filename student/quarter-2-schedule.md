@@ -5,9 +5,6 @@ doodle: /assets/images/doodle.png
 permalink: /student/quarter-2-schedule/
 ---
 
-For a schedule of topics in your domain, please see the course
-material for your discussion section.
-
 |Week|Lecture Topic|Assignment Due|
 |---|---|---|
 |1|Working in Groups (Code)||
