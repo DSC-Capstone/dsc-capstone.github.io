@@ -35,7 +35,8 @@ weekly check-in assignment).
 
 The weekly check-in gives students an opportunity to practice talking
 about technical material, solicit feedback from their mentor, and
-learn from other team's successes and obstacles.
+learn from other team's successes and obstacles. As such,
+attendence in discussion each week is mandatory, like in quarter 1.
 
 ## Course Deliverables
 
