@@ -17,7 +17,16 @@ project, listed below.
 As projects vary, you may choose the primary output of your project to
 either be (1) a scientific report or (2) a visual presentation or
 functional product. While every group must produce both of these for
-their project, you may choose which is has more weight when graded.
+their project, you may choose which has more weight when graded (see
+the [syllabus](/student/quarter-2-syllabus/)).
+
+### Checkpoints
+
+Each of the components below have an associated
+[checkpoint](/assignments/quarter-2-checkpoints/) that contain more
+information about what is expected for each submission. Each
+checkpoints will have an associated mandatory meeting with a
+methodology instructor/TA.
 
 ### Report
 
@@ -33,7 +42,8 @@ The report is graded by the domain mentor.
 The visual presentation may be a website, blog, artwork, functional
 product, or service. There must be some consumer-facing (or
 general-audience) component to this work. If your visual presentation
-is not a blog, it should be approved by your domain mentor.
+is not a blog hosted on a static website, it should be approved by
+your domain mentor.
 
 The visual presentation is graded by the methodology instructor.
 
@@ -47,14 +57,9 @@ The code artifact is graded by the methodology instructor.
 
 ### Presentation
 
-The presentation is a 15-20 minute slide-based presentation of the
+The presentation is a 15-25 minute slide-based presentation of the
 project. This presentation must balance accessibility to a general
 audience alongside detailed material for the domain expert.
 
 The presentation is graded by both the domain mentors and the
 methodology instructor.
-
-### Checkpoints
-
-Each of the above components will have one checkpoint. See the
-checkpoints assignment for details.
