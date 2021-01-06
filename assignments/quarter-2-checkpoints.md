@@ -27,9 +27,28 @@ Requirements for submission:
   appendix of your report (at the end).
 * In a comment on the Canvas submission, include the tasks for which
   each group member was responsible.
+* Once submitted, you will be assigned another group's submission to
+  be peer reviewed.
 
 This assignment is due at the end of week 5 and is graded by your
 domain mentor.
+
+## Code Artifact Checkpoint
+
+The code artifact checkpoint will be an initial code review of your
+project code artifact at the end of week 5. You will also be required
+to meet with a methodology instructor/TA during weeks 3-4 to review
+the requirements for this assignment, for a 'mid-checkpoint check-in'.
+
+This checkpoint will check that the code:
+1. is well documented and build instructions are found in a
+   README.
+2. is structured with best-practices laid out in quarter-1
+   methodology.
+3. contains a test target that tests the pipeline on test data.
+4. runs in a Docker Image on DSMLP, via `python run.py test`.
+
+This is graded by the methodology instructor.
 
 ## Visual Presentation Checkpoint
 
@@ -61,24 +80,12 @@ This is graded by the methodology instructor and is graded P/NP. To
 pass this assignment, you must make reasonable effort at each of the
 items listed above.
 
-## Code Artifact Checkpoint
-
-The code artifact checkpoint will be an initial code review of your
-project code artifact approximately halfway through the quarter. 
-
-This checkpoint will check the code:
-1. is well documented and build instructions are found in a
-   README.
-2. is structured with best-practices laid out in quarter-1
-   methodology.
-3. contains a test target that tests the pipeline on test data.
-4. runs in a Docker Image on DSMLP, via `python run.py test`.
-
-This is graded by the methodology instructor.
 
 ## Presentation Checkpoint
 
-Each group will turn in initial slides for their presentation and do a
-dry-run with TAs.
+Each group will:
+* turn in initial slides for their presentation
+* do a dry-run of their presentation with TAs.
 
-This is graded by the methodology instructor.
+This is graded by the methodology instructor against the rubric laid
+out in the 'oral presentations' lecture.
