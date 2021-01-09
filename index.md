@@ -7,11 +7,11 @@ permalink: /
 
 ## Student Pages
 
-|Resource|Quarter 1|Quarter 2|
-|---|---|---|
-|Syllabus|[Quarter 1](/student/quarter-1-syllabus)|[Quarter 2](/student/quarter-2-syllabus)|
-|Schedule of Topics|[Quarter 1](/student/quarter-1-schedule)|[Quarter 2](/student/quarter-2-schedule)|
-|Description of Assignments|[Quarter 1](/student/quarter-1-assignment-descriptions)|[Quarter 2](/student/quarter-2-assignment-descriptions)|
+|Quarter 1|Quarter 2|
+|---|---|
+|[Syllabus (Q1)](/student/quarter-1-syllabus)|[Syllabus (Q2)](/student/quarter-2-syllabus)|
+|[Schedule of Topics (Q1)](/student/quarter-1-schedule)|[Schedule of Topics (Q2)](/student/quarter-2-schedule)|
+|[Description of Assignments (Q1)](/student/quarter-1-assignment-descriptions)|[Description of Assignments (Q2)](/student/quarter-2-assignment-descriptions)|
 
 [Domains/Mentor Directory](/student/domains)
 
