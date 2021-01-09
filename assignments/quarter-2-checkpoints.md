@@ -20,13 +20,13 @@ This is different from your weekly section meetings in the sense that this is mo
 Submission:
 * Github repo link.
 * Report with the following sections:
-    1. An abstract of your problem statement (revised proposal)
-        1. This can be copied from your proposal.
-        2. Idea is to capture things that have changed from what you proposed which tends to happen once you actually start working on a problem statement.
-        3. Points 2, 3, and 4 should follow from this.
-    2. Tasks completed till now.
-    3. Current tasks and concerns/issue if any.
-    4. Future plan.
+   * An abstract of your problem statement (revised proposal)
+     1. This can be copied from your proposal.
+     2. Idea is to capture things that have changed from what you proposed which tends to happen once you actually start working on a problem statement.
+     3. Points 2, 3, and 4 should follow from this.
+  * Tasks completed till now.
+  * Current tasks and concerns/issue if any.
+  * Future plan.
 
 
 ## Project Report Checkpoint
