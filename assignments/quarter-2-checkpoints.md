@@ -10,6 +10,25 @@ doodle: /assets/images/doodle.png
 
 ---
 
+## Mandatory Check-in
+This is a mandatory meeting with a TA during week 3-4. Given that you have been working on the project for 3 weeks now, this checkin is to make sure you that you are making progress in the right direction and are not stuck anywhere and on track for your checkpoint. Make an appointment with your domain TA and discuss the following:
+1. Current status
+2. Any challenges you might be facing and any questions you have regarding organizing your code.
+
+This is different from your weekly section meetings in the sense that this is more about making sure that your ideas and code are coming together cogently.
+
+Submission:
+* Github repo link.
+* Report with the following sections:
+    1. An abstract of your problem statement (revised proposal)
+        1. This can be copied from your proposal.
+        2. Idea is to capture things that have changed from what you proposed which tends to happen once you actually start working on a problem statement.
+        3. Points 2, 3, and 4 should follow from this.
+    2. Tasks completed till now.
+    3. Current tasks and concerns/issue if any.
+    4. Future plan.
+
+
 ## Project Report Checkpoint
 
 The project report checkpoint is an opportunity to get feedback from
