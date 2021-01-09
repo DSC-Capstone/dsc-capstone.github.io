@@ -6,22 +6,23 @@ permalink: /
 ---
 
 ## Student Pages
-* Syllabus: [Quarter 1](/student/quarter-1-syllabus), [Quarter 2](/student/quarter-2-syllabus)
-* Schedule of Topics: [Quarter 1](/student/quarter-1-schedule), [Quarter 2](/student/quarter-2-schedule)
-* [Description of Assignments](/student/assignment-descriptions)
-* [Domains/Mentor Directory](/student/domains)
+
+|Resource|Quarter 1|Quarter 2|
+|---|---|---|
+|Syllabus|[Quarter 1](/student/quarter-1-syllabus)|[Quarter 2](/student/quarter-2-syllabus)|
+|Schedule of Topics|[Quarter 1](/student/quarter-1-schedule)|[Quarter 2](/student/quarter-2-schedule)|
+|Description of Assignments|[Quarter 1](/student/quarter-1-assignment-descriptions)|[Quarter 2](/student/quarter-2-assignment-descriptions)|
+
+[Domains/Mentor Directory](/student/domains)
 
 ## Assignments
 
-#### Quarter 1
-* [Methodology Assignments](/assignments/quarter-1-methodology)
-* [Project Proposal](/assignments/quarter-1-project-proposal)
-* [Result Replication](/assignments/quarter-1-replication)
-
-#### Quarter 2
-* [Participation](/assignments/quarter-2-participation)
-* [Project](/assignments/quarter-2-project)
-* [Checkpoints](/assignments/quarter-2-checkpoints)
+|Quarter 1|Quarter 2|
+|---|---|
+|[Project Proposal](/assignments/quarter-1-project-proposal)|[Project Checkpoints](/assignments/quarter-2-checkpoints)|
+|[Result Replication](/assignments/quarter-1-replication)|[Project Deliverables](/assignments/quarter-2-project)|
+|[Participation](/assignments/quarter-2-participation)|[Participation](/assignments/quarter-2-participation)|
+|[Methodology Assignments](/assignments/quarter-1-methodology)||
 
 ## Resources
 * [Computing Resources](/resources/computing)
