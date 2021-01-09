@@ -2,7 +2,7 @@
 layout: page
 title: Description of Assignments
 doodle: /assets/images/doodle.png
-permalink: /student/assignment-descriptions/
+permalink: /student/quarter-1-assignment-descriptions/
 ---
 
 ---
