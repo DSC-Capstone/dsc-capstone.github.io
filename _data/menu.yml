@@ -11,8 +11,10 @@
       url: /student/quarter-1-schedule/
     - text: Schedule (Q2)
       url: /student/quarter-2-schedule/
-    - text: Assignments
-      url: /student/assignment-descriptions/
+    - text: Assignments (Q1)
+      url: /student/quarter-1-assignment-descriptions/
+    - text: Assignments (Q2)
+      url: /student/quarter-2-assignment-descriptions/
     - text: Staff & Domains
       url: /student/domains/
 - text: Assignments
