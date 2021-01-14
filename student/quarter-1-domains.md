@@ -2,7 +2,7 @@
 layout: page
 title: Staff Reference Page
 doodle: /assets/images/doodle.png
-permalink: /student/domains/
+permalink: /student/quarter-1-domains/
 ---
 
 ---
