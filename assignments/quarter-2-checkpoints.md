@@ -49,6 +49,18 @@ Requirements for submission:
 * Once submitted, you will be assigned another group's submission to
   be peer reviewed.
 
+You will **not** submit your repository. Rather, you will submit a
+`submission.json` file to gradescope that includes a link to your
+*public GitHub repository* and a link to your *public Dockerhub
+repository*.
+
+```
+{
+    "GitHub Repository": "<github repo url>",
+    "DockerHub Repository": "<dockerhub repo url>"
+}
+```
+
 This assignment is due at the end of week 5 and is graded by your
 domain mentor.
 
