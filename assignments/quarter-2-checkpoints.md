@@ -103,7 +103,7 @@ mobile application), you must
 1. Create the scaffolding for your output. Please see the Professor
    for the specific requirements.
 1. Turn in the code repository URL for the output (this is *not* your
-   project GitHub repository).n
+   project GitHub repository).
 1. The `README.md` in the code repository should provide instructions
    on how to deploy the code.
 
