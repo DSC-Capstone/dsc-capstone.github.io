@@ -19,7 +19,7 @@ permalink: /student/quarter-2-domains/
 |C01|Autonomous Vehicles|WED 9:00 - 9:50 am|~~CSB 002~~ REMOTE|Jack Silberman|
 |A03|[Malware and Graph Learning](https://afraenkel.github.io/capstone-malware-domain/)| WED 9:00 - 9:50 am|REMOTE|Aaron Fraenkel|
 |A04|[Text Mining and NLP](https://shangjingbo1226.github.io/teaching/2020-fall-DSC180a-capstone)| WED 9:00 - 9:50 am|~~CSB 001~~ REMOTE|Jingbo Shang|
-|A04|[Recommender Systems](https://github.com/jemmott/dsc180a06-fa20)| WED 9:00 - 9:50 am|REMOTE|Colin Jemmott|
+|A05|[Recommender Systems](https://github.com/jemmott/dsc180a06-fa20)| WED 9:00 - 9:50 am|REMOTE|Colin Jemmott|
 |A06|Opioid Overdose Prevalence Analysis| FRI 2:00 - 2:50 pm|REMOTE|Amarnath Gutpa|
 |A07|Large-scale Multiple Testing| WED 9:00 - 9:50 am|REMOTE|Armin Schwartzman|
 |A08|Spatial-temporal Analyses of Infectious Disease Dynamics| THURS 11:00 - 11:50 am|REMOTE|Yian Ma|
