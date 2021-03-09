@@ -35,4 +35,5 @@ permalink: /
 * [Week-by-Week Guide](/instructor/week-by-week)
 
 ## Archive
+* [Projects (2020-2021)](https://dsc-capstone.github.io/projects-2020-2021/)
 * [Projects (2019-2020)](https://dsc-capstone.github.io/projects-2019-2020/)
