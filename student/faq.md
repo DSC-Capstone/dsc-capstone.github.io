@@ -73,68 +73,70 @@ instructor. Here are a few points to consider:
 ### List of domains by section
 
 A * denotes that the topic has been offered as a Capstone Domain
-before (see past projects on Capstone page).
+before (see past projects on Capstone page). However, the next
+offerring may differ from the previous!
 
 
 **Domain A01**
 
-* Mentor: Aaron Fraenkel
+* Mentor: [Aaron Fraenkel](https://github.com/afraenkel/DSC180A-Fair-Policing)
 * Topic: Fair Policing*
-* Description: Investigating police-citizen interactions.
+* Description: Investigating police-citizen interactions (will vary
+  from prior offering, with more of an ML focus).
 
 **Domain A02**
 
-* Mentor: Jingbo Shang	
+* Mentor: [Jingbo Shang](https://shangjingbo1226.github.io/teaching/2020-fall-DSC180a-capstone)
 * Topic: Text Mining and NLP Techniques
 * Description: Recognizing and organizing entities in massive text
   corpora.
 
 **Domain A03**
 
-* Mentor: Rajesh K. Gupta
+* Mentor: [Rajesh K. Gupta](https://dsc-capstone.github.io/projects-2020-2021/)
 * Topic: Cyber-Physical Systems (CPS) using IOT Devices*
 
 **Domain A04**
 
-* Mentor: Rose Yu
+* Mentor: [Rose Yu](http://roseyu.com/)
 * Topic: Spatio-temporal machine learning
 
 **Domain A05**
 
-* Mentor: Jelena Bradic	
+* Mentor: [Jelena Bradic](https://www.jelenabradic.net/research.html)
 * Topic: Statistics, Causal Inference, Robust ML
 
 **Domain A06**
 
-* Mentor: Yian Ma	
+* Mentor: [Yian Ma](https://sites.google.com/view/yianma/home)
 * Topic: TBD
 
 **Domain A07**
 
-* Mentor: Ilkay Altintas	
+* Mentor: [Ilkay Altintas](https://wifire.ucsd.edu/team)
 * Topic: Wildfire and Environmental Data Analysis
 * Specialized Knowledge: Spatial Data Analysis; Images
 
 **Domain A08**
 
-* Mentor: Peter Gerstoft	
+* Mentor: [Peter Gerstoft](http://noiselab.ucsd.edu/Gerstoft.html)
 * Topic: Machine learning for physical systems
 
 **Domain A09**
 
-* Mentor: Ryan Kastner	
+* Mentor: [Ryan Kastner](http://kastner.ucsd.edu/)
 * Topic: Environmental Monitoring, remote sensing, cyber-physical systems
 
 **Domain A10**
 
-* Mentor: Justin Eldridge	
+* Mentor: [Justin Eldridge](https://eldridgejm.github.io/dsc180-2020-misinformation/)
 * Topic: Spread of Misinformation Online*
 * Description: understand why false information spreads on (social)
   networks via graph modeling.
 
 **Domain A11**
 
-* Mentor: Javier Duarte	
+* Mentor: [Javier Duarte](https://jmduarte.github.io/capstone-particle-physics-domain)
 * Topic: Particle Physics*
 * Description: Using neural networks, can one isolate/measure the rate
   of rare events, liek the production of Higgs bosons? (Using
@@ -144,13 +146,13 @@ before (see past projects on Capstone page).
 
 **Domain A12**
 
-* Mentor: Rayan Saab
+* Mentor: [Rayan Saab](https://www.math.ucsd.edu/~rsaab/)
 * Topic: Mathematical Signal Processing
 * Specialized Knowledge: methods/theory focused; DSC 120 recommended.
 
 **Domain A13**
 
-* Mentor: Gal Mishne
+* Mentor: [Gal Mishne](http://mishne.ucsd.edu/publications.html)
 * Topic: graph neural networks*
 * Description: A methods-focused domain on modeling irregularly
   structured data with graphs (node/graph embeddings; graph neural
@@ -159,39 +161,39 @@ before (see past projects on Capstone page).
 
 **Domain A14**
 
-* Mentor: Molly Roberts
+* Mentor: [Molly Roberts](http://www.margaretroberts.net/)
 * Topic: NLP, Misinformation, Politics
 
 **Domain A15**
 
-* Mentor: Lily Weng	
+* Mentor: [Lily Weng](https://lilyweng.github.io/)
 * Topic: AI in Healthcare, Trustworthy Machine Learning 
 
 **Domain A16**
 
-* Mentor: Armin Schwartzman
+* Mentor: [Armin Schwartzman](https://profiles.ucsd.edu/armin.schwartzman)
 * Topic: Satellite image analysis
 * Specialized Knowledge: Spatial Data Analysis; Images
 
 **Domain B01**
 
-* Mentor: Berk Ustun	
+* Mentor: [Berk Ustun](https://www.berkustun.com/)
 * Topic: ML for Finance, ML for Healthcare,  Fair ML
 
 **Domain B02**
 
-* Mentor: Stuart Geiger
+* Mentor: [Stuart Geiger](http://stuartgeiger.com/)
 * Topic: Social media; online communities; text analysis; ethics
 * Specialized Knowledge: A willingness to think through qualitative concepts!
 
 **Domain B03**
 
-* Mentor: Yusu Wang	
+* Mentor: [Yusu Wang](http://yusu.belkin-wang.org/)
 * Topic: geometric/topological data analysis for material science
 
 **Domain B04**
 
-* Mentor: Zhiting Hu
+* Mentor: [Zhiting Hu](http://zhiting.ucsd.edu/)
 * Topic: Machine Learning, Natural Language Processing
 
 **Domain B05**
@@ -236,39 +238,39 @@ before (see past projects on Capstone page).
 
 **Domain B06**
 
-* Mentor: Babak Salimi
+* Mentor: [Babak Salimi](https://bsalimi.github.io/)
 * Topic: Explainable AI, Causal Inference 
 
 **Domain B07**
 
-* Mentor: Arun Kumar	
+* Mentor: [Arun Kumar](https://bsalimi.github.io/)
 * Topic: AutoML Platforms
 * Specialized Knowledge: systems-focused
 
 **Domain B08**
 
-* Mentor: Misha Belkin	
+* Mentor: [Misha Belkin](http://misha.belkin-wang.org/)
 * Topic: General AI/ML (Theoretical)
 * Specialized Knowledge: Methods/Theory
 
 **Domain B09**
 
-* Mentor: Arya Mazumdar
+* Mentor: [Arya Mazumdar](http://mazumdar.ucsd.edu/)
 * Topic: Group Testing for Optimizing COVID-19 Testing
 
 **Domain B10**
 
-* Mentor: David Danks	
+* Mentor: [David Danks](https://www.daviddanks.org/)
 * Topic: Causal Discovery; Algorithmic Bias
 
 **Domain B11**
 
-* Mentor: Benjamin Smarr
+* Mentor: [Benjamin Smarr](https://profiles.ucsd.edu/benjamin.smarr)
 * Topic: Time series analysis in health
 
 **Domain B12**
 
-* Mentor: Jennifer Burney	
+* Mentor: [Jennifer Burney](http://www.jaburney.com/)
 * Topic: Land-use change dynamics
 * Specialized Knowledge: Spatial Data Analysis; Images
 
