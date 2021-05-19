@@ -120,7 +120,7 @@ offerring may differ from the previous!
 **Domain A08**
 
 * Mentor: [Peter Gerstoft](http://noiselab.ucsd.edu/Gerstoft.html)
-* Topic: Machine learning for physical systems
+* Topic: Machine learning for physical systems (Scripps Institute of Oceanography)
 
 **Domain A09**
 
