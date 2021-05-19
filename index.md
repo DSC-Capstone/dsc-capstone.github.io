@@ -9,6 +9,7 @@ permalink: /
 
 |Quarter 1|Quarter 2|
 |---|---|
+|[Prospective Student FAQ](/student/faq)||
 |[Syllabus (Q1)](/student/quarter-1-syllabus)|[Syllabus (Q2)](/student/quarter-2-syllabus)|
 |[Schedule of Topics (Q1)](/student/quarter-1-schedule)|[Schedule of Topics (Q2)](/student/quarter-2-schedule)|
 |[Description of Assignments (Q1)](/student/quarter-1-assignment-descriptions)|[Description of Assignments (Q2)](/student/quarter-2-assignment-descriptions)|
