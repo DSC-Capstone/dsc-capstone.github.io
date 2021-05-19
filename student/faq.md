@@ -94,7 +94,7 @@ offerring may differ from the previous!
 **Domain A03**
 
 * Mentor: [Rajesh K. Gupta](https://dsc-capstone.github.io/projects-2020-2021/)
-* Topic: Cyber-Physical Systems (CPS) using IOT Devices*
+* Topic: Blockchain and Smart-Contracts
 
 **Domain A04**
 
