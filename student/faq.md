@@ -154,10 +154,21 @@ offerring may differ from the previous!
 
 * Mentor: [Gal Mishne](http://mishne.ucsd.edu/publications.html)
 * Topic: graph neural networks*
-* Description: A methods-focused domain on modeling irregularly
-  structured data with graphs (node/graph embeddings; graph neural
-  networks).
-* Specialized Knowledge: Exposure to Neural Networks helpful
+* Description: 
+  This is a methods domain.
+  This domain will investigate analysis of data lying on irregular
+  structure, or graphs. This domain centers around understanding
+  graph-based data and graphs as data. To approach this problem we
+  will mainly be focusing on Graph Neural Networks. Some questions we
+  will be answering throughout this domain:
+    - How to model irregularly structured data?
+    - How to scale models and methods to large-scale graphs?
+    - How to benchmark machine learning approaches on graph-based data?
+
+    Range of data we will be working on is broad: social networks, 3D
+    shapes, product recommendation, traffic networks, etc.
+
+* Specialized Knowledge: Exposure to Neural Networks, pytorch or tensorflow, is recommended but not required.
 
 **Domain A14**
 
@@ -267,6 +278,17 @@ offerring may differ from the previous!
 
 * Mentor: [Benjamin Smarr](https://profiles.ucsd.edu/benjamin.smarr)
 * Topic: Time series analysis in health
+* Description: 
+  - students will work with wearable device data paired with survey-generated labels.
+  - questions will focus on leveraging the non-random variance in
+    physiological time series caused by biological rhythms
+    (e.g. ultradian, circadian, menstrual, annual), so familiarizing
+    themselves with Wikipedia-level knowledge of these will help, as
+    will knowledge of any signal processing approaches, especially for
+    Non-stationary signals, as in wavelets, DTW, etc.
+  - students will work at the frontier of knowledge, and so should
+    come prepared to think creatively and help define standards,
+    rather than simply iterate in a well defined domain.
 
 **Domain B12**
 
