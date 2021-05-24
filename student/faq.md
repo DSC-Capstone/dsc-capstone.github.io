@@ -257,6 +257,16 @@ offerring may differ from the previous!
 * Mentor: [Arun Kumar](https://bsalimi.github.io/)
 * Topic: AutoML Platforms
 * Specialized Knowledge: systems-focused
+* Description: The capstone projects will all focus on automated data
+  preparation steps in end-to-end automated ML platforms. We have been
+  creating a benchmark zoo with labeled datasets, code, and
+  pre-trained models for comparing tools for automated data
+  preparation and also devising new ML-based automation methods that
+  offer more accuracy. The capstone projects will likely involve the
+  students using our benchmark labeled datasets to study different
+  aspects of failures in automated data preparation affect downstream
+  ML accuracy, as well as devising new ML-based methods (including
+  featurization and models) to improve its accuracy.
 
 **Domain B08**
 
