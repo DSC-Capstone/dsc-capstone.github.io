@@ -19,9 +19,9 @@ permalink: /
 
 |Quarter 1|Quarter 2|
 |---|---|
-|[Project Proposal](/assignments/quarter-1-project-proposal)|[Project Checkpoints](/assignments/quarter-2-checkpoints)|
-|[Result Replication](/assignments/quarter-1-replication)|[Project Deliverables](/assignments/quarter-2-project)|
-|[Participation](/assignments/quarter-2-participation)|[Participation](/assignments/quarter-2-participation)|
+|[Q2 Project Proposal](/assignments/quarter-1-project-proposal)|[Project Checkpoints](/assignments/quarter-2-checkpoints)|
+|[Q1 Project](/assignments/quarter-1-replication)|[Project Deliverables](/assignments/quarter-2-project)|
+|[Participation](/assignments/quarter-1-participation)|[Participation](/assignments/quarter-2-participation)|
 |[Methodology Assignments](/assignments/quarter-1-methodology)||
 
 ## Resources
