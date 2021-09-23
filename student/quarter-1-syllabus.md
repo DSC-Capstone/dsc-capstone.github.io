@@ -21,7 +21,7 @@ Quarter 1 of the capstone covers two parallel topics:
    domain is made via replicating a specified result in a your domain
    of inquiry ("discussion"). 
    
-The replication of the domain result in (2) will use the best
+The Q1 Project will result in (2) will use the best
 practices learned in (1). This work then serves as a foundation for
 project proposals due at the end of the quarter. The projects will be
 worked on, in groups, in the second quarter. While the methodology
@@ -39,6 +39,7 @@ randomness.
 ## Course Components
 
 ### Lecture (data science methodology)
+
 One hour per week will be devoted to lecture on data science
 methodology. There will be accompanying light homework assignments.
 
@@ -78,11 +79,12 @@ The course grade will be computed using the following proportions:
 
 |Component|% of Grade|
 |---|---|
-|Methodology HW|10%|
-|Discussion Section Participation|10%|
-|Domain result replication (3 reports)|30%|
-|Domain result replication (workflow)|20%|
-|Project proposal|30%|
+|Methodology HW|5%|
+|Discussion Section Participation (Mentor)|5%|
+|Discussion Section Particicpation (Written Responses)|5%|
+|Domain result replication (reports + checkpoint)|50%|
+|Domain result replication (code + checkpoint)|20%|
+|Project proposal|15%|
 
 ### Grading Policy
 

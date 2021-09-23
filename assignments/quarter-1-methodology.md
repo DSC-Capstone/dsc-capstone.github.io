@@ -10,12 +10,6 @@ doodle: /assets/images/doodle.png
 
 ---
 
-## Assignment 0
-
-Syllabus Quiz: See Gradescope.
-
----
-
 ## Assignment 1
 
 Follow the instructions in [Lecture
@@ -75,43 +69,17 @@ create the project structure for your result replication project.
   `run.py`, `.gitignore`, `README.md`. 
 * Create 'stub files' in the directories as placeholders, as
   well. Stub files can be empty, but should have the correct
-  extensions. 
-* Your `.gitignore` file should have content.
+  extensions. For example, if a directory will inevitibly have python
+  source code, place an empty file in the directory called `stub.py`.
+* Your `.gitignore` file should have appropriate content.
 
 You may find [this
 repository](https://github.com/DSC-Capstone/project-templates) useful,
 as an example.
 
-*Bonus:* Begin writing the code for your replication within this
-project structure!
-
 ---
 
 ## Assignment 3
-
-Writing: Analyzing the structure of a scientific paper
-* Take a paper being studied in your domain and analyze it according
-  to lecture. In particular map each section in your paper to the
-  corresponding concept in lecture (do not turn in).
-* In preparation of checkpoint-1 for your replication/survey paper:
-  1. Write a one sentence summary of the problem being investigated
-     in conrete, testable terms. Given a proposed solution to the
-     problem, the summary should make it clear how to (quantifiably)
-     judge if such a solution is a success.
-  2. Draw the main table/figure of results of your paper, be as specific as
-     possible. This should illustrate a (proposed) solution to the
-     problem stated in 1.
-  3. Write one sentence on the broader applicability of the
-     result. Why is it impactful?
-     
-The content of the answers to all three of these questions should find
-their way into your introduction. If your domain is having you write a
-survey paper (as opposed to a replication), you may need to
-incorporate material from multiple paper to summarize your Q1 investigation!
-
----
-
-## Assignment 4
 
 ### Docker
 
@@ -224,38 +192,7 @@ python and import `babypandas`?)
 
 ---
 
-## Assignment 5
-
-This assignment, focused on software development for data science,
-will be turned in on Canvas as a free response submission.
-
-### Build Scripts
-
-From your current understanding of your Q1 project, what do you think
-are the broad steps of your project? The outputs of your project?
-
-Recall from lecture that these steps correspond to *targets* in a
-build script. List at least 4 core targets for your project and
-explain what they (will) do. They should be specific to your project,
-and not generic reuse of lecture.
-
-*Note*: these targets don't exist yet; they are your best guess at the
-over all steps of your Q1 project. This will not only help you
-organize your code, but also help plan your project and write your
-methods section!
-
-### Configuration vs Code
-
-For each of the targets above, create a possible configuration
-file. The keys should be details that you may like to tweak/change as
-you develop your project. The values should be reasonable,
-hypothetical sample values. Your key/value pairs should be specific to
-your project, and should have more than just e.g. "datapath".
-
-
----
-
-## Assignment 6
+## Assignment 4
 
 In this assignment, you will start thinking of ideas for your Capstone
 project proposal. Please write a few sentence on each of the prompts below:
@@ -284,7 +221,7 @@ Data Scientist's must have!
 
 ---
 
-## Assignment 7
+## Assignment 5
 
 In this assignment, you will get your Q1-project code working with
 test data and implement a the standard target `test`.
@@ -330,52 +267,3 @@ your build to run.
 individually (discuss with your partner, but code the solution
 separately). Once the assignment is turned in, you can use both your
 test data.
-
----
-
-## Assignment 8
-
-In this assignment, you will make a first attempt at writing a project
-proposal.
-
-1. Read the [proposal assignment](/assignments/quarter-1-project-proposal/).
-2. Consider *your* current favorite idea for the Q2 Capstone
-   project. Individally, write a first attempt of the proposal portion of the
-   assignment (you do not have to do a preliminary EDA, nor create the
-   schedule or elevator pitch). The point of this is to develop an
-   idea to the point that others can understand and evaluate it.
-3. Turn the proposal. Your submission will be peer reviewed by your
-   group members. These proposals will serve as a basis for discussion
-   among your group.
-   
-*Note 1:* You may discuss your ideas and thoughts with your group
-members, but you must turn in your own proposal. Your group will
-analyze your submission not just for content, but effective
-communication.
-
-*Note 2:* If you already have your project specified, use this as an
-oppurtunity for writing a rough draft of your proposal.
-   
-
----
-
-## Assignment 9
-
-In this assignment, you will structure and develop your elevator
-pitch. Since you will be responsible for giving your own elevator
-pitches, these should be done individually.
-
-1. Watch the lecture on 'project proposals' and pay careful attention
-   to the portion on developing an elevator pitch using slides.
-2. Create 4-5 slides as described in lecture that summarize the main
-   thoughts covered in your pitch. (These 4-5 slides correspond to
-   something *specific* in the lecture).
-3. Convert your slides to PDF and turn them into Canvas. 
-4. Practice your pitch by 'talking through' your slides. Be sure to
-   vary your word-choice each time to practice!
-   
-Recall, the elevator pitch is purely verbal; you do *not* use slides
-to give your pitch. The purpose of the slides is to help develop your
-main points and give you structure to talk over.
-
-

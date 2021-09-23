@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Result Replication
+title: Q1 Project
 doodle: /assets/images/doodle.png
 ---
 
@@ -18,7 +18,7 @@ This quarter, each domain works through a central problem that
 introduces you to the area. Depending on the domain, you will produce
 either:
 1. a replication of a known result in a (published) paper, or
-2. a survey paper, with a hands-on, data driven inquiry
+2. an investigative paper, with a hands-on, data driven inquiry
    into a relevant question in the area.
 
 By the end of the quarter, you will summarize the results of
@@ -65,148 +65,13 @@ Work on the report comprises of:
 * Develop a library of useful code and the foundations
   of a code pipeline for further work in the area.
 
-## Checkpoints
+## Checkpoint
 
-You will work on the report in three parts (two checkpoints and a final):
-1. Checkpoint #1: Introduction (Part-1)
-2. Checkpoint #2: Introduction (Part-2) / Methods
+You will work on the report in two parts (one checkpoints and a final):
+2. Checkpoint #1: Introduction / Methods
 3. Final: Results and Conclusions
 
-Each successive checkpoint should be cumulative (containing the
-previous checkpoints) with a marker signifying where the current work
-begins.
+## Specifics on what to turn in
 
-You must make the suggested changes to your previous checkpoint before
-submitting the following assignment. If a mentor sees suggestions on a
-previous section being ignored, that may *continue to affect your
-grade*.
+To be added later
 
-### Checkpoint #1
-
-Report portion:
-
-Write an introduction, as laid out in lecture. This includes:
-1. An explanation of the problem being investigated.
-2. A brief explanation of the context of the problem and why it's
-   interesting.
-3. A description of either:
-   * the data generation process and its relationship to the problem
-     (i.e. for domain problems)
-   * the type of data for which the method is appropriate
-     (i.e. for methods problems)
-4. Basic description of observed data used in the investigation and
-   why it's appropriate for addressing the problem.
-   
-
-This introduction should be turned in as a PDF and conform to
-standards set in both lecture and your domain.
-
-Code Portion:
-
-Your code should be turned in via GitHub. It should:
-* conform to the template structure discussed in lecture,
-* contain a rudimentary data ingestion pipeline,
-* include documentation both in your README.md, describing the purpose
-  of the code, its contents, and how to run it.
-* be runnable runnable via the command `python run.py data`. Include a
-  `data-params.json` file in the `config` directory, which specifies
-  any data-input locations. If your data-ingestion requires data that
-  is on your local computer, include a copy of the data in your
-  domain's `/teams` directory on the DSMLP server and include that
-  location in your `data-params.json`.
-
-For both the Report and Code Portion, **write in a Canvas comment
-listing what tasks each group member was responsible for**.
-
-### Checkpoint #2
-
-In this checkpoint you will be completing your introduction and
-describing your methods. You should continue add this work to your
-report in a narrative form according to the 'scientific writing'
-lecture.
-
-#### Report Portion:
-
-* Write a description of of the methods used in the investigation.
-
-If you have a data-modeling focused domain:
-* Write an EDA that gives a data-driven argument for why the data that
-you use is appropriate for answering the question in the problem laid
-out in your introduction. You should also address and justify and data
-cleaning or manipulation.
-
-If you have a methods focused domain:
-* Describe the implementation of your method in detail, discussing
-  relevant decisions that had to be made in writing your code (and
-  their implications).
-
-
-#### Code Portion:
-
-Which bullet point takes more time/code will depend on your domain:
-* Incorporate data cleaning code into your pipeline, if relevant.
-* Develop code that generates analysis/figures for EDA.
-* Implement the methods that generate results.
-
-In the root directory of you code, include a json file called
-`submission.json` which contains the following:
-
-```
-{
-    "config": ["config/<name>.json", "config/<name>.json"],  # paths of at least 2 config files
-    "build": "run.py", # path of your build script
-    "library": ["src"], # directory containing (your) library code
-    "notebook": ["<notebook_filepath>.ipynb"] # path to at least one notebook meant for reading by someone other than you.
-    "targets": ["target1", "target2"] # at least two targets
-}
-```
-
-All filepath should be relative to the project root (where
-`submission.json` is located). I will look at these entities by hand
-and programmatically. You **do not** need your project to build from
-scratch for this checkpoint.
-
-*Note:* If you like, You can write your report in a jupyter notebook and strip out
-the code using `jupyter nbconvert`:
-```
-jupyter nbconvert --no-input --to pdf --output notebook.pdf notebook.ipynb
-```
-
-You can also save figures you've generated from scripts to files using
-`plt.savefig` and incorporate those into your report.
-
-For both the Report and Code Portion, **write in a Canvas comment
-listing what tasks each group member was responsible for**.
-
-### Final Report
-
-#### Report Portion:
-* Write results and conclusion of your Quarter 1 Project.
-* Be sure to clarify with your mentor what's expected in your report.
-
-#### Code Portion:
-
-* Develop code for generating results.
-* Develop code that generates analysis/figures for results.
-
-In the root directory of you code, include a json file called
-`submission.json` which contains the following:
-
-```
-{
-    "dockerhub-id": "<user>/<image>:<tag>",
-    "repository-id": "https://github.com/<user>/<repo>.git"
-}
-```
-
-If your repository is too big for Gradescope (*only due to a
-git-submodule*), you should make the professor a collaborator on your
-private repository (github user: `afraenkel`).
-
-Your project will be download from Gradescope, uploaded to DSMLP in
-an empty directory. A pod will be launched with your docker container
-(in submission.json) and the command will `python run.py test` will be
-run in your project root.
-
-For both the Report and Code Portion, **write in a Canvas comment
-listing what tasks each group member was responsible for**.

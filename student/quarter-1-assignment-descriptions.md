@@ -11,13 +11,14 @@ permalink: /student/quarter-1-assignment-descriptions/
 
 ---
 
-## Result Replication 
+## Q1 Project
 
 *This assignment is worked on in groups of 2*.
 
-The 'result replication' is the main output of the first quarter
+The Q1 project is the main output of the first quarter
 work. The final result consists of a report and code replicating a
-known result in your domain (chosen by your domain mentor). Doing a
+known result in your domain (chosen by your domain mentor) or a
+preliminary investigation into a problem in the domain. Doing a
 careful job on this assignment will:
 * Give you a broad overview of your domain, alongside a nuanced
   understanding of a small area within your domain. This will
@@ -27,16 +28,10 @@ careful job on this assignment will:
 * Serve as practice for writing your Quarter 2 (and as a rough draft of
   your background/literature review).
   
-Quality work on the result replication *will* drastically reduce the
+Quality work on the Q1 project *will* drastically reduce the
 work you do on the Quarter 2 project -- building off of a thorough
 result replication will allow your own project to more developed,
 nuanced, and sophisticated!
-
-The [result replication project](/assignments/quarter-1-replication/)
-is broken into three parts:
-* [Checkpoint 1](/assignments/quarter-1-replication/#checkpoint-1)
-* [Checkpoint 2](/assignments/quarter-1-replication/#checkpoint-2)
-* [Final Replication](/assignments/quarter-1-replication#final-report)
 
 ## Project Proposal
 
