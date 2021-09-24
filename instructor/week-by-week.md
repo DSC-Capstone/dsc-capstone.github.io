@@ -34,7 +34,7 @@ of the course, especially when it relates to the domains in some way.
 
 ## Week 2
 
-* Students are required to create a project code template the Quarter 1
+* Students are required to create a project code template for the Quarter 1
   project, according to guidance from lecture.
 * Mentors are suggested to discuss the main problem statement for the
   domain and make it clear what their 'Q1 project' will
