@@ -23,6 +23,8 @@ In Progress!
 ### Terminal and Command-Line Interfact
 
 * [list of useful commands and descriptions](/resources/cli_introduction)
+* [Command-line Basics](/resources/learning_cli)
+* [SSH tunneling with Jupyter](/resources/ssh_tunnel_and_jupyter.md) (Tutorial)
 * [Terminal Reference](https://www.educative.io/blog/bash-shell-command-cheat-sheet)
 * [Bash Scripting Reference](https://devhints.io/bash)
 * [Git(Hub) Resources](https://try.github.io/)
