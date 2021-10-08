@@ -16,13 +16,15 @@ In Progress!
 
 ### UCSD DSMLP Cluster
 
-* [Using the DSMLP server](https://support.ucsd.edu/its?id=kb_category&kb_category=7defd803db49fb08bd30f6e9af961a979)
-  - [Customizing the DSMLP Containers](https://support.ucsd.edu/services?id=kb_article_view&sysparm_article=KB0032273&sys_kb_id=b18fd328dbe2dcd04cd8f06e0f961988)
+* [Using the DSMLP server](https://support.ucsd.edu/services?id=kb_category&kb_category=368cc80fdb5c68d0d4781c79139619e2)
+  - [Customizing the DSMLP Containers](https://support.ucsd.edu/services?id=kb_article_view&sysparm_article=KB0032273)
 * [Creating your own dockerfile on DSMLP](https://github.com/ucsd-ets/datahub-example-notebook)
 
 ### Terminal and Command-Line Interfact
 
 * [list of useful commands and descriptions](/resources/cli_introduction)
+* [Command-line Basics](/resources/learning_cli)
+* [SSH tunneling with Jupyter](/resources/ssh_tunnel_and_jupyter) (Tutorial)
 * [Terminal Reference](https://www.educative.io/blog/bash-shell-command-cheat-sheet)
 * [Bash Scripting Reference](https://devhints.io/bash)
 * [Git(Hub) Resources](https://try.github.io/)
