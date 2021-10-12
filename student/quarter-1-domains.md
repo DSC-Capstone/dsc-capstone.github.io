@@ -35,7 +35,7 @@ See Canvas for locations and times
 |A16|Armin Schwartzman|Satellite image analysis|
 |B01|Berk Ustun|ML for Finance, ML for Healthcare,  Fair ML, ML for Science|
 |B02|Stuart Geiger|Social media; online communities; text analysis; ethics|
-|B03|Yusu Wang|geometric/topological data analysis for neurological data|
+|B03|Yusu Wang|Analyzing single cell multimodality data via (coupled) autoencoder neural networks|
 |B04|Zhiting Hu|Machine Learning, Natural Language Processing|
 |B05|Alex Cloninger, Deloitte|Activity Based Travel Models and Feature Selection|
 |B06|Babak Salimi|Explainable AI, Causal Inference |
