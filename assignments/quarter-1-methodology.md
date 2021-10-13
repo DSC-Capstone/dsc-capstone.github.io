@@ -184,7 +184,7 @@ Push the image to DockerHub and launch a pod on dsmlp server using
 this image.  Test out your environment on the pod (can you start
 python and import `babypandas`?)
 
-### Turn in your work (deadline extended to Nov 3rd)
+### Turn in your work
 
 * Launch a pod using your Docker Image (as in step 3) and run the
   following command: `bash /datasets/dsc180-fa20-grading-tmp/method4-grader.sh`
