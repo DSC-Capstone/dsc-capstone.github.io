@@ -131,7 +131,7 @@ After completing this assignment, you should be able to:
 ### Creating a Dockerfile
 Generally, you don't need to create every dockerfile from
 scratch. Instead, you build on existing images and add stuff that you
-need.  In this assignment, we will use `ucsdets/datascience-notebook:2020.2-stable` as our base
+need.  In this assignment, we will use `ucsdets/datascience-notebook:2021.2-stable` as our base
 image and add a couple of software libraries that we need on top of that.
 
 So, let's start with an image from datahub/dsmlp and see what is
@@ -149,7 +149,7 @@ We are going to create our own Dockerfile, inspired from this one, and
 add a couple of libraries.
 
 ### Task 1: Write a Dockerfile
-Create a Dockerfile using `ucsdets/datascience-notebook:2020.2-stable` as your base image and
+Create a Dockerfile using `ucsdets/datascience-notebook:2021.2-stable` as your base image and
 then add the following libraries using linux's package manager
 `apt-get`:
 * [aria2](https://aria2.github.io/)
@@ -186,9 +186,9 @@ python and import `babypandas`?)
 
 ### Turn in your work
 
-* Launch a pod using your Docker Image (as in step 3) and run the
-  following command: `bash /datasets/dsc180-fa20-grading-tmp/method4-grader.sh`
-* Go to gradescope and turn in both the image name and the Dockerfile. We will use this as a backup plan if that script above doesn't work for you.
+* ~~Launch a pod using your Docker Image (as in step 3) and run the
+  following command: `bash /datasets/dsc180-fa20-grading-tmp/method4-grader.sh`~~
+* Go to gradescope and turn in both the image name and the Dockerfile. We will pull the image and test if requirements are met.
 
 ---
 
