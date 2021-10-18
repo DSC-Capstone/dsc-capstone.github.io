@@ -71,7 +71,9 @@ You will work on the report in two parts (one checkpoints and a final):
 2. Checkpoint #1: Introduction / Methods
 3. Final: Results and Conclusions
 
-## Specifics on what to turn in
-
-To be added later
+The Checkpoint will focus some of the following topics: an
+introduction to the problem that you've been learning, context around
+that problem, data analysis describing the problem, or a description
+of methods. What exactly is included depends on the domain and you
+should ask your mentor for clarification.
 
