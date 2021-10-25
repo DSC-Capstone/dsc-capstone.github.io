@@ -13,7 +13,6 @@ permalink: /student/quarter-1-assignment-descriptions/
 
 ## Q1 Project
 
-*This assignment is worked on in groups of 2*.
 
 The Q1 project is the main output of the first quarter
 work. The final result consists of a report and code replicating a
