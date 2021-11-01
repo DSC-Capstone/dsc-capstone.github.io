@@ -31,8 +31,8 @@ material for your discussion section.
 |3|<c>Anatomy of a Paper</c>||
 |4|<d>Docker</d>|[Methodology Assignment #3](/assignments/quarter-1-methodology#assignment-3)|
 |5|<g>config vs code</g>|**[Q1 Project Checkpoint](/assignments/quarter-1-replication/#checkpoint)**|
-|6|<c>Writing an EDA</c>||
-|7|<d>Kubernetes</d>|[Methodology Assignment #4](/assignments/quarter-1-methodology#assignment-4)|
-|8|<c>Pitches</c>|[Methodology Assignment #5](/assignments/quarter-1-methodology#assignment-5)|
-|9|<g>Secrets</g>|**[Project Proposal](/assignments/quarter-1-project-proposal)**|
-|10|<f>Project Management</f>|**[Final Replication](/assignments/quarter-1-replication/#final-report)**|
+|6|<d>Kubernetes / Long-running jobs</d>||
+|7|<c>Proposal / Pitches</c>|[Methodology Assignment #4](/assignments/quarter-1-methodology#assignment-4)|
+|8|<g>Secrets</g>|[Methodology Assignment #5](/assignments/quarter-1-methodology#assignment-5)|
+|9|<f>Project Management</f>|**[Project Proposal](/assignments/quarter-1-project-proposal)**|
+|10||**[Final Replication](/assignments/quarter-1-replication/#final-report)**|
