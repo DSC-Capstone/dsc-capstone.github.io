@@ -43,11 +43,16 @@ project. The proposal will consist of the following parts:
   differences from the problem being studied in the current domain. In
   particular, it should note the scope of the data being considered
   for the investigation. 
+  - Give the reader enough context to convince them the problem is 
+    interesting and worth looking into.
+  - Provide enough detail for a domain expert to understand whether the 
+    proposal is reasonable and realistic.
 * Specify the project output (a report/paper, website, a product that
   does something).
-* A preliminary EDA that provides justification for why the project is
-  both *relevant* and *doable* in the proposed timeframe. (In
-  particular, this section requires you to get the data).
+
+Note: if you are incorporating data into your project that you have
+not yet used, you must get access to it in Q2 and show (via a data
+analysis) that it contains what you need to do the project.
 
 ## Schedule
 
@@ -77,7 +82,7 @@ elevator pitch will be:
 A thorough proposal should answer the following questions:
 * What set of problems are being investigated? (Or what are you
   proposing to build, and what problem does that solve)?
-* How do these problems relate to the domain replication project?
+* How do these problems relate to the domain Q1 project?
   - Has previous work attempted to answer these questions?
   - If not, why are these questions considered interesting? If so,
     how did they fail?
