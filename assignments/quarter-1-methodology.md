@@ -247,7 +247,7 @@ default `<tag>` is `:latest` if you don't supply it).
 ```
 {
     "dockerhub-id": "<user>/<image>:<tag>",
-    "build-script": "<command>
+    "build-script": "<command>"
 }
 ```
 
