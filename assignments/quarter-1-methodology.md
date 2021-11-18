@@ -238,23 +238,40 @@ test data and implement a the standard target `test`.
    it should build the output your project creates, as it currently
    exists).
 
-Turn in your code to gradescope (this will be your project repository,
-though perhaps a different branch). In this submission, create a
-`submission-methodology.json` file that contains your dockerhub
-repository (The format should be `<user>/<image>:<tag>`. The default
-`<tag>` is `:latest` if you don't supply it).
+Turn in your code to gradescope (this will be your project
+repository. In this submission, include a `submission.json`
+file in the root directory of your repository that contains your
+dockerhub repository (The format should be `<user>/<image>:<tag>`. The
+default `<tag>` is `:latest` if you don't supply it).
 
 ```
 {
-    "dockerhub-id": "<user>/<image>:<tag>"
+    "dockerhub-id": "<user>/<image>:<tag>",
+    "build-script": "<command>
 }
 ```
 
-Your submission will be run on DSMLP (in a
-container built from your dockerhub image) with the command `python
-run.py test`. As this assignment encourages you to get your
-project-build in order early, there will be tests that don't depend on
-your build to run.
+Your submission will be run on DSMLP: 
+* A container will be started using the command `launch.sh -i
+<user>/<image>:<tag>` using the docker image information in
+`submission-methodology.json`.
+* Once in the container, the 'build-script' command will be run.
+
+For example, a `submission-methodology.json` file might look like:
+```
+{
+    "dockerhub-id": "amfraenkel/fair-policing-project",
+    "build-script": "python run.py"
+}
+```
+
+And the following commands would be run on DSMLP:
+* `launch.sh -i amfraenkel/fair-policing-project`
+* `python run.py test`
+
+
+As this assignment encourages you to get your project-build in order
+early, there will be tests that don't depend on your build to run.
 
 *Note:* This assignment should readily apply to all domains. 
 * Data-centered domains start with collected data (that you will model
