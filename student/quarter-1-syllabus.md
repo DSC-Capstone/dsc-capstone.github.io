@@ -82,8 +82,8 @@ The course grade will be computed using the following proportions:
 |Methodology HW|5%|
 |Discussion Section Participation (Mentor)|5%|
 |Discussion Section Particicpation (Written Responses)|5%|
-|Domain result replication (reports + checkpoint)|50%|
-|Domain result replication (code + checkpoint)|20%|
+|Domain Q1 Project (reports + checkpoint)|50%|
+|Domain Q1 Project (code)|20%|
 |Project proposal|15%|
 
 ### Grading Policy
