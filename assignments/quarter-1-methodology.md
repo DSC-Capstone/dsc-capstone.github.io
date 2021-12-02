@@ -253,10 +253,10 @@ default `<tag>` is `:latest` if you don't supply it).
 
 Your submission will be run on DSMLP: 
 * A container will be started using the command `launch.sh -i <user>/<image>:<tag>`
- using the docker image information in `submission-methodology.json`.
+ using the docker image information in `submission.json`.
 * Once in the container, the 'build-script' command will be run.
 
-For example, a `submission-methodology.json` file might look like:
+For example, a `submission.json` file might look like:
 ```
 {
     "dockerhub-id": "amfraenkel/fair-policing-project",
