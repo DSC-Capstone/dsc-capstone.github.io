@@ -40,7 +40,7 @@ attendence in discussion each week is mandatory, like in quarter 1.
 
 ## Course Deliverables
 
-See the page on [Q2 assignments](/student/assignment-descriptions)
+See the page on [Q2 assignments](/student/quarter-2-assignment-descriptions)
 
 ## Assessments and Grades
 
