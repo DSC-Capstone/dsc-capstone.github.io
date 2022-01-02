@@ -10,7 +10,8 @@ to Canvas:
 
 * What did each group member do the previous week? Did it meet the
   goals set out in the schedule? Were there unexpected obstacles? Do
-  you need help overcoming them?
+  you need help overcoming them? *Be sure you explicitly list what
+  each group member did that week!*
 * What will each group member do next week? Are any of these tasks new
   and/or unexpected? 
 * Are there any changes to the project proposal that have to be made?
