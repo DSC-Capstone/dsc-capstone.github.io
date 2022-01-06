@@ -11,23 +11,33 @@ doodle: /assets/images/doodle.png
 ---
 
 ## Mandatory Check-in
-This is a mandatory meeting with a TA during week 3-4. Given that you have been working on the project for 3 weeks now, this checkin is to make sure you that you are making progress in the right direction and are not stuck anywhere and on track for your checkpoint. Make an appointment with your domain TA and discuss the following:
-1. Current status
+
+This is a mandatory meeting with a TA during week 3. 
+
+Deadlines:
+* You must agree on an appointment time with your TA by the end of
+  week 2.
+* You must submit the write-up for the meeting 24 hours before the
+  meeting itself.
+
+Given that you have been working on the project for 3 weeks now, this
+check-in is to make sure you that you are making progress in the right
+direction, are not stuck anywhere, and on track for your
+project checkpoint. Make an appointment with your TA and
+discuss the following:
+
+1. A short summary of, and current status of your project
 2. Any challenges you might be facing and any questions you have regarding organizing your code.
 
 This is different from your weekly section meetings in the sense that this is more about making sure that your ideas and code are coming together cogently.
 
-Submission:
-* Github repo link.
-* Report with the following sections:
-   * An abstract of your problem statement (revised proposal)
-     1. This can be copied from your proposal.
-     2. Idea is to capture things that have changed from what you proposed which tends to happen once you actually start working on a problem statement.
-     3. Points 2, 3, and 4 should follow from this.
-  * Tasks completed till now.
-  * Current tasks and concerns/issue if any.
-  * Future plan.
-
+Please submit a brief write-up on Canvas:
+* Project Github repo link (should be public).
+* An abstract of your problem statement (revised proposal)
+  1. This can be copied from your proposal.
+  2. Idea is to capture things that have changed from what you proposed, which tends to happen once you actually start working on a problem statement.
+* Tasks completed till now.
+* Current tasks and concerns/issue if any.
 
 ## Project Report Checkpoint
 
@@ -46,9 +56,6 @@ Requirements for submission:
   appendix of your report (at the end).
 * In a comment on the Canvas submission, include the tasks for which
   each group member was responsible.
-* Once submitted, you will be assigned another group's submission to
-  be peer reviewed.
-
 
 This assignment is due at the end of week 5 and is graded by your
 domain mentor.
@@ -63,9 +70,9 @@ the requirements for this assignment, for a 'mid-checkpoint check-in'.
 This checkpoint will check that the code:
 1. is well documented and build instructions are found in a
    README.
-2. is structured with best-practices laid out in quarter-1
-   methodology.
-3. contains a test target that tests the pipeline on test data.
+2. is structured with best-practices in your domain (and in quarter-1
+   methodology, where applicable).
+3. contains a test target that tests the pipeline on test data, where applicable.
 4. runs in a Docker Image on DSMLP, via `python run.py test`.
 
 You will **not** submit your repository. Rather, you will submit a
@@ -87,9 +94,8 @@ This is graded by the methodology instructor.
 The visual presentation checkpoint requires you to write the technical
 scaffolding for your visual output.
 
-If you are creating a blog or presenting material on a webpage, you
-must:
-1. Create a live webpage that contains a skeleton/outline of your
+You must:
+1. Create a live static webpage that contains a skeleton/outline of your
    project webpage. It should contain titles and headers, but does not
    need to contain content (i.e. you should put thought into how your
    webpage is organized).
@@ -99,19 +105,15 @@ must:
 1. The `README.md` in the code repository should contain the URL to
    your webpage, which the grader can use to visit your webpage.
 
-If you are creating other visual output (e.g. your own web-server or
-mobile application), you must
-1. Create the scaffolding for your output. Please see the Professor
-   for the specific requirements.
-1. Turn in the code repository URL for the output (this is *not* your
-   project GitHub repository).
-1. The `README.md` in the code repository should provide instructions
-   on how to deploy the code.
-
 This is graded by the methodology instructor and is graded P/NP. To
 pass this assignment, you must make reasonable effort at each of the
 items listed above.
 
+*Note:* If you are planning on creating a website with a backend, you
+still must create a static website explaining your project. This is
+the way most people will acquaint themselves with your project. You
+should include a prominent link to your interactive webpage from your
+static page.
 
 ## Presentation Checkpoint
 
