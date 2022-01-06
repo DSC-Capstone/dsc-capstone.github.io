@@ -4,6 +4,8 @@ title: Participation
 doodle: /assets/images/doodle.png
 ---
 
+This assignment is due 24 hours before your domain meeting.
+
 Each week before discussion section, your group should meet to discuss
 your progress. Each group should turn the following progress report in
 to Canvas:
