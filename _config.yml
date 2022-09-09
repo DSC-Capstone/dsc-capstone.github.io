@@ -2,7 +2,7 @@ safe: true
 title: "UCSD Data Science Capstone"
 source: .
 destination: _site
-url: "https://dsc-capstone.github.io/"
+url: "https://dsc-capstone.github.io/archive/2021-22/"
 permalink: /:url/
 defaults:
   - scope:
