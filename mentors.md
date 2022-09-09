@@ -1,17 +1,18 @@
 ---
 layout: page
-title: 🧑‍🏫 Mentor Guide
+title: 👨‍🏫 Mentor Guide
 description: Information for domain mentors.
 nav_order: 8
 ---
 
-# 🧑‍🏫 Mentor Guide
+# 👨‍🏫 Mentor Guide
 {:.no_toc}
 
 This page contains all of the information you need to know as a domain mentor. Current mentors and potential future mentors alike will find this useful. (Students probably won't!)
 
 <!-- - For mentors in 2022-23, you will see several items labelled **Action Item**{: .label .label-red }; these are tasks that mentors need to complete before the start of the quarter. -->
-- If you've read this already, you might just be here for [Instructions](#instructions), which are at the bottom of the page.
+
+If you've read this already, you might just be here for [Instructions](#instructions), which are at the bottom of the page.
 
 ---
 
@@ -25,13 +26,13 @@ This page contains all of the information you need to know as a domain mentor. C
 
 ## Pre-Quarter Action Items
 
-Throughout this page, several pre-quarter action items are mentioned; they are summarized here.
+Throughout this page, several pre-quarter action items are mentioned. They are summarized here.
 
 - [ ] If you're teaching a Zoom section, add a link to your section [here](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872).
 - [ ] Add a location and time for your office hours [here](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872).
 - [ ] If you'd like, create a website for your section and link it [here](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872).
 - [ ] If you'd like, create a Slack/Discord/Campuswire/EdStem group for your section and link it [here](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872).
-- [ ] Email your students ([instructions](#viewing-students-on-the-roster)) in advance of September 26th, introducing yourself and sharing any pertinent information. **Remember that sections begin in the week of September 26th (Week 1).**
+- [ ] Email your students ([instructions](#viewing-students-on-the-roster)) in advance of September 26th, introducing yourself and sharing any pertinent information. **Remember that sections begin the week of September 26th (Week 1).**
 
 ---
 
@@ -53,35 +54,38 @@ Students were shown the domain topics and descriptions that you provided in adva
 
 ## Program Overview
 
-As mentioned above, the capstone program spans two quarters.
+As mentioned above, the capstone program spans two quarters. In both quarters, there are two components to the capstone: domain-specific instruction (provided by you) and methodology-specific instruction (provided by Suraj and the DSC 180AB TAs).
 
-- Quarter 1 (Fall 2022) consists of a "result replication" to acquaint students with the domain and take students through a dry run of putting together a larger project in code. They also form their project groups and write/present their project proposal.
-- In Quarter 2 (Winter 2023), students execute their project.
+| Quarter | Domain | Methodology |
+| --- | --- | --- |
+| 1 (Fall 2022) | Getting students up to speed in domain | Software development, reproducibility, environment independence |
+| 2 (Winter 2023) | Working on a project | Project management, effective communication skills |
+
+### Domain-Specific Instruction
+
+- Quarter 1 (Fall 2022) is designed to provide students an opportunity to acquaint themselves with a domain by replicating a known result. This replication project (or similar task in your domain) constitutes their "Quarter 1 Project". Discussion meetings largely consist of introducing the reading students will do the following week and answering questions students may have about the reading. 
+
+- Quarter 1 (Fall 2022) consists of a "result replication" to acquaint students with the domain and take students through a dry run of putting together a larger project in code. They also form their project groups and write/present their project proposal.  
+- In Quarter 2 (Winter 2023), students execute their project. Project teams report on their progress from the previous week as well as plans for the following week. The class helps teams solve issues they may be having (&quot;weekly check-ins&quot;).
 
 Throughout both quarters, you will hold an hour per week of discussion. 
 - In Quarter 1, this hour should be spent answering questions students have on the weekly readings and tasks you provide them with (more on this below).
 - In Quarter 2, this hour should be spent checking in with students on their projects.
 
-You should also hold one hour per week of office hours throughout both quarters. Unlike your discussion meeting time, which students already know (see the Domains and Mentors sheet linked in the top right corner of this site). 
-
-### What is the overall structure of the 2 quarter sequence?
+You should also hold one hour per week of office hours throughout both quarters. Unlike your discussion meeting time, which students already know (see [here](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872)), students do not yet know when your office hours will be. You will need to communicate this to them, and add this to the aforementioned sheet as well.
 
 
+### Methodology-Specific Instruction
 
-### How do students decide on projects?
-
-After 6 weeks of learning their domain individually, students form groups (or are placed into groups) and write project proposals in their domain area, with the guidance of their domain expert. Groups then work on these projects in Quarter 2.
+The methodology team (instructor + TAs) will hold several weekly office hours. These are designed for students to get help with methodology lectures and assignments, and to ask infrastructure-related questions about their projects.
 
 ---
 
-## Quarter 1 Specifics
+## Quarter 1 Logistics
 
-This section contains everything you need to know 
+This section contains everything you need to know to actually run your section in Quarter 1.
 
-
-
-
-## Preparing for Quarter 1 (Intro to Domain)
+### Preparing for Quarter 1
 
 The objectives for the first quarter of the Capstone are:
 * Introduce students to the area in which they will do their
@@ -180,6 +184,17 @@ Each is submitted multiple times (rough drafts). If either of the
 assignments doesn't fit with your domain, you can add additional
 domain-specific criteria; let staff and students know of these
 criteria.
+
+### How do students decide on projects?
+
+After 6 weeks of learning their domain individually, students form groups (or are placed into groups) and write project proposals in their domain area, with the guidance of their domain expert. Groups then work on these projects in Quarter 2.
+
+### How much leeway do students have in choosing a project?
+
+- Ideally, students formulate their own project closely related to the result-replication in Quarter 1. Formulating questions is a valuable skill, while hewing close to the result-replication will allow students to reuse their code.
+- However, you may approve any project you are comfortable advising as a domain expert. However, other students in the domain will be required to follow along and peer review their classmates, so a project too far afield may hinder those interactions.
+- Fixing the project ahead of time and requiring students to work on a specific coordinated task in the area is ok. In fact, typically students want such guidance. You should make these expectations clear at the beginning of the course.
+
 
 **Small Assignments:** 
 

@@ -19,24 +19,6 @@ nav_order: 1
 ---
 
 
-### How much leeway do students have in choosing a project?
-
-- Ideally, students formulate their own project closely related to the result-replication in Quarter 1. Formulating questions is a valuable skill, while hewing close to the result-replication will allow students to reuse their code.
-- However, you may approve any project you are comfortable advising as a domain expert. However, other students in the domain will be required to follow along and peer review their classmates, so a project too far afield may hinder those interactions.
-- Fixing the project ahead of time and requiring students to work on a specific coordinated task in the area is ok. In fact, typically students want such guidance. You should make these expectations clear at the beginning of the course.
-
-### What is the weekly structure in the course?
-
-- Lecture (1 hour/week)
-  - Quarter 1: students learn methodological standards for a data science project (software development, reproducibility, environment independence). Conducted in a "flipped" format – students read lecture notes and come to class to work on the related assignment.
-  - Quarter 2: students learn approaches to project/team management and effective (written, visual, oral) communication.
-- Discussion (1 hour/week)
-  - Quarter 1: Guided self-learning of a domain through replication of a known result. Section consists largely of introducing the reading student&#39;s will do the following week and answering questions students may have about the reading.
-  - Quarter 2: Project teams report on their progress from the previous week as well as plans for the following week. The class helps teams solve issues they may be having (&quot;weekly check-ins&quot;).
-- Office Hours
-  - The methodology team (instructor + TAs) will hold several weekly office hours. These are designed for students to get help with methodology lectures and assignments, and to ask infrastructure-related questions about their projects.
-  - Mentors should also each hold an hour of office hours per week, either regularly scheduled or by appointment.
-
 ### How much course preparation is required for hosting a domain?
 
 Not as much as it may seem; the sequence is designed to reduce the overhead required to scale mentorship across multiple groups. The following list the main class-prep tasks:
