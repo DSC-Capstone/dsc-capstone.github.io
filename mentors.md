@@ -10,7 +10,7 @@ nav_order: 8
 
 This page contains all of the information you need to know as a domain mentor. Current mentors and potential future mentors alike will find this useful (students probably won't!).
 
-If you've read this already, you might just be here for [Instructions](#instructions), which are at the bottom of the page.
+If you've read this already, you might just be here for [Instructions for Administrative Tasks](#instructions-for-administrative-tasks), which are at the bottom of the page.
 
 ---
 
@@ -27,15 +27,17 @@ If you've read this already, you might just be here for [Instructions](#instruct
 There are several action items mentioned throughout this page; they are summarized here.
 
 In the [Mentors and Domains](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) spreadsheet:
-- [ ] Check to see where your section is being held.* If you're teaching a Zoom section, add a link to your section.
+- [ ] Check to see where your section is being held. If you're teaching an in-person section in SDSC and don't have keycard access to SDSC, we will be following up with access information.
+- [ ] If you're teaching a Zoom section, add a link to your section.
 - [ ] Add a location and time for your office hours.
 - [ ] If you'd like, create a website for your section and link it (more details below).
 - [ ] If you'd like, create a Slack/Discord/Campuswire/EdStem group for your section and link it.
 
 Also:
 - [ ] View the students in your section by following these instructions ([instructions](#viewing-students-on-the-roster)). Send them an email in advance of September 26th, introducing yourself and sharing any pertinent information. 
+- [ ] If you're an industry mentor or liaison, meet with your liaison or mentor before the quarter starts to coordinate your section.
 
-**Remember that sections begin the week of September 26th (Week 1).** *If you're teaching an in-person section in SDSC and don't have keycard access to SDSC, we will be following up with access information. 
+**Remember that sections begin the week of September 26th (Week 1).**
 
 ---
 
@@ -47,7 +49,7 @@ The capstone program is a **two-quarter sequence** (Fall 2022 and Winter 2023) i
 - students have material to follow and learn from when developing their own work, and
 - the scope of projects remain manageable for the time frame and appropriate for the level of the students.
 
-Students were shown the domain topics and descriptions that you provided in advance of the enrollment period and have already enrolled by this point. They are free to change the domain they are enrolled in during Week 1, but space is limited. (To see which students are enrolled in your section, see the [Instructions](#instructions) section below.)
+Students were shown the domain topics and descriptions that you provided in advance of the enrollment period and have already enrolled by this point. They are free to change the domain they are enrolled in during Week 1, but space is limited. (To see which students are enrolled in your section, see the [Instructions for Administrative Tasks](#instructions-for-administrative-tasks) section below.)
 
 ---
 
@@ -57,8 +59,8 @@ As mentioned above, the capstone program spans two quarters. In both quarters, t
 
 | Quarter | Domain | Methodology |
 | --- | --- | --- |
-| 1 (Fall 2022) | Getting students up to speed in domain | Software development, reproducibility, environment independence |
-| 2 (Winter 2023) | Working on a project | Project management, effective communication skills |
+| 1 (Fall 2022) | Getting students up to speed in domain by working on a replication project | Software development, reproducibility, environment independence |
+| 2 (Winter 2023) | Working on an original project | Project management, effective communication skills |
 
 ### Domain-Specific Instruction
 
@@ -83,17 +85,17 @@ The methodology team (instructor + TAs) will hold several weekly office hours. T
 
 ## Quarter 1 Preparation
 
-The most straightfoward way to achieve the [objectives](#domain-specific-instruction) in Quarter 1 is **to choose a
+The most straightforward way to achieve the goals of Quarter 1 is **to choose a
 result or paper in your field around which to structure students' introduction to the domain**. While not strictly necessary, having known results to replicate helps students know they are on the right track. (After they start working on their Quarter 1 Project, they'll submit proposals for their more independent Quarter 2 Project, which will be within the realm of your domain.) 
 
-**IMPORTANT**{: .label .label-red } To structure student learning, you should prepare a **weekly schedule**. Each week should consist of three parts:
+**IMPORTANT**{: .label .label-red } To structure student learning, you should prepare a **weekly schedule** (see examples [below](#websites)). Each week should consist of three parts:
 - A list of 1-3 topics they are working on for the week.
 - Readings and/or tasks for the week. This is typically "read section XX
   from the paper and replicate their analysis on your data".
 - A list of 1-3 participation questions they should answer before
   discussion. These may be conceptual or computational, depending on what is appropriate for the tasks they were given. These may be formulated the week before, given your current understanding of student progress. More details are in the [Participation Questions](#participation-questions) section below.
 
-The schedule below follows a reasonable cadence for Quarter 1:
+The outline below follows a reasonable cadence for Quarter 1:
 
 |Topic|Number of Weeks|
 |---|---|
@@ -103,7 +105,7 @@ The schedule below follows a reasonable cadence for Quarter 1:
 |Possible Extensions|2-3|
 |Elevator Pitch for Quarter 2 Project|1|
 
-We will not "enforce" the above schedule; feel free to move at a pace that is appropriate for your domain.
+We will not "enforce" the above outline; feel free to move at a pace that is appropriate for your domain.
 
 ### Websites
 
@@ -142,10 +144,6 @@ the work they've attempted.  **Try to reinforce to students that the purpose of 
 feedback and guidance from domain mentors. The weekly schedule tries
 to facilitate that.**
 
-Some mentors find it useful to have students submit
-their answers to the weekly questions on Canvas *before* discussion,
-to help direct discussion.
-
 **IMPORTANT**{: .label .label-red } Discussions begin the week of September 26th – check the [Mentors and Domains](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) sheet to see where and when your section is. If you're running your sections through Zoom, add your Zoom link.
 
 
@@ -157,7 +155,7 @@ In addition to the readings and tasks students are asked to complete each week, 
 
 ### Communication
 
-You're encouraged to set up some form of a communication channel for the students in your domain, so that they can more easily discuss the readings and tasks with one another under your guidance.
+You're encouraged to set up some type of communication channel for the students in your domain, so that they can more easily discuss the readings and tasks with one another under your guidance. Such forums are also useful for fostering a sense of community amongst students in your section.
 
 **IMPORTANT**{: .label .label-red } If you create a Slack/Discord/Campuswire/EdStem for your section, link it in the [Mentors and Domains](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) sheet.
 
@@ -165,26 +163,24 @@ You're encouraged to set up some form of a communication channel for the student
 
 The main purpose of office hours are to provide students with help and guidance on their current work and to provide a meeting time for feedback on submitted work.
 
-You should require that students meet with you in office hours every ~3 weeks in Quarter 1. You should hold at least one hour of regularly scheduled office hours per week, or be available for office hours by appointment. One idea is to specify a few times that you'll be immediately available via email/Slack/Zoom to answer student questions.
+You should require that students meet with you in office hours every ~3 weeks in Quarter 1. You should hold at least one hour of regularly scheduled office hours per week. You might do this by specifying a few times that you'll be immediately available via email/Slack/Zoom to answer student questions. If students are unable to meet your regularly scheduled office hours, you may need to meet with them by appointment.
 
 **IMPORTANT**{: .label .label-red } Decide how you will hold office hours, and add the details to the [Mentors and Domains](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) sheet.
 
 ### Assignments
 
-All assignments in the course are "default assignments", suitably
-generic for any domain. If any of the assignments (other than the methodology assignments) don't fit with your domain, you can add additional
-domain-specific criteria; let staff and students know of these criteria.
+All assignments in the course are generic, designed to work for most domains out-of-the-box. If any of the assignments (other than the methodology assignments) don't fit with your domain, you can modify it to work for you; let staff and students know of these criteria.
 
 
 | Assignment | Description | Groups | Due | Graded By |
 | --- | --- | --- | --- | --- |
-| [Quarter 1 Project](../assignments/projects/q1) | Students replicate a known result or perform some other similar task in your domain. See the linked description (still tentative) for details. | Individual | Week 5 (checkpoint), Week 10 (final submission) | Code is graded by methodology staff; report is graded by domain mentors, either on Canvas or in mandatory office hours (for both the checkpoint and final submission) | 
-| [Quarter 2 Project Proposal](../assignments/projects/q2-proposal) | Proposal for final project. | Groups | Week 9 | Domain mentor |
-| [Participation Questions](#participation-questions) ([default questions](../assignments/participation/q1)) | Weekly questions to keep students engaged with the domain material.  | Individual | Weekly, 24 hours before discussion | Methodology staff (completion only); domain mentors should read to verify engagement but not grade |
+| [Quarter 1 Project](../assignments/projects/q1) | Students replicate a known result or perform some other similar task in your domain | Individual | Week 5 (checkpoint), Week 10 (final submission) | Code is graded by methodology staff; report is graded by domain mentors, either on Canvas or in mandatory office hours (for both the checkpoint and final submission) | 
+| [Quarter 2 Project Proposal](../assignments/projects/q2-proposal) | Proposal for final project | Groups | Week 9 | Domain mentor |
+| [Participation Questions](#participation-questions) ([default questions](../assignments/participation/q1)) | Weekly questions to keep students engaged with the domain material  | Individual | Weekly, 24 hours before discussion | Methodology staff (completion only); domain mentors should read to inform how to run discussion |
 | [Methodology Assignments](../) | Assignments that develop students' software development and project management skills. | Individual | Bi-weekly | Methodology staff |
 
 
-**Note:** As of this writing (Sept. 10), the specifications for the Quarter 1 Project and Quarter 2 Project Proposal are not final, but they should suffice for preparation purposes. A salient detail for now, though, is _how_ students are meant to propose their Quarter 2 Projects:
+**Note:** As of this writing (Sept. 10), the specifications linked in the table above for the Quarter 1 Project and Quarter 2 Project Proposal are not final, but they should suffice for preparation purposes. A salient detail for now, though, is _how_ students are meant to propose their Quarter 2 Projects:
 - Ideally, students formulate their own project closely related to their Quarter 1 Project. Formulating questions is a valuable skill, and hewing close to the Quarter 1 Project will allow students to reuse their code.
 - However, you may approve any project you are comfortable advising as a domain expert. Note that other students in the domain will be required to follow along and peer review their classmates, so a project too far afield may hinder those interactions.
 - Fixing the project ahead of time and requiring students to work on a specific coordinated task in the area is fine. In fact, typically students want such guidance. You should make these expectations clear at the beginning of the course.
@@ -193,20 +189,19 @@ Students will submit work to both Gradescope and Canvas. Generally, when an assi
 
 ### Grading
 
-Regular feedback on student work is important for their progress
-toward a successful capstone project. We've designed the capstone program to give students frequent feedback with minimal overhead for the mentor and minimal stress for students.
+It is important to provide students with regular feedback on their work to ensure their progress towards a successful Quarter 2 Project. We've designed the capstone program to give students frequent feedback with minimal overhead for the mentor and minimal stress for students.
 
-In order to ensure consistent grading across such a diverse array of domains, we will utilize a **coarse grading scheme with a clear rubric**. This scheme will reflect broad checkpoints that students met, and should help maintain
+In order to ensure consistent grading across such a diverse array of domains, we will utilize a **coarse grading scheme with a clear rubric**. This scheme will reflect broad checkpoints that students meet, and should help maintain
 focus on *large, impactful* things that students can improve on while reducing grading disagreements.
   
-The grading scheme we will use follows an A/B/C/F scale (without plus/minus), developed by Shannon Ellis:
+The grading scheme we will use for individual assignments follows an A/B/C/F scale (without plus/minus), developed by Shannon Ellis:
 
 |Grade|Criteria|
 |---|---|
-|A (4.0) |Accomplishes the task accurately, completely, and clearly. Code is clear, effective, and efficient. Written component is concise, at the appropriate level, and correct. Oral component (when applicable) is effective both visually and explanation; is within the time limit. |
-|B (3.0) |Accomplishes the task well, but lacks some completeness or clarity. Code runs but lacks some aspect of clarity, effectiveness, and or efficiency. Written component is logical and generally correct, but lacks either clarity or accuracy. Oral component (when applicable) is moderately effective and/or slightly outside the time window. |
-|C (2.0) |The task is somewhat accomplished, but lacks significantly when it comes to completeness and clarity. Code present but does not accomplish the task up to the standards of a data science graduating senior. Written component lacks substantial clarity/correctness. Oral component (when applicable) significantly lacks effectiveness/clarity. |
-|F (0.0) |The task largely remains unaccomplished. Code lacks completeness, structure, and is unclear. Written component lacking required information to understand what you did and/or your results. Oral component (when applicable) is nonsensical/unclear. |
+| A (4.0) |Accomplishes the task accurately, completely, and clearly. Code is clear, effective, and efficient. Written component is concise, at the appropriate level, and correct. Oral component (when applicable) is effective and within the time limit. |
+| B (3.0) |Accomplishes the task well, but lacks some completeness or clarity. Code runs but lacks some aspect of clarity, effectiveness, and or efficiency. Written component is logical and generally correct, but lacks either clarity or accuracy. Oral component (when applicable) is moderately effective and/or slightly outside the time window. |
+| C (2.0) |The task is somewhat accomplished, but lacks significantly when it comes to completeness and clarity. Code present but does not accomplish the task up to the standards of a data science graduating senior. Written component lacks substantial clarity/correctness. Oral component (when applicable) significantly lacks effectiveness/clarity. |
+| F (0.0) |The task largely remains unaccomplished. Code lacks completeness, structure, and is unclear. Written component lacks required information to understand the work done. Oral component (when applicable) is nonsensical/unclear. |
 
 Hopefully, it is "obvious" what grade an assignment should receive. With that said, the focus is not the grade, but rather actionable feedback. Whenever you are responsible for grading something, you will need to enter your letter grades on Canvas, but you can provide students with feedback either in writing or in office hours.
 
@@ -234,26 +229,26 @@ Unless your project has very specialized computing needs, you likely don't need 
 
 This section is only relevant for industry mentors and liaisons.
 
-If you're an industry partner running a section, you have been assigned a faculty "liaison" whose job is to act as a "bridge" between you and the students in your section and between you and the methodology staff. See [here](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) for the name and contact of your liaison.
+If you're an industry partner running a section, you have been assigned a faculty "liaison" whose job is to act as a "bridge" between you and the students in your section and between you and the methodology staff. See [here](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) for the name and contact information for your liaison.
 
 **If you're an industry mentor**, you're responsible for all of the tasks mentioned above – running your discussion meetings, holding office hours, grading, etc. Note that you may not have access to Canvas, the platform on which students will submit their domain-related work and where you are meant to enter grades. Your industry liaison will be responsible for ensuring you're still able to provide students with the feedback they need.
 
 **If you're an industry liaison** (i.e. UCSD faculty), your role entails:
 - Attending and supporting discussion meetings.
-  - This is strongly recommended based on the experiences of past liaisons, but is not strictly required. By attending discussion meetings, you'll be up-to-date on what the students are learning and will gain a sense of what they're struggling with.
+  - By attending discussion meetings, you'll be up-to-date on what the students are learning and will gain a sense of what they're struggling with. If you have a schedule conflict, email Suraj.
 - Holding by-appointment office hours for students in your domain and being available over email/Slack/etc.
   - You'll want to regularly check in with students and understand their progress in the domain and on their projects. In particular, they may share with you challenges or other information that they're not comfortable sharing with the industry mentor (for whatever reason), and it's your job to synthesize and relay this information to the industry mentor. 
-- Downloading student submissions from Canvas and sending them to the industry mentor.
-  - As mentioned above, industry mentors may not have access to Canvas.
-- Discussing grades with the industry mentor, and once there is agreement, entering grades on Canvas.
-  - Depending on your arrangement, the liaison may be responsible for grading as well.
+- Facilitating the grading of student submissions on Canvas.
+  - As mentioned above, industry mentors may not have access to Canvas. As such, you will have to download student submissions from Canvas and send them to the industry mentor.
+  - You should also discuss what grades to assign student submissions with the industry mentor. Depending on your arrangement, you may solely be responsible for grading and communicating feedback to students.
+  - Once grades are agreed upon, you should enter them on Canvas.
 - Otherwise ensuring all aspects of the domain are being run (website is updated, students are submitting work, etc.) and supporting both the industry mentor and the students in the section.
 
-Industry mentors and liaisons should meet at least once before the start of the quarter to clearly outline who is responsible for what.
+**IMPORTANT**{: .label .label-red } Industry mentors and liaisons should meet at least once before the start of the quarter to clearly outline who is responsible for what.
 
 ---
 
-## Instructions
+## Instructions for Administrative Tasks
 
 Information on how to perform various tasks is provided below.
 
@@ -263,7 +258,7 @@ Information on how to perform various tasks is provided below.
 
 1. Go to the [Class Lists](https://act.ucsd.edu/FacultyClasslist/facultyclasslist.htm) page, and sign in with your Business Systems login. (If you're not a UCSD faculty member, you won't have access to this.)
 
-2. Under "Term", make sure Fall 2022 is clicked. Scroll down to "Instructor" and write "Rampure", and click "Search".
+2. Select Fall 2022 for "Term," enter "Rampure" for "Instructor," and click "Search."
 
 3. Select your section, and then either "View" or "Download". (If you don't remember your section code, visit [this sheet](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872).)
 
