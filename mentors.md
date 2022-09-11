@@ -8,9 +8,7 @@ nav_order: 8
 # 👨‍🏫 Mentor Guide
 {:.no_toc}
 
-This page contains all of the information you need to know as a domain mentor. Current mentors and potential future mentors alike will find this useful. (Students probably won't!)
-
-<!-- - For mentors in 2022-23, you will see several items labelled **Action Item**{: .label .label-red }; these are tasks that mentors need to complete before the start of the quarter. -->
+This page contains all of the information you need to know as a domain mentor. Current mentors and potential future mentors alike will find this useful (students probably won't!).
 
 If you've read this already, you might just be here for [Instructions](#instructions), which are at the bottom of the page.
 
@@ -35,7 +33,7 @@ In the [Mentors and Domains](https://docs.google.com/spreadsheets/d/1WSSB0kXRisL
 - [ ] If you'd like, create a Slack/Discord/Campuswire/EdStem group for your section and link it.
 
 Also:
-- [ ] Email your students ([instructions](#viewing-students-on-the-roster)) in advance of September 26th, introducing yourself and sharing any pertinent information. 
+- [ ] View the students in your section by following these instructions ([instructions](#viewing-students-on-the-roster)). Send them an email in advance of September 26th, introducing yourself and sharing any pertinent information. 
 
 **Remember that sections begin the week of September 26th (Week 1).** *If you're teaching an in-person section in SDSC and don't have keycard access to SDSC, we will be following up with access information. 
 
@@ -236,9 +234,26 @@ Unless your project has very specialized computing needs, you likely don't need 
 
 ---
 
-## Industry Partners and Liaisons
+## Industry Mentors and Liaisons
 
-This section is only relevant for industry partners and liaisons.
+This section is only relevant for industry mentors and liaisons.
+
+If you're an industry partner running a section, you have been assigned a faculty "liaison" whose job is to act as a "bridge" between you and the students in your section and between you and the methodology staff. See [here](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) for the name and contact of your liaison.
+
+**If you're an industry mentor**, you're responsible for all of the tasks mentioned above – running your discussion meetings, holding office hours, grading, etc. Note that you may not have access to Canvas, the platform on which students will submit their domain-related work and where you are meant to enter grades. Your industry liaison will be responsible for ensuring you're still able to provide students with the feedback they need.
+
+**If you're an industry liaison** (i.e. UCSD faculty), your role entails:
+- Attending and supporting discussion meetings.
+  - This is strongly recommended based on the experiences of past liaisons, but is not strictly required. By attending discussion meetings, you'll be up-to-date on what the students are learning and will gain a sense of what they're struggling with.
+- Holding by-appointment office hours for students in your domain and being available over email/Slack/etc.
+  - You'll want to regularly check in with students and understand their progress in the domain and on their projects. In particular, they may share with you challenges or other information that they're not comfortable sharing with the industry mentor (for whatever reason), and it's your job to synthesize and relay this information to the industry mentor. 
+- Downloading student submissions from Canvas and sending them to the industry mentor.
+  - As mentioned above, industry mentors may not have access to Canvas.
+- Discussing grades with the industry mentor, and once there is agreement, entering grades on Canvas.
+  - Depending on your arrangement, the liaison may be responsible for grading as well.
+- Otherwise ensuring all aspects of the domain are being run (website is updated, students are submitting work, etc.) and supporting both the industry mentor and the students in the section.
+
+Industry mentors and liaisons should meet at least once before the start of the quarter to clearly outline who is responsible for what.
 
 ---
 
