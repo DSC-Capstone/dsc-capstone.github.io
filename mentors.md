@@ -26,7 +26,7 @@ If you've read this already, you might just be here for [Instructions for Admini
 
 There are several action items mentioned throughout this page; they are summarized here.
 
-In the [Mentors and Domains](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) spreadsheet:
+In the [Domains and Mentors](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) spreadsheet:
 - [ ] Check to see where your section is being held. If you're teaching an in-person section in SDSC and don't have keycard access to SDSC, we will be following up with access information.
 - [ ] If you're teaching a Zoom section, add a link to your section.
 - [ ] Add a location and time for your office hours.
@@ -120,7 +120,7 @@ One way to share your weekly schedule, readings, and tasks with your students is
 
 The easiest way to create a website of your own is to clone one of the websites above. Many follow Aaron Fraenkel's site, whose site's GitHub repository is linked [here](https://github.com/afraenkel/capstone-malware-domain). Make sure to enable GitHub Pages. Note that it's not _required_ to create a website; you may choose to share information with students in other ways, like a Google Drive folder. 
 
-**IMPORTANT**{: .label .label-red } If you create some sort of homepage for students, link it in the [Mentors and Domains](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) sheet.
+**IMPORTANT**{: .label .label-red } If you create some sort of homepage for students, link it in the [Domains and Mentors](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) sheet.
 
 ---
 
@@ -144,7 +144,7 @@ the work they've attempted.  **Try to reinforce to students that the purpose of 
 feedback and guidance from domain mentors. The weekly schedule tries
 to facilitate that.**
 
-**IMPORTANT**{: .label .label-red } Discussions begin the week of September 26th – check the [Mentors and Domains](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) sheet to see where and when your section is. If you're running your sections through Zoom, add your Zoom link.
+**IMPORTANT**{: .label .label-red } Discussions begin the week of September 26th – check the [Domains and Mentors](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) sheet to see where and when your section is. If you're running your sections through Zoom, add your Zoom link.
 
 
 <a name='participation-questions'></a>
@@ -157,7 +157,7 @@ In addition to the readings and tasks students are asked to complete each week, 
 
 You're encouraged to set up some type of communication channel for the students in your domain, so that they can more easily discuss the readings and tasks with one another under your guidance. Such forums are also useful for fostering a sense of community amongst students in your section.
 
-**IMPORTANT**{: .label .label-red } If you create a Slack/Discord/Campuswire/EdStem for your section, link it in the [Mentors and Domains](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) sheet.
+**IMPORTANT**{: .label .label-red } If you create a Slack/Discord/Campuswire/EdStem for your section, link it in the [Domains and Mentors](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) sheet.
 
 ### Office Hours
 
@@ -165,7 +165,7 @@ The main purpose of office hours are to provide students with help and guidance 
 
 You should require that students meet with you in office hours every ~3 weeks in Quarter 1. You should hold at least one hour of regularly scheduled office hours per week. You might do this by specifying a few times that you'll be immediately available via email/Slack/Zoom to answer student questions. If students are unable to meet your regularly scheduled office hours, you may need to meet with them by appointment.
 
-**IMPORTANT**{: .label .label-red } Decide how you will hold office hours, and add the details to the [Mentors and Domains](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) sheet.
+**IMPORTANT**{: .label .label-red } Decide how you will hold office hours, and add the details to the [Domains and Mentors](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) sheet.
 
 ### Assignments
 
