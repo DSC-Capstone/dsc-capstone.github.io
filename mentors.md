@@ -26,13 +26,18 @@ If you've read this already, you might just be here for [Instructions](#instruct
 
 ## Pre-Quarter Action Items
 
-Throughout this page, several pre-quarter action items are mentioned. They are summarized here.
+There are several action items mentioned throughout this page; they are summarized here.
 
-- [ ] If you're teaching a Zoom section, add a link to your section [here](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872).
-- [ ] Add a location and time for your office hours [here](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872).
-- [ ] If you'd like, create a website for your section and link it [here](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872).
-- [ ] If you'd like, create a Slack/Discord/Campuswire/EdStem group for your section and link it [here](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872).
-- [ ] Email your students ([instructions](#viewing-students-on-the-roster)) in advance of September 26th, introducing yourself and sharing any pertinent information. **Remember that sections begin the week of September 26th (Week 1).**
+In the [Mentors and Domains](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) spreadsheet:
+- [ ] Check to see where your section is being held.* If you're teaching a Zoom section, add a link to your section.
+- [ ] Add a location and time for your office hours.
+- [ ] If you'd like, create a website for your section and link it (more details below).
+- [ ] If you'd like, create a Slack/Discord/Campuswire/EdStem group for your section and link it.
+
+Also:
+- [ ] Email your students ([instructions](#viewing-students-on-the-roster)) in advance of September 26th, introducing yourself and sharing any pertinent information. 
+
+**Remember that sections begin the week of September 26th (Week 1).** *If you're teaching an in-person section in SDSC and don't have keycard access to SDSC, we will be following up with access information. 
 
 ---
 
@@ -63,66 +68,38 @@ As mentioned above, the capstone program spans two quarters. In both quarters, t
 
 ### Domain-Specific Instruction
 
-- Quarter 1 (Fall 2022) is designed to provide students an opportunity to acquaint themselves with a domain by replicating a known result. This replication project (or similar task in your domain) constitutes their "Quarter 1 Project". Discussion meetings largely consist of introducing the reading students will do the following week and answering questions students may have about the reading. 
+- **Quarter 1 (Fall 2022)** is designed to provide students an opportunity to acquaint themselves with a domain by replicating a known result. This replication project (or similar project in your domain) constitutes their **Quarter 1 Project**. During Quarter 1, students also form project groups and write/present proposals for their final project, known as the **Quarter 2 Project**.
+- **Quarter 2 (Winter 2023)** is when students execute their Quarter 2 Project.
 
-- Quarter 1 (Fall 2022) consists of a "result replication" to acquaint students with the domain and take students through a dry run of putting together a larger project in code. They also form their project groups and write/present their project proposal.  
-- In Quarter 2 (Winter 2023), students execute their project. Project teams report on their progress from the previous week as well as plans for the following week. The class helps teams solve issues they may be having (&quot;weekly check-ins&quot;).
-
-Throughout both quarters, you will hold an hour per week of discussion. 
-- In Quarter 1, this hour should be spent answering questions students have on the weekly readings and tasks you provide them with (more on this below).
+Throughout both quarters, you will hold an hour per week of discussion section. Students are required to attend these synchronous section meetings.
+- In Quarter 1, this hour should be spent answering questions students have on the readings and tasks you provide them with.
 - In Quarter 2, this hour should be spent checking in with students on their projects.
 
-You should also hold one hour per week of office hours throughout both quarters. Unlike your discussion meeting time, which students already know (see [here](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872)), students do not yet know when your office hours will be. You will need to communicate this to them, and add this to the aforementioned sheet as well.
-
+You will also hold one hour per week of office hours throughout both quarters. More details and logistics on all of the above components are provided below.
 
 ### Methodology-Specific Instruction
+
+The methodology component of the program is designed to equip students with the skills they'll need to execute their projects. This includes accessing servers, executing long-running jobs, and project management. You can see the full schedule on the [homepage](../) of this website.
+
+After Week 1, methodology lectures will largely be delivered asynchronously in the form of lecture notes/videos. The scheduled lecture time (3-3:50PM and 4-4:50PM in Fall 2022) will be used as office hours for the accompanying methodology assignments, of which there are 5 throughout Quarter 1.
 
 The methodology team (instructor + TAs) will hold several weekly office hours. These are designed for students to get help with methodology lectures and assignments, and to ask infrastructure-related questions about their projects.
 
 ---
 
-## Quarter 1 Logistics
+## Quarter 1 Preparation
 
-This section contains everything you need to know to actually run your section in Quarter 1.
+The most straightfoward way to achieve the [objectives](#domain-specific-instruction) in Quarter 1 is **to choose a
+result or paper in your field around which to structure students' introduction to the domain**. While not strictly necessary, having known results to replicate helps students know they are on the right track. (After they start working on their Quarter 1 Project, they'll submit proposals for their more independent Quarter 2 Project, which will be within the realm of your domain.) 
 
-### Preparing for Quarter 1
+**IMPORTANT**{: .label .label-red } To structure student learning, you should prepare a **weekly schedule**. Each week should consist of three parts:
+- A list of 1-3 topics they are working on for the week.
+- Readings and/or tasks for the week. This is typically "read section XX
+  from the paper and replicate their analysis on your data".
+- A list of 1-3 participation questions they should answer before
+  discussion. These may be conceptual or computational, depending on what is appropriate for the tasks they were given. These may be formulated the week before, given your current understanding of student progress. More details are in the [Participation Questions](#participation-questions) section below.
 
-The objectives for the first quarter of the Capstone are:
-* Introduce students to the area in which they will do their
-  project through replicating a known result.
-* Create written material and code that serves as a foundation for
-  work in quarter-2's projects.
-* Closely read 1-2 example papers in the domain to learn
-  best-practices for communication in the chosen field.
-
-The most straightfoward way to achieve these objectives is to choose a
-result/paper in your field and lightly guide students through that
-result. Students then propose projects close to this result.
-
-### Materials needed for preparation
-
-The recommended approach to Quarter 1 requires:
-1. Choosing a paper/result around which to structure students'
-   introduction to the domain. (While not strictly necessary, having
-   known results to replicate helps students know they are on the
-   right track).
-2. Creating a weekly schedule for the domain to structure student
-   learning. Each week should consist of three parts:
-   - A list of 1-3 topics they are working on for the week.
-   - A reading/task for the week. This is typically "read section XX"
-     from the paper and replicate their analysis on your data".
-   - A list of 1-3 questions they should answer before
-     discussion. These may be conceptual (to test their understanding)
-     or a detailed computation of a key figure (to make sure students
-     are staying honest). These may be formulated the week before,
-     given your current understanding of student progress.
-
-For an example schedule, see the [Malware
-Domain](https://afraenkel.github.io/capstone-malware-domain)
-
-### Structuring the Quarter
-
-The schedule follows a reasonable cadence for Quarter 1:
+The schedule below follows a reasonable cadence for Quarter 1:
 
 |Topic|Number of Weeks|
 |---|---|
@@ -130,133 +107,105 @@ The schedule follows a reasonable cadence for Quarter 1:
 |Methods|2-3|
 |Results|2-3|
 |Possible Extensions|2-3|
-|Elevator Pitch|1|
+|Elevator Pitch for Quarter 2 Project|1|
+
+We will not "enforce" the above schedule; feel free to move at a pace that is appropriate for your domain.
+
+### Websites
+
+One way to share your weekly schedule, readings, and tasks with your students is through a website. You can see example websites from domains in previous years below. **If you've never run a domain before, it's highly recommended to look at these websites to understand what a typical schedule looks like.**
+
+- Aaron Fraenkel: [Understanding Code Through Graphs (Malware Detection)](https://afraenkel.github.io/capstone-malware-domain)
+- Gal Mishne: [Graph Neural Networks](https://gmishne.github.io/capstone-graph-2021/)
+- Jingbo Shang: [Text Mining and NLP](https://shangjingbo1226.github.io/teaching/2021-fall-DSC180a-capstone)
+- Justin Eldridge: [The Spread of Misinformation Online
+](https://eldridgejm.github.io/dsc180-2021-misinformation/index.html)
+- Alex Cloninger and Deloitte: [Activity Based Travel Models and Feature Selection](https://acloninger.github.io/capstone-deloitte-travel-models/)
+
+The easiest way to create a website of your own is to clone one of the websites above. Many follow Aaron Fraenkel's site, whose site's GitHub repository is linked [here](https://github.com/afraenkel/capstone-malware-domain). Make sure to enable GitHub Pages. Note that it's not _required_ to create a website; you may choose to share information with students in other ways, like a Google Drive folder. 
+
+**IMPORTANT**{: .label .label-red } If you create some sort of homepage for students, link it in the [Mentors and Domains](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) sheet.
 
 ---
 
-## Running Quarter 1 (Intro to Domain)
+## Quarter 1 Logistics
 
-For a week-by-week reference of what students will be doing in
-lecture and in their assignments, and how this relates to running a
-domain, see the [week-by-week guide](/instructor/week-by-week).
+Here, you'll find details on how each relevant component of the capstone works. Each week, you will receive an email from the instructional staff with a brief summary of what students should be working on that week and with any relevant updates (deadlines, changes to the schedule, new action items, etc).
 
 ### Weekly Discussions
 
 Weekly discussions are not lectures, but rather a time that students
 can ask clarifying questions about their weekly reading/tasks. You may
-begin by asking students how they approached the questions in the
-weekly schedule. Some mentors find it useful to have students submit
-their answers to the weekly questions on Canvas *before* discussion,
-to help direct discussion.
+begin by asking students how they approached the tasks and readings in the
+weekly schedule. (Another goal of Quarter 1 is to have students learn best practices
+for communication in your domain, so it's worthwhile to discuss _how_ the readings were organized, too.)
 
 One piece of advice to encourage participation in discussion is to let
 students know that orienting oneself in a new area of research is
-difficult and that *it's totally normal to get lost and misunderstand
-the material*. Students may be quiet because they're not confident in
-the work they've attempted. 
-
-Try to reinforce to students that the purpose of discussion is to get
+difficult and that **it's totally normal to get lost and misunderstand
+the material**. Students may be quiet because they're not confident in
+the work they've attempted.  **Try to reinforce to students that the purpose of discussion is to get
 feedback and guidance from domain mentors. The weekly schedule tries
-to facilitate that.
+to facilitate that.**
+
+Some mentors find it useful to have students submit
+their answers to the weekly questions on Canvas *before* discussion,
+to help direct discussion.
+
+**IMPORTANT**{: .label .label-red } Discussions begin the week of September 26th – check the [Mentors and Domains](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) sheet to see where and when your section is. If you're running your sections through Zoom, add your Zoom link.
+
+
+<a name='participation-questions'></a>
+
+**Participation Questions**
+
+In addition to the readings and tasks students are asked to complete each week, students must submit answers to participation questions 24 hours in advance of discussion. The questions are due well before discussion in order to allow you to use students' answers to structure your section, if you wish. We've created a "default" set of participation questions, linked [here](../assignments/participation/q1), that should apply to all domains. However, you're free to devise more specific questions for your domain. You're encouraged to look at past domain [websites](#websites) for examples of such questions.
+
+### Communication
+
+You're encouraged to set up some form of a communication channel for the students in your domain, so that they can more easily discuss the readings and tasks with one another under your guidance.
+
+**IMPORTANT**{: .label .label-red } If you create a Slack/Discord/Campuswire/EdStem for your section, link it in the [Mentors and Domains](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) sheet.
 
 ### Office Hours
 
-Office hours should be mandatory for students every ~3 weeks. The main
-purpose of office hours are:
-1. to provide students with help and guidance on their current work,
-2. to provide a meeting time for feedback on submitted work.
+The main purpose of office hours are to provide students with help and guidance on their current work and to provide a meeting time for feedback on submitted work.
 
-You may find it useful to have students make appointments for office hours.
+You should require that students meet with you in office hours every ~3 weeks in Quarter 1. You should hold at least one hour of regularly scheduled office hours per week, or be available for office hours by appointment. One idea is to specify a few times that you'll be immediately available via email/Slack/Zoom to answer student questions.
+
+**IMPORTANT**{: .label .label-red } Decide how you will hold office hours, and add the details to the [Mentors and Domains](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) sheet.
 
 ### Assignments
 
 All assignments in the course are "default assignments", suitably
-generic for any domain. However, if any assignment does not fit with
-your plans for your domain, feel free to adapt the default assignment
-for your students.
-
-**Large Assignments:** Quarter 1 consists of two primary assignments
-that are largely fixed across all domains:
-1. A [result replication](/student/assignments#result-replication), and
-2. A [capstone project proposal](/student/assignments#project-proposal)
-
-Each is submitted multiple times (rough drafts). If either of the
-assignments doesn't fit with your domain, you can add additional
-domain-specific criteria; let staff and students know of these
-criteria.
-
-### How do students decide on projects?
-
-After 6 weeks of learning their domain individually, students form groups (or are placed into groups) and write project proposals in their domain area, with the guidance of their domain expert. Groups then work on these projects in Quarter 2.
-
-### How much leeway do students have in choosing a project?
-
-- Ideally, students formulate their own project closely related to the result-replication in Quarter 1. Formulating questions is a valuable skill, while hewing close to the result-replication will allow students to reuse their code.
-- However, you may approve any project you are comfortable advising as a domain expert. However, other students in the domain will be required to follow along and peer review their classmates, so a project too far afield may hinder those interactions.
-- Fixing the project ahead of time and requiring students to work on a specific coordinated task in the area is ok. In fact, typically students want such guidance. You should make these expectations clear at the beginning of the course.
+generic for any domain. If any of the assignments (other than the methodology assignments) don't fit with your domain, you can add additional
+domain-specific criteria; let staff and students know of these criteria.
 
 
-**Small Assignments:** 
+| Assignment | Description | Groups | Due | Graded By |
+| --- | --- | --- | --- | --- |
+| [Quarter 1 Project](../assignments/projects/q1) | Students replicate a known result or perform some other similar task in your domain. See the linked description (still tentative) for details. | Individual | Week 5 (checkpoint), Week 10 (final submission) | Code is graded by methodology staff; report is graded by domain mentors, either on Canvas or in mandatory office hours (for both the checkpoint and final submission) | 
+| [Quarter 2 Project Proposal](../assignments/projects/q2-proposal) | Proposal for final project. | Groups | Week 9 | Domain mentor |
+| [Participation Questions](#participation-questions) ([default questions](../assignments/participation/q1)) | Weekly questions to keep students engaged with the domain material.  | Individual | Weekly, 24 hours before discussion | Methodology staff (completion only); domain mentors should read to verify engagement but not grade |
+| [Methodology Assignments](../) | Assignments that develop students' software development and project management skills. | Individual | Bi-weekly | Methodology staff |
 
-1. Students must participate in discussion; it is part of their
-   grade. To encourage well thought out discussion, students must also
-   submit their thoughts, in writing, on Canvas 24 hours before
-   discussion. You might find it useful to read student submissions
-   before section to structure discussion. You may also supply more
-   specific questions for students to answer. See
-   [Particpation](/student/assignments#Participation) for more detail.
-2. Students complete small, [weekly
-   assignments](/student/assignments#methodology-assignments)
-   related to data science methodologies (software development; compute
-   environments; effective communication). These weekly assignments
-   independent of your domain, though you may find it useful to know what
-   student's are learning parallel to their work in their domain.
+
+**Note:** As of this writing (Sept. 10), the specifications for the Quarter 1 Project and Quarter 2 Project Proposal are not final, but they should suffice for preparation purposes. A salient detail for now, though, is _how_ students are meant to propose their Quarter 2 Projects:
+- Ideally, students formulate their own project closely related to their Quarter 1 Project. Formulating questions is a valuable skill, and hewing close to the Quarter 1 Project will allow students to reuse their code.
+- However, you may approve any project you are comfortable advising as a domain expert. Note that other students in the domain will be required to follow along and peer review their classmates, so a project too far afield may hinder those interactions.
+- Fixing the project ahead of time and requiring students to work on a specific coordinated task in the area is fine. In fact, typically students want such guidance. You should make these expectations clear at the beginning of the course.
+
+Students will submit work to both Gradescope and Canvas. Generally, when an assignment involves code (like the methodology assignments or project repos), students will submit to Gradescope, and when an assignment involves exposition (like the participation questions and project reports), students will submit to Canvas. **You will only ever need to grade on Canvas, and as such won't be added to Gradescope.** You'll be added to Canvas by the start of the quarter.
 
 ### Grading
 
 Regular feedback on student work is important for their progress
-toward a successful capstone project. Grading in the Capstone Sequence
-attempts this frequent feedback with minimal overhead for the mentor.
+toward a successful capstone project. We've designed the capstone program to give students frequent feedback with minimal overhead for the mentor and minimal stress for students.
 
-Below are summaries of grading responsibilities for each assignment,
-as well as a description of the course grading schema.
-
-**Assignments:**
-
-* Weekly Discussion Questions: Answers to these questions in your
-  domain schedule are part of student participation grades. Student's
-  submissions on Canvas are graded for completion by course
-  TAs. Feedback on student responses are student-driven and given by
-  mentors in class.
-* Weekly Methodology Assignments: These assignments are graded by
-  course TAs.
-* Result Replication (+ checkpoints): The result replication
-  assignment consists of code and a written report. Domain mentors
-  have no responsibility to grade student code. Feedback on the
-  written reports can either be given on Canvas (written) or in
-  mandatory office hours.
-* Capstone Project Proposal: Feedback on the project proposal can
-  either be given on Canvas (written) or in mandatory office hours.
-* Elevator Pitch: The elevator pitch for project proposals take place
-  in section during week 10. Grading for the pitch will be done in
-  class, while feedback is given in writing or office hours.
-
-**Grading Schemes**
-
-Implementing a consistent grading scheme for work in such a diverse
-collection of areas is helped by both a clear rubric and a coarse
-grading scheme.
-
-* Each assignment will have a (generally applicable) grading rubric
-  that will help guide your grading. 
-* Each assignment will be graded using a coarse schema that reflects
-  broad checkpoints that students met. This schema helps maintain
-  focus on *large, impactful* things that students can improve on and
-  should reduce grading disaggreements.
+In order to ensure consistent grading across such a diverse array of domains, we will utilize a **coarse grading scheme with a clear rubric**. This scheme will reflect broad checkpoints that students met, and should help maintain
+focus on *large, impactful* things that students can improve on while reducing grading disagreements.
   
-The grading scheme for assignments in the course are given on an
-A/B/C/F scale (without plus/minus). Generally, these grades reflect
-the following criteria (credit: Shannon Ellis),
+The grading scheme we will use follows an A/B/C/F scale (without plus/minus), developed by Shannon Ellis:
 
 |Grade|Criteria|
 |---|---|
@@ -265,12 +214,15 @@ the following criteria (credit: Shannon Ellis),
 |C (2.0) |The task is somewhat accomplished, but lacks significantly when it comes to completeness and clarity. Code present but does not accomplish the task up to the standards of a data science graduating senior. Written component lacks substantial clarity/correctness. Oral component (when applicable) significantly lacks effectiveness/clarity. |
 |F (0.0) |The task largely remains unaccomplished. Code lacks completeness, structure, and is unclear. Written component lacking required information to understand what you did and/or your results. Oral component (when applicable) is nonsensical/unclear. |
 
+Hopefully, it is "obvious" what grade an assignment should receive. With that said, the focus is not the grade, but rather actionable feedback. Whenever you are responsible for grading something, you will need to enter your letter grades on Canvas, but you can provide students with feedback either in writing or in office hours.
+
+If any changes are necessary to the above rubric for a particular assignment, we will communicate that to you before it is time to grade.
 
 Final grades will be computed using the grade-points above, using the
 proportions given in the course components table. Letter grades will
-be assigned using the standard university cutoffs.
+be assigned using the standard university cutoffs. At the end of Fall 2022 students will receive a grade in DSC 180A, and at the end of Winter 2023 they will receive a grade in DSC 180B; each course is worth 4 units.
 
-### Student Compute Resources
+### Computing Resources
 
 Alongside personal laptops, students will use the campus ITS [DSMLP
 Cluster](https://blink.ucsd.edu/faculty/instruction/tech-guide/dsmlp/index.html). This
@@ -280,25 +232,21 @@ resources and a data science environment in which to work.
 Later in the first quarter, students will create and use a Dockerfile
 for deploying their data science environment on the DSMLP cluster.
 
----
-
-## Preparing for Quarter 2 (Project Mentoring)
-
-TBA
+Unless your project has very specialized computing needs, you likely don't need to provide your own computing resources for your students.
 
 ---
 
-## Running Quarter 2 (Project Mentoring)
+## Industry Partners and Liaisons
 
-TBA
+This section is only relevant for industry partners and liaisons.
 
 ---
 
 ## Instructions
 
-Information on how to complete various tasks is provided below.
+Information on how to perform various tasks is provided below.
 
-### Viewing Students on the Roster
+### Viewing Students in Your Section
 
 **Method 1:** Using Class Lists
 
@@ -314,6 +262,4 @@ Information on how to complete various tasks is provided below.
 
 Canvas does not yet contain student information. Once it does, you'll be able to see your students by section there.
 
-### Creating a Website for Domain
-
-The easiest way to do this is to clone an existing domain's website. One such example is Aaron Fraenkel's site, whose GitHub repository is linked [here](https://github.com/afraenkel/capstone-malware-domain). Make sure to enable GitHub Pages.
+---
