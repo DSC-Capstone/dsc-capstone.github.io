@@ -47,10 +47,6 @@ The capstone program is a **two-quarter sequence** (Fall 2022 and Winter 2023) i
 - students have material to follow and learn from when developing their own work, and
 - the scope of projects remain manageable for the time frame and appropriate for the level of the students.
 
-### Choosing Domains
-
-Choosing a known, doable, result for students to replicate ensures that it&#39;s scoped narrowly enough for students to succeed, while being broad/relevant enough to support investigations from numerous groups. The [project template](https://docs.google.com/document/d/1Ysllr2094UU5e7d8mTNT6aNNTM79OLAa5ju-07dpl70/edit?usp=sharing) is meant to ensure this balance is achieved.
-
 Students were shown the domain topics and descriptions that you provided in advance of the enrollment period and have already enrolled by this point. They are free to change the domain they are enrolled in during Week 1, but space is limited. (To see which students are enrolled in your section, see the [Instructions](#viewing-students-on-the-roster) section below.)
 
 ---
