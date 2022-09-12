@@ -34,10 +34,10 @@ In the [Domains and Mentors](https://docs.google.com/spreadsheets/d/1WSSB0kXRisL
 - [ ] If you'd like, create a Slack/Discord/Campuswire/EdStem group for your section and link it.
 
 Also:
-- [ ] View the students in your section by following these instructions ([instructions](#viewing-students-on-the-roster)). Send them an email in advance of September 26th, introducing yourself and sharing any pertinent information. 
+- [ ] View the students in your section by following these instructions ([instructions](#viewing-students-on-the-roster)). Send them an email right before the start of classes, introducing yourself and sharing any pertinent information. **Note:** Wait until right before you're going to send the email before checking the students on your roster, as some students may add or drop your section between now and then.
 - [ ] If you're an industry mentor or liaison, meet with your liaison or mentor before the quarter starts to coordinate your section.
 
-**Remember that sections begin the week of September 26th (Week 1).**
+**Remember that sections begin the week of September 26th (Week 1).** (Friday sections will have to reschedule in Week 7 due to Veterans Day; plans for the week of Thanksgiving will be announced later.)
 
 ---
 
