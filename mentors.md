@@ -174,18 +174,18 @@ All assignments in the course are generic, designed to work for most domains out
 
 | Assignment | Description | Groups | Due | Graded By |
 | --- | --- | --- | --- | --- |
-| [Quarter 1 Project](../assignments/projects/q1) | Students replicate a known result or perform some other similar task in your domain | Individual | Week 5 (checkpoint), Week 10 (final submission) | Code is graded by methodology staff; report is graded by domain mentors, either on Canvas or in mandatory office hours (for both the checkpoint and final submission) | 
+| [Quarter 1 Project](../assignments/projects/q1) | Students replicate a known result or perform some other similar task in your domain | Individual | Week 5 (checkpoint), Week 10 (final submission) | Code is graded by methodology staff; report is graded by domain mentors, either on Gradescope or in mandatory office hours (for both the checkpoint and final submission) | 
 | [Quarter 2 Project Proposal](../assignments/projects/q2-proposal) | Proposal for final project | Groups | Week 9 | Domain mentor |
 | [Participation Questions](#participation-questions) ([default questions](../assignments/participation/q1)) | Weekly questions to keep students engaged with the domain material  | Individual | Weekly, 24 hours before discussion | Methodology staff (completion only); domain mentors should read to inform how to run discussion |
 | [Methodology Assignments](../) | Assignments that develop students' software development and project management skills. | Individual | Bi-weekly | Methodology staff |
 
 
-**Note:** As of this writing (Sept. 10), the specifications linked in the table above for the Quarter 1 Project and Quarter 2 Project Proposal are not final, but they should suffice for preparation purposes. A salient detail for now, though, is _how_ students are meant to propose their Quarter 2 Projects:
+**Note:** As of this writing (Sept. 19), the specifications linked in the table above for the Quarter 1 Project and Quarter 2 Project Proposal are not final, but they should suffice for preparation purposes. A salient detail for now, though, is _how_ students are meant to propose their Quarter 2 Projects:
 - Ideally, students formulate their own project closely related to their Quarter 1 Project. Formulating questions is a valuable skill, and hewing close to the Quarter 1 Project will allow students to reuse their code.
 - However, you may approve any project you are comfortable advising as a domain expert. Note that other students in the domain will be required to follow along and peer review their classmates, so a project too far afield may hinder those interactions.
 - Fixing the project ahead of time and requiring students to work on a specific coordinated task in the area is fine. In fact, typically students want such guidance. You should make these expectations clear at the beginning of the course.
 
-Students will submit work to both Gradescope and Canvas. Generally, when an assignment involves code (like the methodology assignments or project repos), students will submit to Gradescope, and when an assignment involves exposition (like the participation questions and project reports), students will submit to Canvas. **You will only ever need to grade on Canvas, and as such won't be added to Gradescope.** You'll be added to Canvas by the start of the quarter.
+Students will submit all work to Gradescope. Whenever you need to grade exposition, you will be informed through a weekly announcement. (Canvas, which this guide once referenced, will not be used at all.)
 
 ### Grading
 
@@ -203,7 +203,7 @@ The grading scheme we will use for individual assignments follows an A/B/C/F sca
 | C (2.0) |The task is somewhat accomplished, but lacks significantly when it comes to completeness and clarity. Code present but does not accomplish the task up to the standards of a data science graduating senior. Written component lacks substantial clarity/correctness. Oral component (when applicable) significantly lacks effectiveness/clarity. |
 | F (0.0) |The task largely remains unaccomplished. Code lacks completeness, structure, and is unclear. Written component lacks required information to understand the work done. Oral component (when applicable) is nonsensical/unclear. |
 
-Hopefully, it is "obvious" what grade an assignment should receive. With that said, the focus is not the grade, but rather actionable feedback. Whenever you are responsible for grading something, you will need to enter your letter grades on Canvas, but you can provide students with feedback either in writing or in office hours.
+Hopefully, it is "obvious" what grade an assignment should receive. With that said, the focus is not the grade, but rather actionable feedback. Whenever you are responsible for grading something, you will need to enter your letter grades on Gradescope, but you can provide students with feedback either in writing or in office hours.
 
 If any changes are necessary to the above rubric for a particular assignment, we will communicate that to you before it is time to grade.
 
@@ -231,17 +231,16 @@ This section is only relevant for industry mentors and liaisons.
 
 If you're an industry partner running a section, you have been assigned a faculty "liaison" whose job is to act as a "bridge" between you and the students in your section and between you and the methodology staff. See [here](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) for the name and contact information for your liaison.
 
-**If you're an industry mentor**, you're responsible for all of the tasks mentioned above – running your discussion meetings, holding office hours, grading, etc. Note that you may not have access to Canvas, the platform on which students will submit their domain-related work and where you are meant to enter grades. Your industry liaison will be responsible for ensuring you're still able to provide students with the feedback they need.
+**If you're an industry mentor**, you're responsible for all of the tasks mentioned above – running your discussion meetings, holding office hours, grading, etc. Note that you **will** have access to Gradescope, the platform on which students will submit their domain-related work and where you are meant to enter grades. Your industry liaison will nonetheless be responsible for ensuring you're able to provide your students with the feedback they need.
 
 **If you're an industry liaison** (i.e. UCSD faculty), your role entails:
 - Attending and supporting discussion meetings.
   - By attending discussion meetings, you'll be up-to-date on what the students are learning and will gain a sense of what they're struggling with. If you have a schedule conflict, email Suraj.
 - Holding by-appointment office hours for students in your domain and being available over email/Slack/etc.
   - You'll want to regularly check in with students and understand their progress in the domain and on their projects. In particular, they may share with you challenges or other information that they're not comfortable sharing with the industry mentor (for whatever reason), and it's your job to synthesize and relay this information to the industry mentor. 
-- Facilitating the grading of student submissions on Canvas.
-  - As mentioned above, industry mentors may not have access to Canvas. As such, you will have to download student submissions from Canvas and send them to the industry mentor.
-  - You should also discuss what grades to assign student submissions with the industry mentor. Depending on your arrangement, you may solely be responsible for grading and communicating feedback to students.
-  - Once grades are agreed upon, you should enter them on Canvas.
+- Facilitating the grading of student submissions on Gradescope.
+  - Industry mentors **will** have access to Gradescope, and can access student submissions directly. You should discuss what grades to assign student submissions with the industry mentor. Depending on your arrangement, you may solely be responsible for grading and communicating feedback to students.
+  - Once grades are agreed upon, you should enter them on Gradescope.
 - Otherwise ensuring all aspects of the domain are being run (website is updated, students are submitting work, etc.) and supporting both the industry mentor and the students in the section.
 
 **IMPORTANT**{: .label .label-red } Industry mentors and liaisons should meet at least once before the start of the quarter to clearly outline who is responsible for what.
@@ -254,18 +253,6 @@ Information on how to perform various tasks is provided below.
 
 ### Viewing Students in Your Section
 
-**Method 1:** Using Class Lists
-
-1. Go to the [Class Lists](https://act.ucsd.edu/FacultyClasslist/facultyclasslist.htm) page, and sign in with your Business Systems login. (If you're not a UCSD faculty member, you won't have access to this.)
-
-2. Select Fall 2022 for "Term," enter "Rampure" for "Instructor," and click "Search."
-
-3. Select your section, and then either "View" or "Download". (If you don't remember your section code, visit [this sheet](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872).)
-
-- If you're teaching a combined section, where you and another mentor are running your sections together, you can select both of your sections at this step.
-
-**Method 2:** Using Canvas
-
-Canvas does not yet contain student information. Once it does, you'll be able to see your students by section there.
+Use [this sheet](https://docs.google.com/spreadsheets/d/1P4A-2RSg8sG8ZE4oVslu1lR6AtzezudNQMItvO32yeQ/edit#gid=1209110111). If it hasn't been updated in a few days, don't hesistate to remind Suraj. (Given that we're not using Canvas, this is the easiest solution.)
 
 ---

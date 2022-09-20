@@ -22,8 +22,8 @@ author: Suraj Rampure
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
-# remote_theme: just-the-docs/just-the-docs@v0.3.3
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc1
+# remote_theme: just-the-docs/just-the-docs@v0.4.0.rc1
+remote_theme: just-the-docs/just-the-docs@v0.3.3
 color_scheme: bluecsd
 search_enabled: true
 heading_anchors: true
@@ -31,12 +31,10 @@ permalink: pretty
 aux_links:
   Domains and Mentors:
     - 'https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=0'
-  Canvas:
-    - '#'
   Gradescope:
-    - '#'
+    - 'https://www.gradescope.com/courses/442598'
   EdStem:
-    - '#'
+    - 'https://edstem.org/us/courses/28947/discussion/'
 footer_content:
 
 # Collections for website data
