@@ -27,7 +27,7 @@ If you've read this already, you might just be here for [Instructions for Admini
 There are several action items mentioned throughout this page; they are summarized here.
 
 In the [Domains and Mentors](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) spreadsheet:
-- [ ] Check to see where your section is being held. If you're teaching an in-person section in SDSC and don't have keycard access to SDSC, we will be following up with access information.
+- [ ] Check to see where your section is being held. If you're teaching an in-person section in SDSC, you were sent the building entrance code on 9/19 by Suraj, and your meeting room will be unlocked. (You can also see the code [here](https://edstem.org/us/courses/28947/discussion/1798016).)
 - [ ] If you're teaching a Zoom section, add a link to your section.
 - [ ] Add a location and time for your office hours.
 - [ ] If you'd like, create a website for your section and link it (more details below).
