@@ -78,7 +78,7 @@ Based on feedback from prior iterations of the capstone, we've decided to delive
 
 ### Discussion (Domain)
 
-Each week, you will meet with your domain mentor for an hour in discussion section. **Unlike Lecture Help sessions, attendance in discussion section is mandatory, and you must notify your mentor in advance if you can't make it in a particular week.** (If you have a permanent time conflict with your discussion section, you should switch to another domain.)
+Each week, you will meet with your domain mentor for an hour in discussion section. You can see the time and location of your discussion meeting in the [Domains and Mentors](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) sheet.  **Unlike Lecture Help sessions, attendance in discussion section is mandatory, and you must notify your mentor in advance if you can't make it in a particular week.** (If you have a permanent time conflict with your discussion section, you should switch to another domain.)
 
 Each week, your domain mentor will assign you a combination of readings and tasks to complete, along with "participation" questions to answer to ensure that you've engaged with the material. You must complete these participation questions **24 hours before discussion**, as your responses to them will drive the class discussion. Your mentor may provide you with specific participation questions to answer; if not, you should answer [these](../assignments/participation/q1) "default" participation questions. You should complete the other tasks they assign you before discussion as well, though you may not have to submit them anywhere. Later in the quarter, you will brainstorm project proposals in discussion as well.
 
@@ -116,7 +116,7 @@ The table below summarizes all the ways you will be assessed in Quarter 1.
 | [Quarter 1 Project](../assignments/projects/q1) | A chance to put together everything you've produced while learning about your domain. Submitted individually or in groups (up to mentor). | Week 5 (checkpoint), Week 10 (final submission) | 70% | 50%: reports, graded by mentors (checkpoint + final) <br><br> 20%: code, graded by methodology TAs (checkpoint + final; graded to ensure best practices are followed) |
 | [Quarter 2 Project Proposal](../assignments/projects/q2-proposal) | Proposal for final capstone project. Submitted in groups. | Week 9 | 15% | Graded by both methodology TAs (elevator pitch) and domain mentors (schedule + write-up) |
 
-Note that the table contains links to assignment descriptions; many of these are still **tentative**, and won't be finalized until they are officially released. We will make EdStem announcements when these components are finalized.
+Note that the table contains links to assignment descriptions; the Quarter 1 Project and Quarter 2 Project Proposal details are **tentative**, and won't be finalized until they are officially released. We will make EdStem announcements when these components are finalized.
 
 ### General Rubric
 

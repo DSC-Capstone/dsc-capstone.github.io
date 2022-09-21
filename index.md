@@ -9,9 +9,9 @@ nav_order: 1
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-**Welcome! 👋 This site is still under construction, so be wary of the information you see here!**
+**Welcome! 👋**
 
-- If you're a student, make sure to read the [**📓 Syllabus**](syllabus) (once it's ready).
+- If you're a student, make sure to read the [**📓 Syllabus**](syllabus); it contains a lot of pertinent information.
 - If you're a mentor, make sure to read the [**👨‍🏫 Mentor Guide**](mentors); it has several action items for you.
 
 Use the sidebar to find the information you're looking for; external links can be found at the top right of the page. Feel free to direct all **logistical** questions to the capstone coordinator, Suraj Rampure, at <a href='mailto:rampure@ucsd.edu'>rampure@ucsd.edu</a>.
