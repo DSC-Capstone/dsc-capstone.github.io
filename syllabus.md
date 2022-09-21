@@ -73,8 +73,12 @@ Based on feedback from prior iterations of the capstone, we've decided to delive
 - The day after, on Monday, you may attend optional synchronous “Lecture Help” sessions during the scheduled lecture slots. These are scheduled on Mondays from 3-3:50PM and 4-4:50PM, both in Mandeville Center B-210 ([map](https://map.concept3d.com/?id=1005#!m/232275)). In these sessions, we will answer any questions you have with the lesson.
     - You can attend either (or both) of the sessions, regardless of which lecture section you're enrolled in.
     - Note that **in Week 1 (on September 26th), we will hold a "traditional" introductory lecture during the scheduled lecture slots, and you should plan to attend**. The plan mentioned above begins with Week 2.
+    - Lecture 1 will be podcasted but remaining Lecture Help sessions will not, as they will largely consist of Q&A and discussion.
 - Many methodology lectures will have an accompanying "methodology assignment", due the following weekend. See the [Assignments](#assignments) section for more details.
     - In the Lecture Help sessions, we will provide help on methodology assignments as well – **expect the assignments to be much easier to complete if you come to Lecture Help sessions**!
+
+
+Note that we will not be using the "lab" component of the course that appears on WebReg.
 
 ### Discussion (Domain)
 
