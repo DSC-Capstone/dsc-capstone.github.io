@@ -35,6 +35,8 @@ Below is the syllabus for Quarter 1; the syllabus for Quarter 2 will arrive a bi
 
 ## Description
 
+TODO: ignore this for now
+
 There are two "components" to Quarter 1:
 - Discussion section (**required**), where
 
@@ -110,18 +112,7 @@ specialists. In this course, it is totally normal if your domain mentors do not 
 
 ## Assignments and Grades
 
-All assignments in the course are generic, designed to work for most domains out-of-the-box. If any of the assignments (other than the methodology assignments) don't fit with your domain, you can modify it to work for you; let staff and students know of these criteria.
-
-| Assignment | Description | Groups | Due |
-| --- | --- | --- | --- | --- |
-| [Quarter 2 Project Proposal](../assignments/projects/q2-proposal) | Proposal for final project | Groups | Week 9 |
-
-### Grade Breakdown
-
-Your course grade will be computed using the following proportions:
-
-|Discussion section participation|5%| Being an  Grade determined by mentor at the end of the quarter |
-
+TODO: put a good description here
 
 |Component|Description|Due|Weight|Grading Notes|
 |---|---|---|
