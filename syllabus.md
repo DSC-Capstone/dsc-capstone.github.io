@@ -41,10 +41,11 @@ Below is the syllabus for Quarter 1; the syllabus for Quarter 2 will arrive a bi
 
 Before the quarter begins:
 
-- Confirm the date and time of your section in the [Domains and Mentors](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) spreadsheet, as it may have been updated since you last checked. 
+- Confirm the date and time of your discussion section in the [Domains and Mentors](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=637456872) spreadsheet, as it may have been updated since you last checked. 
     - **Note that sections begin the week of September 26th (Week 1).**
     - Some sections have merged, including B02/B05 and B03/B19.
     - If your section is held in SDSC, follow the instructions found [here](../office-hours) to enter.
+- Note that the first lecture will be held **live in-person** on Monday, September 26th.
 - Make sure you can access the following sites; email Suraj if you can't:
     -  [Gradescope](https://www.gradescope.com/courses/442598), where all assignments will be submitted.
     - [EdStem](https://edstem.org/us/courses/28947/discussion/), the discussion forum we will use for methodology. **All class-wide announcements will be sent here!**
