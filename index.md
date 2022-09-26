@@ -45,8 +45,8 @@ The table below contains the week-to-week schedule of lessons and assignments fo
         <tr>
             <td>1</td>
             <td>Sept. 26</td>
-            <td>Introduction (live)<br><a href='lessons/q1/01-servers'>Servers</a></td>
-            <td>MA 1 (due Oct. 2)</td>
+            <td><a href="lessons/q1/introduction.pdf">Introduction</a> (live)<br><a href='lessons/q1/01'>Servers</a></td>
+            <td><a href="assignments/methodology/q1/01">MA 1 (due Oct. 2)</a></td>
             <td></td>
             <td></td>
         </tr>
