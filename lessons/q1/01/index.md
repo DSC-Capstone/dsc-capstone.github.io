@@ -5,7 +5,7 @@ title: "Lesson 1: Servers"
 nav_exclude: true
 ---
 
-# Lesson 1: Servers
+# Lesson 1 – Servers
 {:.no_toc}
 
 All lectures will be delivered as readings that you complete on your own time. Make sure to read this article before moving on to [Methodology Assignment 1](../../../assignments/methodology/q1/01).
