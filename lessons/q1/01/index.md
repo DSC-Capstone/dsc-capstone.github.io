@@ -98,7 +98,7 @@ Now, you've been placed into an initial "jumpbox" server. Think of this initial 
 
 This will initialize a server with 2 CPUs, 8 GB of RAM, and no GPUS, which are the default settings for this launch script. If we instead wanted to ask for 8 CPUs and 32 GB of RAM, we could have run `launch-scipy-ml.sh -c 8 -m 32`. See [this page](https://support.ucsd.edu/services?id=kb_article_view&sys_kb_id=899d64931b6c991048e9cae5604bcb6e) for more details.
 
-Once you've run the launch script, you now have access to a computer with the resources mentioned above!
+Once you've run the launch script, you now have access to a computer with the resources mentioned above! Note that the server runs Linux, so all of the command-line commands you use should work on Linux (not necessarily Windows or macOS). See [this](#) command-line tutorial.
 
 <center><img src="https://i.stack.imgur.com/x0m7v.png" width="75%"></center>
 
@@ -141,3 +141,11 @@ If you choose to go this route, follow the instructions [here](https://blink.ucs
 ### Aside: SSH keys
 
 SSH keys allow you to skip the step of entering a password each time you're accessing DSMLP. Follow the steps [here](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2) to set them up. This only takes 2 minutes, but saves a ton of time, especially if your UCSD password is something long and cryptic.
+
+---
+
+## Video
+
+The following video walks through several of the steps mentioned above. It's not a substitute for reading the rest of the lesson!
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/6a868bb44936422b97e4beb05a08e3c7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
