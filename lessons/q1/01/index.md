@@ -1,14 +1,16 @@
 ---
 layout: page
 parent: 🏫 Methodology Lessons
-title: "Lesson 1: Servers"
+title: "Lesson 1 – Servers"
 nav_exclude: true
 ---
 
 # Lesson 1 – Servers
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. Make sure to read this article before moving on to [Methodology Assignment 1](../../../assignments/methodology/q1/01).
+All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](https://edstem.org/us/courses/28947/discussion/1834296).
+
+Make sure to read this article before moving on to [Methodology Assignment 1](../../../assignments/methodology/q1/01).
 
 ---
 
