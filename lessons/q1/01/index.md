@@ -47,7 +47,7 @@ Here's one solution:
 It is easy to fall into the trap of following the steps above. In fact, the same scenario can occur when working with a large dataset locally – you've likely re-run a piece of code locally several times and waited minutes for each run, tweaking small things after each run.
 
 There's a better solution:
-1. Develop your code locally on a small, representative set of your training data (for instance, a sample).
+1. Develop your code locally on a small, representative set of your training data (for instance, a sample of 10,000 rows).
 2. Once you're content with your code, push it to GitHub from your personal computer, and pull it on the GPU cluster.
 3. Run `train.py` once on the GPU cluster and be happy with the results!
 
@@ -134,7 +134,7 @@ Now, **open a new Terminal window on your personal computer**, without closing t
     - For instance, Suraj might enter `ssh -N -L 8889:127.0.0.1:12733 srampure@dsmlp-login.ucsd.edu`.
 2. After entering your password, if you see nothing, you're on the right track. Open `http://localhost:8889/user/<username>/tree/` **on your personal computer**, again with `<username>` replaced with your own username (say, `srampure`) When prompted for a "Password or token", enter the token you just found. You should then be good to go!
     - If you change `tree` to `lab` in the URL, you'll be brought to Jupyter Lab, the latest version of the Jupyter Notebooks interface.
-    - If you see an error message saying `channel 2: open failed: connect failed: Connection refused`, you are likely entering the wrong port number.
+    - If you see an error message saying `channel 2: open failed: connect failed: Connection refused`, you are likely entering the wrong port number or the same port is being used elsewhere on your computer, like in another Terminal window.
 3. To disconnect:
     - Stop your Jupyter instance, by either hitting the Quit button in the top-right corner of the Jupyter home page or entering `exit` in the Terminal used to launch the container.
     - Switch to the Terminal that is open on your personal computer (the one where you ran `ssh -N -L ...`) and hit `Ctrl+C` on your keyboard (regardless of your operating system) to kill the port-forwarding process.
