@@ -100,7 +100,7 @@ Now, you've been placed into an initial "jumpbox" server. Think of this initial 
 
 This will initialize a server with 2 CPUs, 8 GB of RAM, and no GPUS, which are the default settings for this launch script. If we instead wanted to ask for 8 CPUs and 32 GB of RAM, we could have run `launch-scipy-ml.sh -c 8 -m 32`. This is not the only script that exists; for instance, we could have run `launch-scipy-ml-gpu.sh`. See [this page](https://support.ucsd.edu/services?id=kb_article_view&sys_kb_id=899d64931b6c991048e9cae5604bcb6e) for more details.
 
-Once you've run the launch script, you now have access to a computer with the resources mentioned above! Note that the server runs Linux, so all of the command-line commands you use should work on Linux (not necessarily Windows or macOS). See [this](#) command-line tutorial.
+Once you've run the launch script, you now have access to a computer with the resources mentioned above! Note that the server runs Linux, so all of the command-line commands you use should work on Linux (not necessarily Windows or macOS). See the [Command-Line Cheat Sheet](../../../command-line) for more tips. (This will be updated by the end of Monday 9/26.)
 
 <center><img src="https://i.stack.imgur.com/x0m7v.png" width="75%"></center>
 
@@ -133,7 +133,7 @@ Now, **open a new Terminal window on your personal computer**, without closing t
 1. Enter the command `ssh -N -L 8889:127.0.0.1:<port> <user>@dsmlp-login.ucsd.edu`.
     - For instance, Suraj might enter `ssh -N -L 8889:127.0.0.1:12733 srampure@dsmlp-login.ucsd.edu`.
 2. After entering your password, if you see nothing, you're on the right track. Open `http://localhost:8889/user/<username>/tree/` **on your personal computer**, again with `<username>` replaced with your own username (say, `srampure`) When prompted for a "Password or token", enter the token you just found. You should then be good to go!
-    - If you change `tree` to `lab` in the URL, you'll be brought to Jupyter Lab, the latest version of the Jupyter Notebooks interface.
+    - If you change `tree` to `lab` in the URL, you'll be brought to Jupyter Lab, the latest version of the Jupyter Notebooks interface. Jupyter Lab is an IDE, complete with a Terminal and text editor.
     - If you see an error message saying `channel 2: open failed: connect failed: Connection refused`, you are likely entering the wrong port number or the same port is being used elsewhere on your computer, like in another Terminal window.
 3. To disconnect:
     - Stop your Jupyter instance, by either hitting the Quit button in the top-right corner of the Jupyter home page or entering `exit` in the Terminal used to launch the container.
