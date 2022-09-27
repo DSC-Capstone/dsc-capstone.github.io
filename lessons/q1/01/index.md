@@ -100,7 +100,7 @@ Now, you've been placed into an initial "jumpbox" server. Think of this initial 
 
 This will initialize a server with 2 CPUs, 8 GB of RAM, and no GPUS, which are the default settings for this launch script. If we instead wanted to ask for 8 CPUs and 32 GB of RAM, we could have run `launch-scipy-ml.sh -c 8 -m 32`. This is not the only script that exists; for instance, we could have run `launch-scipy-ml-gpu.sh`. See [this page](https://support.ucsd.edu/services?id=kb_article_view&sys_kb_id=899d64931b6c991048e9cae5604bcb6e) for more details.
 
-Once you've run the launch script, you now have access to a computer with the resources mentioned above! Note that the server runs Linux, so all of the command-line commands you use should work on Linux (not necessarily Windows or macOS). See the [Command-Line Cheat Sheet](../../../command-line) for more tips. (This will be updated by the end of Monday 9/26.)
+Once you've run the launch script, you now have access to a computer with the resources mentioned above! Note that the server runs Linux, so all of the command-line commands you use should work on Linux (not necessarily Windows or macOS). See the [Command-Line Cheat Sheet](../../../command-line) for more tips.
 
 <center><img src="https://i.stack.imgur.com/x0m7v.png" width="75%"></center>
 

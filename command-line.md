@@ -11,6 +11,8 @@ nav_exclude: true
 
 The DSMLP servers use Linux. As such, when interacting with them, all of the command-line commands you use should be Linux-specific (which, for the most part, also work on macOS). Many of the key commands you'll need to know are summarized below.
 
+**This page is still a work in progress!**
+
 ### Basics
 
 | Command | Description | Example |
