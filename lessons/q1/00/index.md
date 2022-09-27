@@ -26,7 +26,7 @@ nav_exclude: true
 - BS (’20) and MS (’21) in Electrical Engineering and Computer Sciences from UC Berkeley 🐻.
 - Second year teaching Data Science at UCSD.
     - So far, taught DSC 10, 40A, 80, and 90.
-    - Also running the senior capstone program this year.
+    - Also teaching DSC 10 this year.
 - Outside the classroom: watching basketball, traveling, learning to cook, watching TikTok, FaceTiming my dog 🐶, etc.
 - **Not Aaron Fraenkel**, who designed the capstone sequence.
 
