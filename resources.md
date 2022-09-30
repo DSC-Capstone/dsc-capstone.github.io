@@ -20,6 +20,7 @@ nav_order: 4
 ## Computing Resources
 
 - [Command-Line Cheat Sheet](../command-line)
+    - Bash cheat sheets: [educative.io](https://www.educative.io/blog/bash-shell-command-cheat-sheet), [devhints.io](https://devhints.io/bash). 
 - [DSMLP Documentation](https://support.ucsd.edu/services?id=kb_category&kb_category=368cc80fdb5c68d0d4781c79139619e2)
     - [Launching Containers](https://support.ucsd.edu/services?id=kb_article_view&sys_kb_id=899d64931b6c991048e9cae5604bcb6e)
 - [Setting up SSH Keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2)
