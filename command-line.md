@@ -11,9 +11,7 @@ nav_exclude: true
 
 The DSMLP servers use Linux. As such, when interacting with them, all of the command-line commands you use should be Linux-specific (which, for the most part, also work on macOS). Many of the key commands you'll need to know are summarized below.
 
-**This page is still a work in progress!**
-
-### Basics
+## Basics
 
 | Command | Description | Example |
 | --- | --- | --- | 
@@ -31,7 +29,7 @@ To verify that you've synthesized the above information, answer the following qu
 - **What does `cd ..` do?**
 - **What does `ls ../hello` do?**
 
-### File Editing
+## File Editing
 
 | Command | Description | Example |
 | --- | --- | --- |
@@ -39,7 +37,7 @@ To verify that you've synthesized the above information, answer the following qu
 | `emacs` | Another command line-based text editor. | `emacs hello.txt` opens `hello.txt` in `emacs`.|
 
 
-### Servers and Networks
+## Servers and Networks
 
 | Command | Description | Example |
 | --- | --- | --- |
@@ -48,7 +46,7 @@ To verify that you've synthesized the above information, answer the following qu
 | `wget` | Downloads the contents of a webpage. | `wget https://raw.githubusercontent.com/ericmichael/cooltxt/master/cool.txt` creates a new file called `cool.txt` with the contents of the aforementioned URL. |
 
 
-### Other
+## Other
 
 | Command | Description |
 | --- | --- |
@@ -57,21 +55,16 @@ To verify that you've synthesized the above information, answer the following qu
 | `ctrl + r` | Allows you to search your command history to easily find a command you entered in the past. |
 | `screen`  | Allows you to run tasks in the background. See [here](https://www.geeksforgeeks.org/screen-command-in-linux-with-examples/) for more details. |
 | `git` | See usage reference [here](https://docs.github.com/en/get-started/quickstart/set-up-git). |
+| `grep` | Helps you quickly search text (both individual documents and folders). The general pattern is `grep -inr <keyword> <file_path>`. <br> For example, `grep -inr dog hello.txt` will display all lines in which `'dog'` occurred in `hello.txt`. |
+| `find` | Helps you quickly find a file using regex. For example, `find <path> -iname <regex>`. |
+| `htop` | Shows you all of the processes currently running on your server and the amount of resources (e.g. CPU and memory) that you're using. |
 
-<!-- 
-<img src="/assets/images/fire.png" data-canonical-src="https://www.instagram.com/p/8N8J8wRgPq/?utm_source=ig_web_copy_link" width="200" height="200" />
+<center>
 
-[Image Source](https://www.instagram.com/p/8N8J8wRgPq/?utm_source=ig_web_copy_link)
+<img src="../assets/images/fire.png" width="30%"><br>
 
-`grep` - Helps you quickly search, well, any text.
+(<a href="https://www.instagram.com/p/8N8J8wRgPq/?utm_source=ig_web_copy_link">source</a>)
 
-My go-to: `grep -inr <keyword> <file_path>`
+</center>
 
-`find` - Helps you quickly find a file using regex.
-
-My go-to: `find <path> -iname <regex>`
-
-## Process
-`htop` - Very useful utility to monitor the resource usage. Also helps you see all the processes running.
-
-`kill` - If you want to terminate a process just `kill -9 <pid>`. How do you get the pid? Use `htop/netcat` etc. -->
+If you have any feedback for this page, let us know!
