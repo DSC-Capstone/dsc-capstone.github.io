@@ -373,7 +373,7 @@ It's worth mentioning that the default notebook names (like `Untitled4-Copy1.ipy
 #### `requirements.txt`
 
 ```
-├── requirements.txt   <- For reproducing the analysis environment, e.g.
+├── requirements.txt   <- For reproducing the analysis environment, e.g. generated with `pip freeze > requirements.txt`
 ```
 
 If I want to run your project from scratch, in addition to all of your code, I need to know which Python packages (and which versions) to install. The easiest way to communicate this information to others is through a `requirements.txt` file that contains all Python libraries that were used in your project. To create such a file, run `pip freeze > requirements.txt` in your project repository.
