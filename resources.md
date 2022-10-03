@@ -26,6 +26,7 @@ nav_order: 4
 - [Setting up SSH Keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-2)
 - [Git on the Command Line](https://docs.github.com/en/get-started/quickstart/set-up-git)
     - [Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+        - You may also want to read [this guide](https://docs.google.com/document/d/1Sb6tQwUVBhzcmBGWw4UnhGlYcMDdyUy3gaRKcQzYur4/edit) written by current student and DSC 30 tutor Scott Yang
     - [SSH Keys for GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh)
 - [UCSD VPN](https://blink.ucsd.edu/technology/network/connections/off-campus/VPN/)
 
