@@ -53,8 +53,8 @@ The table below contains the week-to-week schedule of lessons and assignments fo
         <tr>
             <td>2</td>
             <td>Oct. 3</td>
-            <td>Project Organization</td>
-            <td>MA 2 (due Oct. 9)</td>
+            <td><a href='lessons/q1/02'>Project Organization</a></td>
+            <td><a href="assignments/methodology/q1/02">MA 2 (due Oct. 9)</a></td>
             <td rowspan=9>Starting Week 2, <a href="assignments/participation/q1">Participation</a> questions are due 24 hours before discussion meetings.<br><br>These are in addition to any tasks or readings your mentor assigned you.</td>
             <td></td>
         </tr>
