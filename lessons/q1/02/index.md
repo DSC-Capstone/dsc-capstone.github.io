@@ -176,7 +176,7 @@ Note that this example directory shows 3 files that are all in the same folder. 
 Specifically:
 - `code.py` contains library code – that is, functions designed to execute your project. These functions should be parameterized to accept various inputs.
 - `config.json` contains parameters for the functions in `code.py`.
-- `script.py` imports `code`, loads `config.txt`, and calls functions from the `code` module. (Note that this could also be a notebook, `script.ipynb`.)
+- `script.py` imports `code`, loads `config.json`, and calls functions from the `code` module. (Note that this could also be a notebook, `script.ipynb`.)
 
 For instance, `script.py` may contain:
 
