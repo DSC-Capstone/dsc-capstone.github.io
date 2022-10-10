@@ -12,7 +12,7 @@ nav_exclude: true
 # Lesson 3 – Scientific Writing
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](TODO).
+All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](https://edstem.org/us/courses/28947/discussion/1920037).
 
 There is no Methodology Assignment associated with this lesson. However, there are a few "Action Items" and "Exercises" that you should complete while reading through the lesson, as they'll help you prepare for your Quarter 1 Project.
 
