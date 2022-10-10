@@ -61,7 +61,7 @@ The table below contains the week-to-week schedule of lessons and assignments fo
         <tr>
             <td>3</td>
             <td>Oct. 10</td>
-            <td>Scientific Writing</td>
+            <td><a href='lessons/q1/03'>Scientific Writing</a></td>
             <td></td>
             <td></td>
         </tr>
@@ -77,7 +77,7 @@ The table below contains the week-to-week schedule of lessons and assignments fo
             <td>Oct. 24</td>
             <td>Software Development</td>
             <td></td>
-            <td>Q1 Project Checkpoint due</td>
+            <td><a href="assignments/projects/q1">Q1 Project Checkpoint (due Oct. 30)</a></td>
         </tr>
         <tr>
             <td>6</td>
@@ -112,7 +112,7 @@ The table below contains the week-to-week schedule of lessons and assignments fo
             <td>Nov. 28</td>
             <td>N/A</td>
             <td></td>
-            <td>Q1 Project due</td>
+            <td><a href="assignments/projects/q1">Q1 Project (due Dec. 5)</a></td>
         </tr>
     </tbody>
 </table>
