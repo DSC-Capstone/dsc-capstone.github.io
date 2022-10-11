@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 2️⃣ Quarter 2 Project Proposal
-parent: 📝 Assignments
 description: Description of the Quarter 2 Project Proposal.
 nav_exclude: true
 ---

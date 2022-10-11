@@ -1,6 +1,5 @@
 ---
 layout: page
-parent: 🏫 Methodology Lessons
 title: "Lesson 3 – Scientific Writing"
 nav_exclude: true
 ---

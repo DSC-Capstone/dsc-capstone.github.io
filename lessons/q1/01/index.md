@@ -1,6 +1,5 @@
 ---
 layout: page
-parent: 🏫 Methodology Lessons
 title: "Lesson 1 – Servers"
 nav_exclude: true
 ---

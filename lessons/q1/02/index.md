@@ -1,6 +1,5 @@
 ---
 layout: page
-parent: 🏫 Methodology Lessons
 title: "Lesson 2 – Project Organization"
 nav_exclude: true
 ---
