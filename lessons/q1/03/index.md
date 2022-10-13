@@ -89,7 +89,7 @@ As mentioned earlier, the titles of sections in a paper may vary between publica
 | Abstract | What did we do? |
 | Introduction | What is the problem? |
 | Methods | How did we approach it? |
-| Results | What did find? |
+| Results | What did we find? |
 | Discussion | What did it mean? |
 | References | Who did we cite? |
 | Appendix | Details (particularly those that disrupt the narrative flow of the paper) |
@@ -156,7 +156,7 @@ As mentioned in the [Guidelines](#guidelines) section, you should strive to crea
 
 In the discussion section, you'll provide your interpretation of the results from the previous section. Here, you should describe how your results compare to prior work on the same problem. Are your results similar to what has been seen before? Are they significantly different? Why? 
 
- in describing the impact and applicability of your results, along with the limitations of your approach. There's nothing wrong with your results having limitations; just be clear on what they are. Lastly, make sure to describe the possibilities for future work. How can someone else take your project and extend it even further?
+Be honest in describing the impact and applicability of your results, along with the limitations of your approach. There's nothing wrong with your results having limitations; just be clear on what they are. Lastly, make sure to describe the possibilities for future work. How can someone else take your project and extend it even further?
 
 ## Exercises
 
