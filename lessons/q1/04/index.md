@@ -188,7 +188,7 @@ While Dockerfiles can get quickly get complicated, note that you only need to sp
 
 For a full reference of all the commands that Dockerfiles understand, look [here](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#dockerfile-instructions).
 
-**Note:** Dockerfiles must be named `Dockerfile` with no extension. Otherwise, Docker Hub won't recognize them in your container.
+**Note:** Dockerfiles must be named `Dockerfile` with no extension. Otherwise, Docker Desktop won't recognize them when you try to build your image.
 
 ### Creating Images
 
