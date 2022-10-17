@@ -68,8 +68,8 @@ The table below contains the week-to-week schedule of lessons and assignments fo
         <tr>
             <td>4</td>
             <td>Oct. 17</td>
-            <td>Environments and Containerization</td>
-            <td>MA 3 (due Oct. 23)</td>
+            <td><a href='lessons/q1/04'>Containerization with Docker</a></td>
+            <td><a href="assignments/methodology/q1/03">MA 3 (due Oct. 23)</a></td>
             <td></td>
         </tr>
         <tr>
