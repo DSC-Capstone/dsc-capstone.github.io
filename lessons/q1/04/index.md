@@ -11,7 +11,7 @@ nav_exclude: true
 # Lesson 4 – Containerization with Docker
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](TODO).
+All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](https://edstem.org/us/courses/28947/discussion/1970469).
 
 Make sure to read this article before moving on to [Methodology Assignment 3](../../../assignments/methodology/q1/03). This assignment is more involved than other methodology assignments, and historically students have struggled with it. **It's highly recommended that you attend one of the methodology help sessions on Monday, October 17th**; there, we will walk through the assignment. The podcast will be linked here afterwards. Before coming or watching, complete the tasks labeled **Action Item**{: .label .label-red } in the lesson.
 
@@ -131,7 +131,7 @@ Yes, this is an entire Dockerfile!
 
 - The first line specifies that we want to start by adopting the `ucsdets/datahub-base-notebook` image that we looked at earlier. Everything that is part of `ucsdets/datahub-base-notebook` will be included in our new image, too.
 - The next line specifies that we want to run all subsequent commands as the root (administrator) on the computer.
-- The next line installs `geopandas` using `conda`. Note: this requires `conda` to be installed in the container. If 
+- The next line installs `geopandas` using `conda`. Note: this requires `conda` to be installed in the image. If it's not, this will error!
 
 A more sophisticated Dockerfile might look like the following (taken from Aaron Fraenkel's malware domain):
 
