@@ -133,6 +133,23 @@ Yes, this is an entire Dockerfile!
 - The next line specifies that we want to run all subsequent commands as the root (administrator) on the computer.
 - The next line installs `geopandas` using `conda`. Note: this requires `conda` to be installed in the image. If it's not, this will error!
 
+A similar-looking Dockerfile can be found [here](https://github.com/ucsd-ets/dsc10-notebook/blob/master/Dockerfile); it is the Dockerfile for the DSC 10 image on DataHub.
+
+```
+ARG BASE_CONTAINER=ucsdets/datascience-notebook:2022.3-stable
+FROM $BASE_CONTAINER
+
+USER root
+
+RUN pip install coverage==5.5
+RUN pip install 'pandas>=0.24' babypandas==0.1.7 pandas-tutor==2.0.3
+RUN pip install otter-grader==3.3.0
+
+USER $NB_UID
+```
+
+It's starting from a base image maintained by UCSD ETS (though not the same one as we looked at above), and installing the Python packages needed for DSC 10.
+
 A more sophisticated Dockerfile might look like the following (taken from Aaron Fraenkel's malware domain):
 
 ```
