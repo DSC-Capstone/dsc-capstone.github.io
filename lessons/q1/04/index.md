@@ -15,6 +15,8 @@ All lectures will be delivered as readings that you complete on your own time. P
 
 Make sure to read this article and complete the **Action Item**{: .label .label-red }s before moving on to [Methodology Assignment 3](../../../assignments/methodology/q1/03).
 
+A recording of the lecture help session associated with this lecture can be found [here](https://youtu.be/oeotJjaCJUI).
+
 **Reminders:** 
 - The [Quarter 1 Project Checkpoint](../../../assignments/projects/q1) is due on Sunday, October 31st.
 - Take a look at the new [Resources](../../../resources) tab of the course website.
