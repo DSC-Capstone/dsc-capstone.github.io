@@ -13,7 +13,7 @@ nav_exclude: true
 
 All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](https://edstem.org/us/courses/28947/discussion/1970469).
 
-Make sure to read this article before moving on to [Methodology Assignment 3](../../../assignments/methodology/q1/03). This assignment is more involved than other methodology assignments, and historically students have struggled with it. **It's highly recommended that you attend one of the methodology help sessions on Monday, October 17th**; there, we will walk through the assignment. The podcast will be linked here afterwards. Before coming or watching, complete the tasks labeled **Action Item**{: .label .label-red } in the lesson.
+Make sure to read this article and complete the **Action Item**{: .label .label-red }s before moving on to [Methodology Assignment 3](../../../assignments/methodology/q1/03).
 
 **Reminders:** 
 - The [Quarter 1 Project Checkpoint](../../../assignments/projects/q1) is due on Sunday, October 31st.
