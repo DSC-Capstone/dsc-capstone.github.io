@@ -75,7 +75,7 @@ The table below contains the week-to-week schedule of lessons and assignments fo
         <tr>
             <td>5</td>
             <td>Oct. 24</td>
-            <td>Software Development<br>Live: <a href="lessons/q1/extra/5-intro-to-intros.pdf">Introduction to Introductions</a></td>
+            <td>Software Development<br>Live: Introduction to Introductions</td>
             <td></td>
             <td><a href="assignments/projects/q1">Q1 Project Checkpoint (due Oct. 30)</a></td>
         </tr>
