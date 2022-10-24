@@ -18,7 +18,7 @@ Make sure to read this article and complete the **Action Item**{: .label .label-
 A recording of the lecture help session associated with this lecture can be found [here](https://youtu.be/oeotJjaCJUI).
 
 **Reminders:** 
-- The [Quarter 1 Project Checkpoint](../../../assignments/projects/q1) is due on Sunday, October 31st.
+- The [Quarter 1 Project Checkpoint](../../../assignments/projects/q1) is due on Sunday, October 30th.
 - Take a look at the new [Resources](../../../resources) tab of the course website.
 
 

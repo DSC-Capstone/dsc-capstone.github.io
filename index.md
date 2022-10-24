@@ -45,7 +45,7 @@ The table below contains the week-to-week schedule of lessons and assignments fo
         <tr>
             <td>1</td>
             <td>Sept. 26</td>
-            <td><a href="lessons/q1/introduction.pdf">Introduction</a> (live)<br><a href='lessons/q1/01'>Servers</a></td>
+            <td>Live: <a href="lessons/q1/introduction.pdf">Introduction</a><br><a href='lessons/q1/01'>Servers</a></td>
             <td><a href="assignments/methodology/q1/01">MA 1 (due Oct. 2)</a></td>
             <td></td>
             <td></td>
@@ -75,14 +75,14 @@ The table below contains the week-to-week schedule of lessons and assignments fo
         <tr>
             <td>5</td>
             <td>Oct. 24</td>
-            <td>Software Development</td>
+            <td>Software Development<br>Live: <a href="lessons/q1/extra/5-intro-to-intros.pdf">Introduction to Introductions</a></td>
             <td></td>
             <td><a href="assignments/projects/q1">Q1 Project Checkpoint (due Oct. 30)</a></td>
         </tr>
         <tr>
             <td>6</td>
             <td>Oct. 31 🎃</td>
-            <td>Long-Running Jobs</td>
+            <td>Long-Running Jobs<br>Live: Exploratory Data Analysis</td>
             <td></td>
             <td></td>
         </tr>
