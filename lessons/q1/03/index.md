@@ -19,6 +19,8 @@ There is no Methodology Assignment associated with this lesson. However, there a
 
 **Reminder:** Take a look at the new [Resources](../../../resources) tab of the course website.
 
+Also, refer to the [recording of this live session](../extra/intro-to-intros) as a supplement to this lesson.
+
 ---
 
 ## Table of contents
