@@ -82,7 +82,7 @@ The table below contains the week-to-week schedule of lessons and assignments fo
         <tr>
             <td>6</td>
             <td>Oct. 31 🎃</td>
-            <td><a href="lessons/q1/06">Long-Running Jobs</a><br>Live: Exploratory Data Analysis</td>
+            <td><a href="lessons/q1/06">Long-Running Jobs</a><br>Live: <a href="lessons/q1/extra/eda">Exploratory Data Analysis</a></td>
             <td></td>
             <td></td>
         </tr>
