@@ -6,7 +6,7 @@ nav_exclude: true
 ---
 
 # 💍 Quarter 2 Project Proposal
-{: .no_toc }
+{:.no_toc}
 
 *This document also takes the place of Methodology Lesson 7. You should read it before you complete [Methodology Assignment 4](../../methodology/q1/04), due on Sunday, November 13th.*
 
@@ -15,12 +15,12 @@ As you know, your main deliverable throughout the capstone sequence is your Quar
 The proposal consists of three parts. The proposal is worth 15% of your DSC 180A grade; each component of the proposal is worth the same amount (5% of your DSC 180A grade). Below, we describe each component and its deliverables in more detail. **All components are due on Monday, December 5th at 11:59PM to Gradescope.**
 
 ### Groups
-{:no_toc}
+{:.no_toc}
 
 Quarter 2 Projects **must** be worked on in groups of 2-4. You must submit your proposal with the same group that you'll work on the project with. It is up to your mentor to determine how groups are formed; you should ask them _how_ groups will be formed soon.
 
 ### Context
-{:no_toc}
+{:.no_toc}
 
 After this year, whether you work in industry or academia, you will often have to write project proposals.
 - As a data scientist in industry, you'll often have to write proposals to justify why your idea has value and is worth investigating.
