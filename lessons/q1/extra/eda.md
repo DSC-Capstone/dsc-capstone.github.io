@@ -10,7 +10,4 @@ In this live session, TA Samanvitha gave a talk on the role of exploratory data 
 
 [Slides](https://docs.google.com/presentation/d/1VOvrMi4yixPin38v4ZQjoeP_kVbHOkE2x_X1XWJiFXU/edit?usp=sharing){: .btn }
 
-Video coming soon!
-
-<!-- 
-<center><iframe width="711" height="400" src="https://www.youtube.com/embed/X9gbQ7pme1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center> -->
+<center><iframe width="711" height="400" src="https://www.youtube.com/embed/MxiPymwBruo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

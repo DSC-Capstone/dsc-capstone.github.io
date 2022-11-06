@@ -22,8 +22,8 @@ author: Suraj Rampure
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
-# remote_theme: just-the-docs/just-the-docs@v0.4.0.rc1
-remote_theme: just-the-docs/just-the-docs@v0.3.3
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+# remote_theme: just-the-docs/just-the-docs@v0.3.3
 color_scheme: bluecsd
 search_enabled: true
 heading_anchors: true
@@ -77,3 +77,12 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
+
+# callouts
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: yellow
