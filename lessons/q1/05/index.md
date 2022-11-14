@@ -11,7 +11,7 @@ nav_exclude: true
 # Lesson 5 – Software Development
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](TODO).
+All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](https://edstem.org/us/courses/28947/discussion/2027764).
 
 There is no Methodology Assignment associated with this lesson. However, it builds on the software development principles introduced in [Lesson 2](../02), and your final project deliverables will be graded according to how closely they follow these principles.
 
