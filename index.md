@@ -96,8 +96,8 @@ The table below contains the week-to-week schedule of lessons and assignments fo
         <tr>
             <td>8</td>
             <td>Nov. 14</td>
-            <td>Access and Security</td>
-            <td>MA 5 (due Nov. 23)</td>
+            <td><a href="lessons/q1/08">Examples</a></td>
+            <td><a href="assignments/methodology/q1/05">MA 5 (due Nov. 23)</a></td>
             <td></td>
         </tr>
         <tr>

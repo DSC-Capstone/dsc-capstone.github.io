@@ -11,7 +11,7 @@ nav_exclude: true
 # Lesson 6 – Long-Running Jobs
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](TODO).
+All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](https://edstem.org/us/courses/28947/discussion/2106318).
 
 There is no Methodology Assignment associated with this lesson. However, the lesson describes some required aspects of the Quarter 1 Project code, such as [test data](#test-data).
 
