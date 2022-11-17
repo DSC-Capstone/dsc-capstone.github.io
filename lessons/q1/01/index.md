@@ -79,7 +79,7 @@ One of the advantages of learning how to work with DSMLP now is that many of the
 
 ### Accessing DSMLP
 
-Here, we will cover the basics of accessing DSMLP. For more advanced usage, see [campus documentation](https://support.ucsd.edu/services?id=kb_category&kb_category=368cc80fdb5c68d0d4781c79139619e2), which is very detailed.
+Here, we will cover the basics of accessing DSMLP. For more advanced usage, see [campus documentation](https://support.ucsd.edu/services?id=kb_category&kb_category=368cc80fdb5c68d0d4781c79139619e2), which is very detailed, as well as the [Resources](../../../resources) tab of the course website.
 
 | **Step 1**: Open your Terminal and run `ssh <username>@dsmlp-login.ucsd.edu`, where `<username>` is replaced with your official UCSD username. For instance, Suraj would run `ssh srampure@dsmlp-login.ucsd.edu`. Enter your password when prompted. |
 
