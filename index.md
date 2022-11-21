@@ -103,14 +103,13 @@ The table below contains the week-to-week schedule of lessons and assignments fo
         <tr>
             <td>9</td>
             <td>Nov. 21</td>
-            <td>Project Management</td>
+            <td rowspan=2>No methodology lessons or lecture help sessions</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>10</td>
             <td>Nov. 28</td>
-            <td>N/A</td>
             <td></td>
             <td><a href="assignments/projects/q1">Q1 Project (due Dec. 5)</a><br><br><a href="assignments/projects/q2-proposal">Q2 Project Proposal (due Dec. 5)</a></td>
         </tr>

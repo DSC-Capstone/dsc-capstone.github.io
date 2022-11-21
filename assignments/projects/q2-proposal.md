@@ -163,11 +163,12 @@ Even though elevator pitches **do not contain slides**, it's a good idea to use 
 
 ### Deliverables and Grading
 
-You'll present the elevator pitch in two stages:
-1. First, **in Week 10**, you'll **individually** deliver a _dry run_ of your elevator pitch to a methodology TA and a small group of students. Think of the dry run as a "checkpoint" for your final elevator pitch – it doesn't need to be polished at this stage. We'll open dry run signups on SignUpGenius a bit closer to Week 10.
-2. Then, you'll **individually** record a video of you presenting your elevator pitch to YouTube and submit a link to it on Gradescope. There should be no slides in the video, just your face talking. (Let Suraj know if you have any concerns with this requirement.)
+You'll submit an **individually** recorded video of you presenting your elevator pitch to YouTube and submit a link to it on Gradescope. There should be no slides in the video, just your face talking. (Let Suraj know if you have any concerns with this requirement.)
 
-Note that every member of your group will have to present separate dry runs and record separate videos, even if you write your pitches together and they are largely similar.
+Note that every member of your group will have to record separate videos, even if you write your pitches together and they are largely similar.
+
+{: .note }
+We've removed the previous Week 10 "dry run" component of the pitch submission. However, you're still encouraged to attend office hours in Week 10 to get feedback on your pitches.
 
 Unlike the written proposal and schedule, your elevator pitch will be graded by methodology TAs. Each of the six bullet points below are worth 1 point.
 
@@ -186,6 +187,3 @@ To assign a grade to your elevator pitch, we'll use the following scheme:
 | B | 3 - 4 |
 | C | 1 - 2 |
 | F | 0 |
-
-{: .warning }
-You will receive an F on the elevator pitch if you don't present a dry run, even if you submit the final video.
