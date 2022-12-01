@@ -9,12 +9,10 @@ nav_order: 1
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-**Welcome! 👋**
-
-- If you're a student, make sure to read the [**📓 Syllabus**](syllabus); it contains a lot of pertinent information.
-- If you're a mentor, make sure to read the [**👨‍🏫 Mentor Guide**](mentors); it has several action items for you.
-
-Use the sidebar to find the information you're looking for; external links can be found at the top right of the page. Feel free to direct all **logistical** questions to the capstone coordinator, Suraj Rampure, at <a href='mailto:rampure@ucsd.edu'>rampure@ucsd.edu</a>.
+**Please fill out the following feedback forms**:
+- [CAPEs](https://cape.ucsd.edu), due Saturday Dec. 3 at 8AM
+- [End of Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSce_zIKshdG9Rq1MU4EBGo_3WvdvdpwIL6QEUTK2HfQanHisg/viewform), due Friday Dec. 9 at 11:59PM
+- [TA Evaluations](https://academicaffairs.ucsd.edu/Modules/Evals), due Saturday Dec. 3 at 8AM
 
 ---
 
