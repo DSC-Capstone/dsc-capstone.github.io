@@ -7,7 +7,7 @@ nav_order: 4
 
 # 📆 Office Hours
 
-**Note:** This page only contains the office hours schedule for **metholodogy** office hours.
+**Note:** This page only contains the office hours schedule for **methodology** office hours.
 - To see the areas of expertise for each TA, check the **[🙋Staff](../staff)** page.
 - Ask your domain mentor for their office hours (or check the Domains and Mentors sheet linked at the top right); they will not appear in this calendar.
 
