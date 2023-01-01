@@ -9,17 +9,14 @@ nav_order: 1
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-**Please fill out the following feedback forms**:
-- [CAPEs](https://cape.ucsd.edu), due Saturday Dec. 3 at 8AM
-- [End of Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSce_zIKshdG9Rq1MU4EBGo_3WvdvdpwIL6QEUTK2HfQanHisg/viewform), due Friday Dec. 9 at 11:59PM
-- [TA Evaluations](https://academicaffairs.ucsd.edu/Modules/Evals), due Saturday Dec. 3 at 8AM
+## Winter 2023 Schedule
+
+{: .note }
+The Winter 2023 part of this site is still under construction!
 
 ---
 
-The table below contains the week-to-week schedule of lessons and assignments for students.
-
-- The dates contained in the second column are the **Mondays** corresponding to the methodology "lecture" slots; domain meetings aren't necessarily on Mondays.
-- The abbreviation MA refers to "methodology assignments".
+## Fall 2022 Schedule
 
 <table>
     <colgroup>
