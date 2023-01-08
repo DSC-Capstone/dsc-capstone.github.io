@@ -12,11 +12,92 @@ nav_order: 1
 ## Winter 2023 Schedule
 
 {: .note }
-The Winter 2023 part of this site is still under construction!
+**The [capstone showcase](https://dsc-capstone.github.io/showcase) will be held on Wednesday, March 15th from 11AM-2:30PM in-person**. All group members will be required to present your project poster for a 1.5 hour block in that interval, so make sure to be free then.
+
+<table>
+    <colgroup>
+        <col style="width: 1%" />
+        <col style="width: 1%" />
+        <col style="width: 48%" />
+        <col style="width: 25%" />
+        <col style="width: 25%" />
+    </colgroup>
+    <thead class="header">
+        <tr>
+            <th>Week</th>
+            <th>Date</th>
+            <th>Methodology<br><span style="font-weight: normal">(lessons only: no lessons or live lectures)</span></th>
+            <th>Domain</th>
+            <th><a href="assignments/projects/q2">Project</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Jan. 9</td>
+            <td>Project Management</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Jan. 16</td>
+            <td>Collaborating with Git</td>
+            <td rowspan=9>Starting Week 2, <a href="assignments/participation/q2">Participation</a> questions are due 24 hours before discussion meetings.<br><br>These are <b>required</b> and are to be submitted as a group. They are different from the participation questions from Quarter 1.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Jan. 23</td>
+            <td>Effective Communication</td>
+            <td><a href="assignments/projects/q2-checkin">Week 3 TA Check-In</a> (sign up by Jan. 20)</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Jan. 30</td>
+            <td>Posters and Oral Presentations</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Feb. 6</td>
+            <td>Websites</td>
+            <td><a href="assignments/projects/q2#report">Report checkpoint</a> and <a href="assignments/projects/q2#code-artifact">code checkpoint</a> (due Feb. 12)</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Feb. 13</td>
+            <td rowspan=5>No further methodology lessons</td>
+            <td><a href="assignments/projects/q2#poster-presentation">Poster checkpoint</a> (due Feb. 19)</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Feb. 20</td>
+            <td><a href="assignments/projects/q2#website">Website checkpoint</a> (due Feb. 26)</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Feb. 27</td>
+            <td><a href="assignments/projects/q2#poster-presentation">Oral presentation checkpoint</a>  (sign up by Feb. 24, complete by Mar. 3)</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Mar. 6</td>
+            <td><a href="assignments/projects/q2#poster-presentation">Poster</a> (due Mar. 9)</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Mar. 13</td>
+            <td><a href="assignments/projects/q2#report">Report</a>, <a href="assignments/projects/q2#code-artifact">code</a>, and <a href="assignments/projects/q2#website">website</a>  (due. Mar. 14)<br><br>In-person showcase on Mar. 15</td>
+        </tr>
+    </tbody>
+</table>
 
 ---
 
 ## Fall 2022 Schedule
+
+You may want to reference the methodology lessons from Quarter 1 while working on your Quarter 2 project.
 
 <table>
     <colgroup>

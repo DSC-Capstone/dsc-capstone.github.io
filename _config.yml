@@ -30,9 +30,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Domains and Mentors:
-    - 'https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=0'
+    - 'https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=829255333'
   Gradescope:
-    - 'https://www.gradescope.com/courses/442598'
+    - 'https://www.gradescope.com/courses/479331'
   EdStem:
     - 'https://edstem.org/us/courses/28947/discussion/'
 footer_content:
@@ -86,3 +86,9 @@ callouts:
   note:
     title: Note
     color: yellow
+  checkpoint:
+    title: Checkpoint
+    color: green
+  summary:
+    title: Summary
+    color: blue

@@ -31,7 +31,70 @@ At a high level, here's how the capstone program is organized:
 
 Throughout both quarters, there is a "methodology" component that will supplement your knowledge of your domain with best practices in software engineering, project management, and effective communication.
 
-Below is the syllabus for Quarter 1; the syllabus for Quarter 2 will arrive a bit closer to the start of Winter 2023.
+---
+
+# Quarter 2 (DSC 180B, Winter 2023)
+
+In Quarter 2, you will execute your [Quarter 2 Project](../assignments/projects/q2), the proposal for which you submitted at the end of Quarter 1. You will also prepare to present your work to a variety of audiences, in a variety of formats (most notably, as a poster at our [in-person capstone showcase](https://dsc-capstone.github.io/showcase) on March 15th).
+
+## Getting Started
+
+A few things to note before the quarter begins:
+
+- Sections begin on Monday, January 9th. Confirm the date and time of your discussion section in the Winter 2023 tab of the [Domains and Mentors](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=829255333) spreadsheet.
+    - If your section is held in SDSC, follow the instructions found [here](../office-hours) to enter.
+  - Make sure to enroll in your section ASAP if you haven't already, and to start participating from Day 1.
+- There will be methodology lessons released each Monday to guide you through your Quarter 2 Projects, along with methodology [Office Hours](../office-hours) for you to get help. However, there are no live lecture help sessions or methodology assignments. 
+- Make sure you can access the following sites; email Suraj if you can't:
+    - The **new** Winter 2023 [Gradescope](https://www.gradescope.com/courses/479331), where all assignments will be submitted.
+    - We will use the same [EdStem](https://edstem.org/us/courses/28947/discussion/) instance as we did in the fall. **All class-wide announcements will be sent here!**
+
+---
+
+## Course Components
+
+### Lecture (Methodology)
+
+As in Quarter 1, methodology lessons in Quarter 2 will be presented as a series of lecture notes that you read outside of class. Unlike in Quarter 2, there are no synchronous "lesson help" sessions, though you are still free to come to office hours to discuss the methodology lessons with the instructor and course staff. Lessons will be released on the Mondays listed in the calendar on the [course homepage](../).
+
+Quarter 2's methodology lessons are designed to support you as you complete your Quarter 2 Project deliverables (of which there are many). With that said, the time you spend on methodology lessons will be minimal, since most of your time will be spent executing your project.
+
+### Discussion (Domain)
+
+As in Quarter 1, discussion section will focus on your domain. Each week, a representative from each group will give a "weekly check-in," in which they present their group's work over the past week to the rest of the domain. To prepare for the check-in, each group must submit a weekly [Participation](../assignments/participation/q2) assignment 24 hours before discussion section.
+
+The weekly check-in gives you an opportunity to practice talking about technical material, solicit feedback from your mentor, and learn from other teams' successes and obstacles. As such, **attendance in discussion each week is mandatory, like in Quarter 1**. If you're unable to attend in a given week, work out an arrangement with your mentor in advance.
+
+See the Winter 2023 tab of the [Domains and Mentors](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=829255333) spreadsheet for the time and location of your discussion meetings, as they may have changed since the fall.
+
+### Office Hours
+
+In addition to any office hours your mentor may hold, methodology course staff will also hold office hours to help you resolve technical problems with your deliverables. See the [Office Hours](../office-hours) page for the schedule, and the [Staff](../staff) page for a listing of each TA's area of expertise. Note that each domain will have an assigned methodology TA starting Week 2, who you will be required to check in with periodically during the quarter.
+
+## Assignments and Grades
+
+See [Quarter 2 Project](../assignments/projects/q2) spec for a description of all project deliverables, and the [course homepage](../) for all due dates.
+
+_Note: These weights may change slightly during the first two weeks of the quarter._
+
+| Component | Description | Weight |
+| --- | --- | --- |
+| Checkpoints | Each component of the Quarter 2 Project has a checkpoint to ensure that you're on track. | 10% |
+| Primary deliverable | If your project is a traditional methods or analysis project, your primary deliverable is your **report** and your secondary deliverable is your **website**. <br><br> If your project is building a product (e.g. an application or dashboard), your primary deliverable is your **product** itself and your secondary deliverable is your **report**, though you will still have to create a separate website. See the [Quarter 2 Project](../assignments/projects/q2) spec for more details. |  45% |
+| Secondary deliverable | See above. | 15% |
+| Poster presentation | Your produced poster and presentations at the in-person capstone showcase will be graded on polish and clarity. | 15% |
+| Code artifact | Your final code submission will be graded based on the methodological standards introduced in Lessons 2, 5, and 6 of Quarter 1. | 5% |
+| [Participation questions](../assignments/participation/q2) | Weekly prompts that require you to document each group member's progress so far and how your project plans have evolved.	 | 5% |
+| Overall participation | As in Quarter 1, your mentor will assign you an overall participation grade at the end of the quarter. | 5% |
+
+
+### Grading Policy
+
+Unless otherwise stated, we will follow the same [General Rubric](#general-rubric) as in Quarter 1. We'll also follow the same policy on [Letter Grades](#letter-grades). Note: your grade in DSC 180B is completely independent of your grade in DSC 180A.
+
+## Collaboration Policy and Academic Integrity
+
+Refer to the [Collaboration Policy and Academic Integrity](#collaboration-policy-and-academic-integrity-1) from Quarter 1.
 
 ---
 
@@ -56,7 +119,8 @@ Note that we will not be using Canvas at all this quarter.
 
 ## Course Components
 
-As mentioned in the [Overview](#overview), the primary goal of Quarter 1 is to get you acquainted with your mentor's domain. The main deliverable in Quarter 1 is the "Quarter 1 Project", which you will work on gradually throughout the quarter by completing the tasks that your mentor assigns you. The Quarter 1 Project is due at the end of the quarter, but a checkpoint is due in Week 5, to make sure you're on track.
+As mentioned in the [Overview]
+overview), the primary goal of Quarter 1 is to get you acquainted with your mentor's domain. The main deliverable in Quarter 1 is the "Quarter 1 Project", which you will work on gradually throughout the quarter by completing the tasks that your mentor assigns you. The Quarter 1 Project is due at the end of the quarter, but a checkpoint is due in Week 5, to make sure you're on track.
 
 You will complete your Quarter 1 Project either individually or in groups, depending on your mentor's preferences. Your Quarter 1 Project will serve as a foundation for your Quarter 2 Project Proposal, which you will submit in Week 9. The Quarter 2 Project will be completed in groups of 2-4 throughout Quarter 2. 
 
@@ -75,7 +139,8 @@ Based on feedback from prior iterations of the capstone, we've decided to delive
     - You can attend either (or both) of the sessions, regardless of which lecture section you're enrolled in.
     - Note that **in Week 1 (on September 26th), we will hold a "traditional" introductory lecture during the scheduled lecture slots, and you should plan to attend**. The plan mentioned above begins with Week 2.
     - All lecture sessions will be podcasted, but the usefulness of the podcasts for Lecture Help sessions will be limited, since they will primarily contain Q&A amongst the students present.
-- Many methodology lectures will have an accompanying "methodology assignment", due the following weekend. See the [Assignments](#assignments) section for more details.
+- Many methodology lectures will have an accompanying "methodology assignment", due the following weekend. See the [Assignments]
+assignments) section for more details.
     - In the Lecture Help sessions, we will provide help on methodology assignments as well – **expect the assignments to be much easier to complete if you come to Lecture Help sessions**!
 
 
@@ -191,7 +256,3 @@ The following activities are examples of appropriate collaboration and
 StackOverflow code!).
 
 ---
-
-# Quarter 2 (DSC 180B, Winter 2023)
-
-Coming later this year!
