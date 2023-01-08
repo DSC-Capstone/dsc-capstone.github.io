@@ -55,9 +55,11 @@ A few things to note before the quarter begins:
 
 ### Lecture (Methodology)
 
-As in Quarter 1, methodology lessons in Quarter 2 will be presented as a series of lecture notes that you read outside of class. Unlike in Quarter 2, there are no synchronous "lesson help" sessions, though you are still free to come to office hours to discuss the methodology lessons with the instructor and course staff. Lessons will be released on the Mondays listed in the calendar on the [course homepage](../).
+As in Quarter 1, methodology lessons in Quarter 2 will be presented as a series of lecture notes that you read outside of class. Unlike in Quarter 1, there are no synchronous "lesson help" sessions, though you are still free to come to office hours to discuss the methodology lessons with the instructor and course staff. Lessons will be released on the Mondays listed in the calendar on the [course homepage](../).
 
 Quarter 2's methodology lessons are designed to support you as you complete your Quarter 2 Project deliverables (of which there are many). With that said, the time you spend on methodology lessons will be minimal, since most of your time will be spent executing your project.
+
+The live lecture slot on Monday will be used for Suraj's office hours; the live lecture slots on Wednesday and Friday will not be used for anything.
 
 ### Discussion (Domain)
 

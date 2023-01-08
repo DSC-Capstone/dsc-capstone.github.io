@@ -12,7 +12,7 @@ nav_order: 4
 - Ask your domain mentor for their office hours (or check the Domains and Mentors sheet linked at the top right); they will not appear in this calendar.
 
 The modality of each office office hour is included in the calendar.
-- Suraj's in-person office hours will usually be held on Mondays in Center 119, during the live lecture slot.
+- Suraj's in-person office hours will usually be held on Mondays in Center 119, during the Monday live lecture slot (the Wednesday and Friday live lecture slots are not being used at all).
 - The TAs' in-person office hours will usually be held on the second floor of the east wing of the San Diego Supercomputer Center
 ([map](https://g.page/SDSC_UCSanDiego?share)). Enter SDSC from the east
 entrance on Hopkins Drive, take the elevator up to the second floor, turn left
