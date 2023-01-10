@@ -37,7 +37,7 @@ Welcome to Quarter 2 of the capstone! Make sure to read the [Syllabus](syllabus#
         <tr>
             <td>1</td>
             <td>Jan. 9</td>
-            <td>Project Management</td>
+            <td><a href='lessons/q2/01'>Project Management</a></td>
             <td></td>
             <td></td>
         </tr>
