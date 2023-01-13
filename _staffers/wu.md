@@ -1,5 +1,5 @@
 ---
-name: Weiweu Wu
+name: Weiwei Wu
 role: Teaching Assistant
 email: wew012@ucsd.edu
 pronouns: he/him
