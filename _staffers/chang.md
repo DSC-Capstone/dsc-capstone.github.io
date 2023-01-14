@@ -11,3 +11,5 @@ Hi I'm Keng-Chi, a PhD student in the Political Science department studying onli
 **Expertise:** Anything social science related (misinformation, social media, ethics, spatial, finance, health)
 
 **Can help with:** R, social data collection, data visualization, causal inference, NLP, time series, spatial data, Python
+
+**Domains: A03, A09, A11, A12, A13**

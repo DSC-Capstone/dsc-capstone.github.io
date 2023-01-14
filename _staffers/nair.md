@@ -11,3 +11,5 @@ Hey! I'm Praveen, from Fremont, California, and I'm currently a master's student
 **Expertise:** Machine learning ethics/fairness, linguistics, social science (especially political science & education)
 
 **Can help with:** Python, R, NLP, sklearn, visualization, text data, fairness metrics, statistical tests
+
+**Domains: A02, A05, A06, A10, B10, B12**

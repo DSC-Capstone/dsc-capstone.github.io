@@ -11,3 +11,5 @@ Hello! My name is Teresa and I was raised in Sacramento County. I graduated from
 **Expertise:** statistical/ML methods & models, data visualization, communicating with domain experts
 
 **Can help with:** R, Python, SQL, Power BI, data cleaning/engineering, times series, data visualizations, presenting to technical vs. non-technical audiences, internship/career advising.
+
+**Domains: A01, B03/B19, B04, B13**

@@ -11,3 +11,5 @@ Hello, welcome! My name is Sourav. I’m from India and I’m a second year mast
 **Expertise:** Software engineering, machine learning
 
 **Can help with:** Python, SQL, Tableau, web services, CUDA programming
+
+**Domains: A04, A07, A15, B17**

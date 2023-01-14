@@ -11,3 +11,5 @@ Hi!! My name is Yuyao Wang. I was born in Luoyang China, and I am a 4th year gra
 **Expertise:** Statistics
 
 **Can help with:** R, causal inference, survival analysis
+
+**Domains: A16, A17, B02/B05, B06, B18, B20**
