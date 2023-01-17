@@ -44,7 +44,7 @@ Welcome to Quarter 2 of the capstone! Make sure to read the [Syllabus](syllabus#
         <tr>
             <td>2</td>
             <td>Jan. 16</td>
-            <td>Collaborating with Git</td>
+            <td><a href='lessons/q2/02'>Collaborating with Git</a></td>
             <td rowspan=9>Starting Week 2, <a href="assignments/participation/q2">Participation</a> questions are due 24 hours before discussion meetings.<br><br>These are <b>required</b> and are to be submitted as a group. They are different from the participation questions from Quarter 1.</td>
             <td></td>
         </tr>
