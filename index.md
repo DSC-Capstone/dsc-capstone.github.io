@@ -51,7 +51,7 @@ Welcome to Quarter 2 of the capstone! Make sure to read the [Syllabus](syllabus#
         <tr>
             <td>3</td>
             <td>Jan. 23</td>
-            <td>Effective Communication</td>
+            <td><a href='lessons/q2/03'>Effective Communication</a></td>
             <td><a href="assignments/projects/q2-checkin">Week 3 TA Check-In</a> (sign up by Jan. 20)</td>
         </tr>
         <tr>
