@@ -11,10 +11,8 @@ nav_order: 1
 
 ## Winter 2023 Schedule
 
-Welcome to Quarter 2 of the capstone! Make sure to read the [Syllabus](syllabus#quarter-2-dsc-180b-winter-2023) and the [Quarter 2 Project](assignments/projects/q2) specifications.
-
 {: .note }
-**The [capstone showcase](https://dsc-capstone.github.io/showcase) will be held on Wednesday, March 15th from 11AM-2:30PM in-person**. All group members will be required to present your project poster for a 1.5 hour block in that interval, so make sure to be free then.
+**The [capstone showcase](https://hdsishowcase.com) will be held on Wednesday, March 15th from 11AM-2:30PM in-person.<br>[View your assigned block (either 11AM-12:30PM or 1-2:30PM) here](https://docs.google.com/spreadsheets/d/10avPsPgSc8wCyzabUxKxe3MDXsst9lkwDb7tjwz7IlI/edit?usp=sharing).**
 
 <table>
     <colgroup>
@@ -57,7 +55,7 @@ Welcome to Quarter 2 of the capstone! Make sure to read the [Syllabus](syllabus#
         <tr>
             <td>4</td>
             <td>Jan. 30</td>
-            <td>Posters and Oral Presentations</td>
+            <td><a href='lessons/q2/04'>Posters and Oral Presentations</a></td>
             <td></td>
         </tr>
         <tr>
