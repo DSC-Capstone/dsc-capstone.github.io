@@ -58,7 +58,7 @@ When practicing your elevator pitch, you may find it useful to use slides to _st
 The best way to prepare for the questions you'll receive at the showcase is to let your audiences during your practice runs ask questions, and come up with answers to all of them. This is why it's important to practice giving your pitch to different audiences – different audiences will be curious about different aspects of your project and will require different levels of detail to be satisfied. As we said in the Quarter 2 Proposal Elevator Pitch guidelines, **make sure that you can turn your pitch into a conversation if someone asks a question in the middle**.
 
 {: .note }
-Remember that all group members will receive a participation grade – so all group members need to be able to talk and answer questions about the project at the showcase.
+Remember that all group members will receive a presentation grade – so all group members need to be able to talk and answer questions about the project at the showcase.
 
 ---
 
