@@ -12,7 +12,7 @@ nav_order: 1
 ## Winter 2023 Schedule
 
 {: .note }
-**The [capstone showcase](https://hdsishowcase.com) will be held on Wednesday, March 15th from 11AM-2:30PM in-person.<br>[View your assigned block (either 11AM-12:30PM or 1-2:30PM) here](https://docs.google.com/spreadsheets/d/10avPsPgSc8wCyzabUxKxe3MDXsst9lkwDb7tjwz7IlI/edit?usp=sharing).**
+**The [capstone showcase](https://hdsishowcase.com) will be held on Wednesday, March 15th from 11AM-2:30PM in-person.<br>[View your assigned block (either 11AM-12:30PM or 1-2:30PM) and add your project's title here](https://docs.google.com/spreadsheets/d/10avPsPgSc8wCyzabUxKxe3MDXsst9lkwDb7tjwz7IlI/edit?usp=sharing).**
 
 <table>
     <colgroup>
@@ -61,7 +61,7 @@ nav_order: 1
         <tr>
             <td>5</td>
             <td>Feb. 6</td>
-            <td>Websites</td>
+            <td><a href='lessons/q2/05'>Websites</a></td>
             <td><a href="assignments/projects/q2#report">Report checkpoint</a> and <a href="assignments/projects/q2#code-artifact">code checkpoint</a> (due Feb. 12)</td>
         </tr>
         <tr>
