@@ -73,7 +73,7 @@ Your poster will primarily serve as a visual aid as you present your work. It sh
 While the focus should be on visuals, your poster should also be self-contained – just by looking at your poster, someone should be able to understand the main idea behind your project, the context in which it exists, and its impact, without you having to be present. After all, your poster may eventually be hung up in the hallway of the new HDSI building – passerbys looking at your poster should be able to understand what you did.
 
 {: .note }
-On March 9th, you will submit your poster to us as a PDF of size **48" x 36"**. Make sure that all text and figures on your poster are large and legible.
+On March 9th, you will submit your poster to us as a PDF of size **48" x 36"**. Make sure that all text and figures on your poster are large and legible – to do this, ensure that your figures are exported at a resolution of 300 DPI (dots per inch). See [here](https://posterprintshop.com/file-preparation/) for some guidelines.
 
 We won't reinvent the wheel here – there is a wealth of resources available online that you can consult for guidance on how to produce a poster. **Your mentor is also a valuable resource – they've almost certainly created a poster before, and ultimately they will be the ones grading your poster**.
 

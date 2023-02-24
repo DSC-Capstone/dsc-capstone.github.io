@@ -78,7 +78,7 @@ nav_order: 1
         <tr>
             <td>8</td>
             <td>Feb. 27</td>
-            <td><a href="assignments/projects/q2#poster-presentation">Oral presentation checkpoint</a>  (sign up by Feb. 24, complete by Mar. 3)</td>
+            <td><a href="assignments/projects/q2-week8-checkin">Week 8 TA Check-In</a>  (sign up by Feb. 26, complete by Mar. 3)</td>
         </tr>
         <tr>
             <td>9</td>
