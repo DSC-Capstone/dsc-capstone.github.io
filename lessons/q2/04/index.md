@@ -10,6 +10,8 @@ nav_exclude: true
 {: .note }
 On **February 12th** – **in just two weeks** – you'll be required to submit checkpoints for your report and code. <br><br> In the following weeks, you'll be required to submit checkpoints for your **poster** (**February 19th**) and **website** (**February 26th**). Ultimately, your poster and website will be seen by your peers, mentors, industry partners, future employers and grad schools, and the community more generally – **you should expect to spend a significant amount of time on each, so that you and your mentor are proud of the result**. <br><br> This lesson will give you guidance on how to prepare a scientific poster and prepare for the showcase; next week's lesson will focus on websites.
 
+[Submit your final poster PDF (due March 9th at 11:59PM) here.](https://docs.google.com/forms/d/e/1FAIpQLSfoQiyTe5mNXIYqrerMA2Y9GMaCajPU8EMM-xkuceg6t4cLyA/viewform){: .btn .btn-blue }
+
 ---
 
 ## Table of contents
@@ -108,3 +110,5 @@ Below are several other resources. You'd be well suited to read the links in the
 
 {: .note }
 **Start early**. Figure out what content you'd like to put on your poster, and then try and find a template (or create your own) that works for your content.
+
+[Submit your final poster PDF (due March 9th at 11:59PM) here.](https://docs.google.com/forms/d/e/1FAIpQLSfoQiyTe5mNXIYqrerMA2Y9GMaCajPU8EMM-xkuceg6t4cLyA/viewform){: .btn .btn-blue }
