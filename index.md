@@ -12,7 +12,7 @@ nav_order: 1
 ## Winter 2023 Schedule
 
 {: .note }
-The capstone showcase is on Wednesday, March 15th from 11AM-2:30PM in-person in the Price Center East Ballroom.<br><big><b>Everyone, including capstone students, must RSVP at [hdsishowcase.com](https://hdsishowcase.com).</b></big><br>View your assigned block (either 11AM-12:30PM or 1-2:30PM) [here](https://docs.google.com/spreadsheets/d/10avPsPgSc8wCyzabUxKxe3MDXsst9lkwDb7tjwz7IlI/edit?usp=sharing).
+The capstone showcase is on Wednesday, March 15th from 11AM-2:30PM in-person in the Price Center East Ballroom.<br><big><b>Everyone, including capstone students, must RSVP at [hdsishowcase.com](https://hdsishowcase.com).</b></big><br>View your assigned block (either 11AM-12:30PM or 1-2:30PM) [here](https://docs.google.com/spreadsheets/d/10avPsPgSc8wCyzabUxKxe3MDXsst9lkwDb7tjwz7IlI/edit?usp=sharing). **Note that you must arrive 30 minutes _before_ your block to check in and set up.** Attire is business casual 💼.
 
 [Submit your final poster PDF (due March 9th at 11:59PM) here.](https://docs.google.com/forms/d/e/1FAIpQLSfoQiyTe5mNXIYqrerMA2Y9GMaCajPU8EMM-xkuceg6t4cLyA/viewform){: .btn .btn-blue }
 
