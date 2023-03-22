@@ -12,7 +12,7 @@ nav_order: 1
 ## Winter 2023 Schedule
 
 {: .note }
-**Read [this post on Ed](https://edstem.org/us/courses/28947/discussion/2768905) for important details about Tuesday's deadlines and Wednesday's showcase.**
+Hi! This site will soon be updated with details about the 2023-24 offering of the capstone. In the meantime, feel free to browse around, or look at this year's finished projects at [**hdsishowcase.com**](https://hdsishowcase.com).
 
 <table>
     <colgroup>
