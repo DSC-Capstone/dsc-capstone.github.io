@@ -4,15 +4,15 @@ title: 🏡 Home
 nav_order: 1
 ---
 
+{: .warning }
+This site contains details about a previous offering of the capstone sequence. To see the latest updates, check [**dsc-capstone.org**](https://dsc-capstone.org), and to see student projects from 2022-23, check [**dsc-capstone.org/showcase-23**](https://dsc-capstone.org/showcase-23).
+
 # {{ site.tagline }}
 {: .mb-2 }
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
 ## Winter 2023 Schedule
-
-{: .note }
-Hi! This site will soon be updated with details about the 2023-24 offering of the capstone. In the meantime, feel free to browse around, or look at this year's finished projects at [**hdsishowcase.com**](https://hdsishowcase.com).
 
 <table>
     <colgroup>
