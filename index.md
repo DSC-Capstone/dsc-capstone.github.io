@@ -15,7 +15,7 @@ Eventually, this page will transform into the student-facing website for the 202
 
 [2023-24 Domain Descriptions](http://dsc-capstone.org/enrollment){: .btn .btn-blue }
 
-[2022-23 Projects](https://hdsishowcase.com){: .btn }
+[2022-23 Projects](https://dsc-capstone.org/showcase-23){: .btn }
 
 [2022-23 Course Website](http://dsc-capstone.org/2022-23){: .btn }
 
