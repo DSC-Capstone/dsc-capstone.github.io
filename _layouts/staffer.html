@@ -1,0 +1,54 @@
+<div class="staffer">
+  {% if page.dual %}
+  {% if page.photo1 %}
+  <img class="staffer-image" src="{{ page.photo1 | relative_url }}" alt="">
+  <img class="staffer-image" src="{{ page.photo2 | relative_url }}" alt="">
+  {% endif %}
+  <div>
+  <h3 class="staffer-name">
+    {{ page.title }}<br><small><a href="{{ page.website1 }}">{{ page.name1 }}</a> and <a href="{{ page.website2 }}">{{ page.name2 }}</a> • <span style="color:grey">{{ page.email1 }}
+        
+        {% if page.email1 != page.email2 %}
+        and {{ page.email2 }}
+        {% else %}
+        {% endif %}
+      
+      </span></small>
+    <br><span class="badge-domain">{{ page.domain }}</span> <span class="badge-seats">{{ page.seats }} seats</span> <span class="badge-time">{{ page.time }}</span>
+  {% else %}
+  {% if page.photo %}
+  <img class="staffer-image" src="{{ page.photo | relative_url }}" alt="">
+  {% endif %}
+  <div>
+    <h3 class="staffer-name">
+    {{ page.title }}<br><small><a href="{{ page.website }}">{{ page.name }}</a> • <span style="color:grey">{{ page.email }}</span></small>
+    <br><span class="badge-domain">{{ page.domain }}</span> <span class="badge-seats">{{ page.seats }} seats</span> <span class="badge-time">{{ page.time }}</span>  
+  {% endif %}
+    {% if page.industry %}
+    <span class="badge-industry">Industry Partner: {{ page.industry }}</span>
+    {% else %}
+    {% endif %}
+    <br></h3>
+    {{ page.description }}
+    <br>
+    <details>
+      <summary>
+      <b><a>Read more</a></b>
+      </summary>
+      <ul>
+        <li><b markdown="1">About:</b> {{ page.bio }} </li>
+        <li><b>Mentoring Style:</b> {{ page.style }}</li>
+        <li><b>Suggested Prerequisites:</b> {{ page.prerequisites }}</li>
+        <li><b>Summer Tasks:</b> {{ page.summer }}</li>
+        {% if page.oldstudent != 'nan' %}
+        <li><b><a href="{{ page.oldstudent }}" target="_blank">Previous Project</a></b></li>
+        {% else %}
+        {% endif %}
+      </ul>
+    </details>
+    <small>
+
+    </small>
+
+  </div>
+</div>

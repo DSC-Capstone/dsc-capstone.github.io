@@ -1,0 +1,60 @@
+@import '../custom/module';
+
+$link-color: #0066cc;
+$nav-width: 216px;
+$content-width: 950px;
+
+// iframe {
+//     margin: -1px 0;
+//     max-width: none;
+//     // width: calc(100% + 2px);
+// }
+
+iframe {
+    max-width: 100%;
+  }
+
+summary::marker {
+    content: "";
+  }
+
+.badge-industry {
+  display: inline-block ;
+  background-color: #f31b18;
+  font-size: 12px;
+  color: white;
+  padding: 2px 4px;
+  text-align: center;
+  border-radius: 4px;
+  // width: 120px;
+}
+
+// details {
+//   @extend .mb-3;
+// }
+
+// summary {
+//   @extend .btn, .btn-outline;
+// }
+  
+
+//   .full-width {
+//     height: 100%;
+//     margin: 1rem -1rem;
+//     max-width: none;
+//     overflow: hidden;
+//     padding: 0;
+//     width: calc(100% + 2rem)
+//   }
+
+//   .slide {
+//     margin: -1px 0;
+//     max-width: none;
+//     width: calc(100% + 2px);
+//   }
+
+.slide {
+    clip-path: inset(1.5px 2.5px 1.5px 1.5px);
+    max-width: none;
+    width: calc(100% + 2px);
+  }

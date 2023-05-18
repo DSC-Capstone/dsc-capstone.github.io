@@ -1,2 +1,1 @@
-# dsc-capstone.github.io
-Public-facing capstone website.
+# dsc-capstone.org
