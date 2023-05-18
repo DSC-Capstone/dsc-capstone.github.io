@@ -1,11 +1,14 @@
 ---
 layout: minimal
-title: 2023-24 DSC Capstone
+title: DSC Capstone, 2023-24 @ UC San Diego
 nav_exclude: true
 nav_order: 1
 ---
 
-# {{ page.title }}
+# Home
+{: .mb-2 }
+DSC Capstone, 2023-24 @ UC San Diego
+{: .fs-6 .fw-300 }
 
 Hi! 👋
 
