@@ -1,54 +1,50 @@
 <div class="staffer">
-  {% if page.dual %}
-  {% if page.photo1 %}
-  <img class="staffer-image" src="{{ page.photo1 | relative_url }}" alt="">
-  <img class="staffer-image" src="{{ page.photo2 | relative_url }}" alt="">
-  {% endif %}
-  <div>
-  <h3 class="staffer-name">
-    {{ page.title }}<br><small><a href="{{ page.website1 }}">{{ page.name1 }}</a> and <a href="{{ page.website2 }}">{{ page.name2 }}</a> • <span style="color:grey">{{ page.email1 }}
-        
-        {% if page.email1 != page.email2 %}
-        and {{ page.email2 }}
-        {% else %}
-        {% endif %}
-      
-      </span></small>
-    <br><span class="badge-domain">{{ page.domain }}</span> <span class="badge-seats">{{ page.seats }} seats</span> <span class="badge-time">{{ page.time }}</span>
-  {% else %}
+  <hr>
   {% if page.photo %}
   <img class="staffer-image" src="{{ page.photo | relative_url }}" alt="">
   {% endif %}
   <div>
     <h3 class="staffer-name">
-    {{ page.title }}<br><small><a href="{{ page.website }}">{{ page.name }}</a> • <span style="color:grey">{{ page.email }}</span></small>
-    <br><span class="badge-domain">{{ page.domain }}</span> <span class="badge-seats">{{ page.seats }} seats</span> <span class="badge-time">{{ page.time }}</span>  
-  {% endif %}
-    {% if page.industry %}
-    <span class="badge-industry">Industry Partner: {{ page.industry }}</span>
-    {% else %}
+      {% if page.website %}
+      <a href="{{ page.website }}">{{ page.name }}</a>
+      {% else %}
+      {{ page.name }}
+      {% endif %}
+      {% if page.pronouns %}
+      <div class="staffer-pronouns"><b>{{ page.pronouns }}</b></div>
+      {% endif %}
+      {% if page.domains %}
+      <div class="badge-domains"><b>{{ page.domains }}</b></div>
+      {% endif %}
+    </h3>
+    <p>
+    {% if page.email %}
+    <a href="mailto:{{ page.email }}">{{ page.email }}</a>
     {% endif %}
-    <br></h3>
-    {{ page.description }}
-    <br>
-    <details>
-      <summary>
-      <b><a>Read more</a></b>
-      </summary>
-      <ul>
-        <li><b markdown="1">About:</b> {{ page.bio }} </li>
-        <li><b>Mentoring Style:</b> {{ page.style }}</li>
-        <li><b>Suggested Prerequisites:</b> {{ page.prerequisites }}</li>
-        <li><b>Summer Tasks:</b> {{ page.summer }}</li>
-        {% if page.oldstudent != 'nan' %}
-        <li><b><a href="{{ page.oldstudent }}" target="_blank">Previous Project</a></b></li>
-        {% else %}
-        {% endif %}
-      </ul>
-    </details>
-    <small>
+    </p>
 
-    </small>
+    <h6>Academic Background and Expertise</h6>
 
+    <p title="Current Position">🧑‍🏫 {{ page.current }}</p>
+
+    <p title="Education">🎓 {{ page.education }}</p>
+
+    {% if page.research %}
+    <p title="Research Interests">💭 {{ page.research }}</p>
+    {% endif %}
+
+    {% if page.expertise %}
+    <p title="Expertise">🧠 {{ page.expertise }}</p>
+    {% endif %}
+
+    <h6>Personal Life</h6>
+    <p title="Hometown">🏠 {{ page.hometown }}</p>
+
+    <p title="Outside of the classroom, ask me about...">🙋 {{ page.askabout }}</p>
+
+    <p title="Favorite food in San Diego">{{ page.foodemoji }} {{ page.food }}</p>
+
+    <!-- {{ content }} -->
+    
   </div>
 </div>
