@@ -17,7 +17,7 @@ title: DSC 180AB
 tagline: Data Science Capstone
 description: DSC 180AB, Fall 2023 and Winter 2024 at UC San Diego
 author: Suraj Rampure
-baseurl: '/2023-24' # the subpath of your site, e.g. /blog
+baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://dsc-capstone.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
