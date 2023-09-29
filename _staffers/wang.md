@@ -3,13 +3,14 @@ name: Yuyao Wang
 role: Teaching Assistant
 email: yuw079@ucsd.edu
 pronouns: she/her
-photo: wang.jpeg
+photo: wang_yuyao.jpeg
+current: PhD Student, Department of Mathematics
+education: BA in Mathematics, Xi'an Jiaotong University
+hometown: Luoyang, China 🇹🇼
+research: Causal inference, survival analysis, semiparametric theory ([my website](https://wangyuyao98.github.io))
+expertise: "Causal inference, survival analysis, R"
+domains: A05, A07, A11, B04
+askabout: Gardening, guqin, baking, badminton, hiking, kayaking
+food: Pastries, noodles, dumplings, green tea latte, tofu, vegetables, fruits, fish
+foodemoji: 🍓🥑🍞🥟
 ---
-
-Hi!! My name is Yuyao Wang. I was born in Luoyang China, and I am a 4th year graduate student in the math department with a specialization in statistics. In my free time, I enjoy gardening, cooking, baking, and outdoor activities such as hiking and kayaking. I am very excited to assist DSC 180, and looking forward to working with you all this quarter!! :)
-
-**Expertise:** Statistics
-
-**Can help with:** R, causal inference, survival analysis
-
-**Domains: A16, A17, B02/B05, B06, B18, B20**
