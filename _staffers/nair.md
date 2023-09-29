@@ -4,7 +4,7 @@ role: Teaching Assistant
 email: prnair@ucsd.edu
 pronouns: he/him
 website: https://praveen-nair.com
-photo: nair.jpg
+photo: ../../assets/staff-images/nair.jpg
 current: 2nd year MS student, Computer Science & Engineering
 education: BS in Data Science from UCSD 🔱
 hometown: Fremont, California

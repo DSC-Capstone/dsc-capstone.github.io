@@ -4,7 +4,7 @@ role: Instructor
 email: rampure@ucsd.edu
 pronouns: he/him
 website: https://rampure.org
-photo: rampure.png
+photo: ../../assets/staff-images/rampure.png
 current: Lecturer, Halıcıoğlu Data Science Institute
 education: MS, Electrical Engineering and Computer Sciences, UC Berkeley
 hometown: Windsor, Ontario, Canada
