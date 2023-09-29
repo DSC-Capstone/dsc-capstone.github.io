@@ -10,7 +10,7 @@ hometown: Luoyang, China 🇹🇼
 research: Causal inference, survival analysis, semiparametric theory ([my website](https://wangyuyao98.github.io))
 expertise: "Causal inference, survival analysis, R"
 domains: A05, A07, A11, B04
-askabout: gardening, guqin, baking, badminton, hiking, kayaking
-food: pastries, noodles, dumplings, green tea latte, tofu, vegetables, fruits
+askabout: Gardening, guqin, baking, badminton, hiking, kayaking
+food: Pastries, noodles, dumplings, green tea latte, tofu, vegetables, fruits
 foodemoji: 🍓🥑🍞🥟
 ---
