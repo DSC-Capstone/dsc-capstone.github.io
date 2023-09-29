@@ -1,15 +1,16 @@
 ---
-name: Yuyao Wang
+name: Yanyi Wang
 role: Teaching Assistant
-email: yuw079@ucsd.edu
+email: yaw019@ucsd.edu
 pronouns: she/her
-photo: wang.jpeg
+photo: wang_yanyi.jpg
+current: 5th year PhD student, Department of Mathematics
+education: MA in Statistics, Washington University in St. Louis
+hometown: Zhejiang, China
+research: High-dimensional time series, bootstrapping and subsampling
+expertise: "Statistics, Time Series Analysis, R"
+domains: A03, B02, B03, B13
+askabout: baking, cooking, gardening, hiking
+food: dessert, fruits, seafood
+foodemoji: 🎂🍉
 ---
-
-Hi!! My name is Yuyao Wang. I was born in Luoyang China, and I am a 4th year graduate student in the math department with a specialization in statistics. In my free time, I enjoy gardening, cooking, baking, and outdoor activities such as hiking and kayaking. I am very excited to assist DSC 180, and looking forward to working with you all this quarter!! :)
-
-**Expertise:** Statistics
-
-**Can help with:** R, causal inference, survival analysis
-
-**Domains: A16, A17, B02/B05, B06, B18, B20**
