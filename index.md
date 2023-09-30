@@ -12,12 +12,10 @@ This site is under construction! -->
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-<!-- {: .green }
+{: .green }
 > Welcome! 
-> - If you're a **student**, make sure to read the [**Syllabus**](syllabus) and come to the first (and only) live lecture on Monday.
-> - If you're a **mentor**, read the [**Mentor Guide**](mentors). -->
-
-Coming soon!
+> - If you're a **student**, make sure to come to the first (and only) live lecture on Monday. The methodology schedule and syllabus are coming this weekend.
+> - If you're a **mentor**, read the [**Mentor Guide**](mentors).
 
 <!-- <table>
     <colgroup>

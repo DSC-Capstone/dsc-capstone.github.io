@@ -8,6 +8,9 @@ nav_exclude: true
 # 💍 Quarter 2 Project Proposal
 {:.no_toc}
 
+{: .red }
+**Note: These specifications have not been updated for Fall 2023. They will change somewhat but will remain the same in spirit. This warning will be removed once they have been updated.**
+
 *This document also takes the place of Methodology Lesson 7. You should read it before you complete [Methodology Assignment 4](../../methodology/q1/04), due on Sunday, November 13th.*
 
 As you know, your main deliverable throughout the capstone sequence is your Quarter 2 Project. In order to ensure that you'll be able to successfully execute your project, you're required to submit a detailed proposal.

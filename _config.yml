@@ -33,7 +33,7 @@ aux_links:
     - 'https://www.gradescope.com/courses/637426'
   Ed:
     - 'https://edstem.org/us/courses/48541/discussion/'
-  List of Domains:
+  Enrollment:
     - 'https://dsc-capstone.github.io/enrollment'
   2022-23 Showcase:
     - 'https://dsc-capstone.github.io/showcase-23'
@@ -91,8 +91,8 @@ callouts:
   checkpoint:
     title: Checkpoint
     color: green
-  summary:
-    title: Summary
+  blue:
+    title: 
     color: blue
   green:
     title: 
