@@ -38,7 +38,7 @@ The schedule and dates below are subject to change throughout the quarter.
     <tbody>
         <tr>
             <td></td>
-            <td>Live on Monday, Oct. 2: Introduction</td>
+            <td>Live on Monday, Oct. 2: <a href="https://docs.google.com/presentation/d/1ekVJK67mniCzxUEvNkPZwSd-AJqBZfhrmfaAhLOYoUY/edit?usp=sharing">Introduction</a></td>
             <td></td>
             <td></td>
             <td></td>
