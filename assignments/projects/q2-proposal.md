@@ -11,11 +11,11 @@ nav_exclude: true
 {: .red }
 **Note: These specifications have not been updated for Fall 2023. They will change somewhat but will remain the same in spirit. This warning will be removed once they have been updated.**
 
-*This document also takes the place of Methodology Lesson 7. You should read it before you complete [Methodology Assignment 4](../../methodology/q1/04), due on Sunday, November 13th.*
+<!-- *This document also takes the place of Methodology Lesson 7. You should read it before you complete [Methodology Assignment 4](../../methodology/q1/04), due on Sunday, November 13th.* -->
 
 As you know, your main deliverable throughout the capstone sequence is your Quarter 2 Project. In order to ensure that you'll be able to successfully execute your project, you're required to submit a detailed proposal.
 
-The proposal consists of three parts. The proposal is worth 15% of your DSC 180A grade; each component of the proposal is worth the same amount (5% of your DSC 180A grade). Below, we describe each component and its deliverables in more detail. **All components are due on Monday, December 5th at 11:59PM to Gradescope.**
+The proposal consists of three parts. The proposal is worth 15% of your DSC 180A grade; each component of the proposal is worth the same amount (5% of your DSC 180A grade). Below, we describe each component and its deliverables in more detail. **All components are due on Monday, December 11th at 11:59PM to Gradescope.**
 
 ### Groups
 {:.no_toc}
@@ -48,7 +48,9 @@ The most important component of your proposal submission is a written proposal. 
 - Provide enough detail for a domain expert to understand whether the project's goals are realistic to complete using the methods described and in the timeframe allocated.
 - Specify the project's primary output, e.g. a report/paper, a website, or an application. (Note that even if your primary output is a website, you will still have to write a paper, and vice versa.)
 
-Like the [Introduction](../../../lessons/q1/03#introduction) section of a paper, a written proposal should consist of three parts, that start broad and get increasingly narrower. (In fact, you will reuse a lot of your written proposal when writing your Quarter 2 Project's introduction section.) Specifically, your written proposal should have three sections:
+<!-->TODO: hyperlink introduction to introduction section of scientific writing<-->
+
+Like the Introduction section of a paper, a written proposal should consist of three parts, that start broad and get increasingly narrower. (In fact, you will reuse a lot of your written proposal when writing your Quarter 2 Project's introduction section.) Specifically, your written proposal should have three sections:
 
 1. A broad problem statement, with context to justify the investment in spending 10 weeks on the project. This should be accessible to anyone – for instance, methodology staff, your family and friends, and hiring managers for the jobs you apply to should all be able to read this and understand what you are proposing and why it matters.
 
@@ -78,7 +80,7 @@ The easiest way to do this is to actually obtain the data while writing the prop
 
 ### Ideation
 
-As of the release of this assignment (Week 7), you may not be sure _what_ to propose for Quarter 2. That's totally fine. To help you get started, [Methodology Assignment 4](../../methodology/q1/04) will have you brainstorm ideas based on your current understanding of your domain. Your mentor will use your answers to encourage discussions about possible projects in Week 8.
+<!-- As of the release of this assignment (Week 7), you may not be sure _what_ to propose for Quarter 2. That's totally fine. To help you get started, [Methodology Assignment 4](../../methodology/q1/04) will have you brainstorm ideas based on your current understanding of your domain. Your mentor will use your answers to encourage discussions about possible projects in Week 8. -->
 
 Note that the amount of freedom you have in proposing your own project will depend on your mentor. In fact, your mentor may already have determined what your Quarter 2 Project will be, and that's fine. In any case, your mentor will play a crucial role in your proposal, as they'll be able to help you come up with a plan that you can realistically execute in 10 weeks under their guidance. Your final proposal submission should not surprise them at any point, because you should be discussing it with them regularly and incorporating their feedback.
 
@@ -152,6 +154,9 @@ The [typical anatomy](https://www.northwestern.edu/climb/pdfs-powerpoints/resour
 {: .note }
 Unlike the other components of the proposal, pitches will be delivered individually!
 
+### Dry-Run
+TODO
+
 ### Tips
 
 Even though elevator pitches **do not contain slides**, it's a good idea to use slides to help organize and prepare your pitch. Here's one approach:
@@ -169,9 +174,6 @@ Even though elevator pitches **do not contain slides**, it's a good idea to use 
 You'll submit an **individually** recorded video of you presenting your elevator pitch to YouTube and submit a link to it on Gradescope. There should be no slides in the video, just your face talking. (Let Suraj know if you have any concerns with this requirement.)
 
 Note that every member of your group will have to record separate videos, even if you write your pitches together and they are largely similar.
-
-{: .note }
-We've removed the previous Week 10 "dry run" component of the pitch submission. However, you're still encouraged to attend office hours in Week 10 to get feedback on your pitches.
 
 Unlike the written proposal and schedule, your elevator pitch will be graded by methodology TAs. Each of the six bullet points below are worth 1 point.
 

@@ -14,13 +14,14 @@ This site is under construction! -->
 
 {: .green }
 > Welcome! 
-> - If you're a **student**, make sure to come to the first (and only) live lecture on Monday. The methodology schedule and syllabus are coming this weekend.
+> - If you're a **student**, read the [**Syllabus**](syllabus) and make sure to come to the first (and only) live lecture on Monday (3PM in Mandeville B-210 or 4PM in Pepper Canyon 106).
 > - If you're a **mentor**, read the [**Mentor Guide**](mentors).
 
-<!-- <table>
+The schedule and dates below are subject to change throughout the quarter.
+
+<table>
     <colgroup>
-        <col style="width: 1%" />
-        <col style="width: 1%" />
+        <col style="width: 2%" />
         <col style="width: 25%" />
         <col style="width: 23%" />
         <col style="width: 25%" />
@@ -29,86 +30,76 @@ This site is under construction! -->
     <thead class="header">
         <tr>
             <th>Week</th>
-            <th>Date</th>
-            <th colspan=2>Methodology</th>
+            <th colspan=2>Methodology<br><span style="font-weight:normal">Lessons are released on Tuesdays by 11:59PM.<br>Assignments are due on Mondays at 11:59PM.</span></th>
             <th>Domain</th>
             <th>Project</th>
         </tr>
     </thead>
     <tbody>
         <tr>
+            <td></td>
+            <td>Live on Monday, Oct. 2: Introduction</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td>1</td>
-            <td>Sept. 26</td>
-            <td>Live: <a href="lessons/q1/introduction.pdf">Introduction</a><br><a href='lessons/q1/01'>Servers</a></td>
-            <td><a href="assignments/methodology/q1/01">MA 1 (due Oct. 2)</a></td>
+            <td>Servers I: Accessing DSMLP</td>
+            <td>MA 1 (due Oct. 9)</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>2</td>
-            <td>Oct. 3</td>
-            <td><a href='lessons/q1/02'>Project Organization</a></td>
-            <td><a href="assignments/methodology/q1/02">MA 2 (due Oct. 9)</a></td>
+            <td>Servers II: Long-Running Jobs and GPUs</td>
+            <td rowspan=9>There will be at least 5 methodology assignments. Methodology assignments will be released alongside the accompanying methodology lesson. Your methodology assignment grade will be the average of your 5 highest methodology assignment scores.</td>
             <td rowspan=9>Starting Week 2, <a href="assignments/participation/q1">Participation</a> questions are due 24 hours before discussion meetings.<br><br>These are in addition to any tasks or readings your mentor assigned you.</td>
             <td></td>
         </tr>
         <tr>
             <td>3</td>
-            <td>Oct. 10</td>
-            <td><a href='lessons/q1/03'>Scientific Writing</a></td>
-            <td></td>
+            <td>Software Organization</td>
             <td></td>
         </tr>
         <tr>
             <td>4</td>
-            <td>Oct. 17</td>
-            <td><a href='lessons/q1/04'>Containerization with Docker</a></td>
-            <td><a href="assignments/methodology/q1/03">MA 3 (due Oct. 23)</a></td>
-            <td></td>
+            <td>Scientific Writing and Effective Communication</td>
+            <td>Week 4 TA Check-In (complete by Oct. 27)</td>
         </tr>
         <tr>
             <td>5</td>
-            <td>Oct. 24</td>
-            <td><a href="lessons/q1/05">Software Development</a><br>Live: <a href="lessons/q1/extra/intro-to-intros">Introduction to Introductions</a></td>
-            <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSezYYT7SsILoP35veshozMlcM10ZJjopCSltEln7NuEI1Q4bg/viewform">Mid-Quarter Feedback Form</a></td>
-            <td><a href="assignments/projects/q1">Q1 Project Checkpoint (due Oct. 30)</a></td>
+            <td>Ethics (by Prof. David Danks)</td>
+            <td></td>
         </tr>
         <tr>
             <td>6</td>
-            <td>Oct. 31 🎃</td>
-            <td><a href="lessons/q1/06">Long-Running Jobs</a><br>Live: <a href="lessons/q1/extra/eda">Exploratory Data Analysis</a></td>
-            <td></td>
-            <td></td>
+            <td>Git</td>
+            <td>Q1 Project Checkpoint (due Nov. 6)</td>
         </tr>
         <tr>
             <td>7</td>
-            <td>Nov. 7</td>
-            <td><a href="assignments/projects/q2-proposal">Quarter 2 Project Proposal</a></td>
-            <td><a href="assignments/methodology/q1/04">MA 4 (due Nov. 13)</a></td>
+            <td>LaTeX, Markdown, and GitHub Pages</td>
             <td></td>
         </tr>
         <tr>
             <td>8</td>
-            <td>Nov. 14</td>
-            <td><a href="lessons/q1/08">Examples</a></td>
-            <td><a href="assignments/methodology/q1/05">MA 5 (due Nov. 23)</a></td>
-            <td></td>
+            <td>Containerization using Docker</td>
+            <td>Week 7-8 TA Check-In (complete by Nov. 21)</td>
         </tr>
         <tr>
             <td>9</td>
-            <td>Nov. 21</td>
-            <td rowspan=2>No methodology lessons or lecture help sessions</td>
-            <td></td>
+            <td>Project Management</td>
             <td></td>
         </tr>
         <tr>
             <td>10</td>
-            <td>Nov. 28</td>
-            <td></td>
-            <td><a href="assignments/projects/q1">Q1 Project (due Dec. 5)</a><br><br><a href="assignments/projects/q2-proposal">Q2 Project Proposal (due Dec. 5)</a></td>
+            <td>No methodology lesson</td>
+            <td>Q1 Project (due Dec. 11)<br><br>Q2 Project Proposal (due Dec. 11)</td>
         </tr>
     </tbody>
-</table> -->
+</table>
+
 <!-- 
 <table>
     <colgroup>
@@ -187,4 +178,5 @@ This site is under construction! -->
             <td><a href="assignments/projects/q2#report">Report</a>, <a href="assignments/projects/q2#code-artifact">code</a>, <a href="assignments/projects/q2#website">website</a>, and contribution statement (due. Mar. 14)<br><br>In-person showcase on Mar. 15</td>
         </tr>
     </tbody>
-</table> -->
+</table>
+-->
