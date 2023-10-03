@@ -14,7 +14,7 @@ This site is under construction! -->
 
 {: .green }
 > Welcome! 
-> - If you're a **student**, read the [**Syllabus**](syllabus) and make sure to come to the first (and only) live lecture on Monday (3PM in Mandeville B-210 or 4PM in Pepper Canyon 106).
+> - If you're a **student**, read the [**Syllabus**](syllabus).
 > - If you're a **mentor**, read the [**Mentor Guide**](mentors).
 
 The schedule and dates below are subject to change throughout the quarter.
