@@ -4,7 +4,7 @@ role: Teaching Assistant
 email: ypilahuancachoque@ucsd.edu
 website: https://www.linkedin.com/in/gabrielpila/
 pronouns: he/him
-photo: ../../assets/staff-images/pila.jpg
+photo: ../../assets/staff-images/pila.png
 current: MS Student, Data Science
 education: BS in Civil Engineering (+6 years of industry experience in Data Science projects)
 hometown: Cusco, Peru
