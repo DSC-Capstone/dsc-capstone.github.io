@@ -23,9 +23,9 @@ The schedule and dates below are subject to change throughout the quarter.
     <colgroup>
         <col style="width: 2%" />
         <col style="width: 25%" />
+        <col style="width: 25%" />
+        <col style="width: 25%" />
         <col style="width: 23%" />
-        <col style="width: 25%" />
-        <col style="width: 25%" />
     </colgroup>
     <thead class="header">
         <tr>
@@ -45,8 +45,8 @@ The schedule and dates below are subject to change throughout the quarter.
         </tr>
         <tr>
             <td>1</td>
-            <td>Servers I: Accessing DSMLP</td>
-            <td>MA 1 (due Oct. 9)</td>
+            <td><a href="lessons/01">Servers I: Accessing DSMLP</a></td>
+            <td><a href="assignments/methodology/01">MA 1 (due Oct. 9)</a><br><a href="https://docs.google.com/forms/d/e/1FAIpQLSdZpdbeqKjmeAlUo5wQJLC2XF2E7xVbIrIHJjt4-lvmuP8F6g/viewform">Welcome Survey (due Oct. 9)</a></td>
             <td></td>
             <td></td>
         </tr>
