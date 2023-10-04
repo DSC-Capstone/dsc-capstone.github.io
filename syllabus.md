@@ -68,7 +68,7 @@ Lectures are focused on methodological skills that can apply to all domains. In 
 
 Based on feedback from prior iterations of the capstone, we've decided to deliver methodology lectures as **lecture notes** that you read outside of class and discuss with course staff during synchronous sessions. Specifically:
 - Each Tuesday, we will post a "lesson" on the [course homepage](../). A lesson will contain all of the methodology content you need to learn for the week. **Read each lesson on your own.** (We will make an announcement on Ed when we release new lessons).
-- Many methodology lessons will have an accompanying "methodology assignment", due the following Monday. See the [Assignments](#assignments) section for more details.
+- Many methodology lessons will have an accompanying "methodology assignment", due the following Monday. See the [Assignments](#assignments-and-grades) section for more details.
 - Suraj and the methodology TAs will hold office hours throughout the week to answer any questions with methodology content (or even your domain work, for that matter).
 
 Note that on **Monday, October 2nd, we will hold a "traditional" introductory lecture during the scheduled lecture slots, and you should plan to attend**. The first methodology lesson will be released on Tuesday, October 3rd.

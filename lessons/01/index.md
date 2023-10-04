@@ -7,7 +7,7 @@ nav_exclude: true
 # Lesson 1 – Servers I: Accessing DSMLP
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](TODO).
+All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](https://edstem.org/us/courses/48541/discussion/3558693).
 
 Make sure to read this article before moving on to [Methodology Assignment 1](../../../assignments/methodology/01).
 
