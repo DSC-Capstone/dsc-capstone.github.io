@@ -86,7 +86,7 @@ You may already know the basics of working in bash (the language used at the com
 The following [video](https://www.youtube.com/watch?v=M057OfURvIQ) demonstrates much of what is discussed below, but **still read the entire lesson** – the video doesn't cover every single detail you'll need to know!
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M057OfURvIQ?si=OMPzOFDIYcMbWxFq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="888" height="500" src="https://www.youtube.com/embed/M057OfURvIQ?si=OMPzOFDIYcMbWxFq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
 ### Basics

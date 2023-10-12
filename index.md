@@ -52,7 +52,7 @@ The schedule and dates below are subject to change throughout the quarter.
         </tr>
         <tr>
             <td>2</td>
-            <td>Servers II: Long-Running Jobs and GPUs</td>
+            <td><a href="lessons/02">Servers II: GPUs and Background Tasks</a></td>
             <td rowspan=9>There will be at least 5 methodology assignments. Methodology assignments will be released alongside the accompanying methodology lesson. Your methodology assignment grade will be the average of your 5 highest methodology assignment scores.</td>
             <td rowspan=9>Starting Week 2, <a href="assignments/participation/q1">Participation</a> questions are due 24 hours before discussion meetings.<br><br>These are in addition to any tasks or readings your mentor assigned you.</td>
             <td></td>
