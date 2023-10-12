@@ -11,7 +11,7 @@ nav_exclude: true
 # Lesson 2 – Servers II: GPUs and Background Tasks
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. This lesson contains two embedded videos; be sure to watch them. Post questions with the lesson [here](TODO).
+All lectures will be delivered as readings that you complete on your own time. This lesson contains two embedded videos; be sure to watch them. Post questions with the lesson [here](https://edstem.org/us/courses/48541/discussion/3619695).
 
 There is no Methodology Assignment associated with this lesson.
 
