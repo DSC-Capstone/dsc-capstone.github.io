@@ -13,7 +13,7 @@ In Week 4 – that is, between Monday, October 23rd and Friday, October 27th –
 The purpose of the check-in is to ensure that all students in the capstone have made sufficient progress in learning about their domain and to identify any potential barriers to making progress (e.g. technical troubles, lack of clarity or direction from mentor, interpersonal conflicts). Your TA will ask you the following questions:
 
 - Do you have a clear idea of the kinds of problems you're going to work on?
-  - For example, if your domain is about natural language processing, can you describe
+  - For example, if your domain is about natural language processing, can you give description of your problem space that's more detailed than "we're learning about NLP?" Can you mention specific techniques?
 - Do you feel confused or off-track? Have you been given sufficient direction from your mentor?
 - Do you have an idea of what your [Quarter 1 Project](../q1) will be about?
 - Have you started to write code? Where is it stored, and how is it organized?
