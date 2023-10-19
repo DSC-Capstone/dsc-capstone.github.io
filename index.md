@@ -13,9 +13,7 @@ This site is under construction! -->
 {: .fs-6 .fw-300 }
 
 {: .green }
-> Welcome! 
-> - If you're a **student**, read the [**Syllabus**](syllabus).
-> - If you're a **mentor**, read the [**Mentor Guide**](mentors).
+> Make sure to read the [**Quarter 1 Project guidelines**](assignments/projects/q1) and sign up for a [**Week 4 TA Check-In**](assignments/projects/q1-week4-checkin).
 
 The schedule and dates below are subject to change throughout the quarter.
 
@@ -65,7 +63,7 @@ The schedule and dates below are subject to change throughout the quarter.
         <tr>
             <td>4</td>
             <td>Scientific Writing and Effective Communication</td>
-            <td>Week 4 TA Check-In (complete by Oct. 27)</td>
+            <td><a href="assignments/projects/q1-week4-checkin">Week 4 TA Check-In (complete by Oct. 27)</a></td>
         </tr>
         <tr>
             <td>5</td>
