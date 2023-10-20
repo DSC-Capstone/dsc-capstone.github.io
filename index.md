@@ -57,7 +57,7 @@ The schedule and dates below are subject to change throughout the quarter.
         </tr>
         <tr>
             <td>3</td>
-            <td>Software Organization</td>
+            <td>Software Organization (coming in Week 4)</td>
             <td></td>
         </tr>
         <tr>
@@ -73,7 +73,7 @@ The schedule and dates below are subject to change throughout the quarter.
         <tr>
             <td>6</td>
             <td>Git</td>
-            <td>Q1 Project Checkpoint (due Nov. 6)</td>
+            <td><a href="assignments/projects/q1">Q1 Project Checkpoint (due Nov. 6)</a></td>
         </tr>
         <tr>
             <td>7</td>
@@ -93,7 +93,7 @@ The schedule and dates below are subject to change throughout the quarter.
         <tr>
             <td>10</td>
             <td>No methodology lesson</td>
-            <td>Q1 Project (due Dec. 11)<br><br>Q2 Project Proposal (due Dec. 11)</td>
+            <td><a href="assignments/projects/q1">Q1 Project (due Dec. 11)</a><br><br>Q2 Project Proposal (due Dec. 11)</td>
         </tr>
     </tbody>
 </table>
