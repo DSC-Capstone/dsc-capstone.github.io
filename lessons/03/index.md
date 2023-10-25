@@ -1,5 +1,20 @@
 ---
-nav_exclude: True
+layout: page
+title: "Lesson 3 – Software Organization"
+nav_exclude: true
+---
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+# Lesson 3 – Software Organization
+{:.no_toc}
+
+All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](TODO).
+
+<!-- There is no Methodology Assignment associated with this lesson. -->
+
 ---
 
 

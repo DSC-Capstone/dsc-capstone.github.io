@@ -51,23 +51,25 @@ The schedule and dates below are subject to change throughout the quarter.
         <tr>
             <td>2</td>
             <td><a href="lessons/02">Servers II: GPUs and Background Tasks</a></td>
-            <td rowspan=9>There will be at least 5 methodology assignments. Methodology assignments will be released alongside the accompanying methodology lesson. Your methodology assignment grade will be the average of your 5 highest methodology assignment scores.</td>
+            <td rowspan=2></td>
             <td rowspan=9>Starting Week 2, <a href="assignments/participation/q1">Participation</a> questions are due 24 hours before discussion meetings.<br><br>These are in addition to any tasks or readings your mentor assigned you.</td>
             <td></td>
         </tr>
         <tr>
             <td>3</td>
-            <td>Software Organization (coming in Week 4)</td>
+            <td>Software Organization</td>
             <td></td>
         </tr>
         <tr>
             <td>4</td>
-            <td>Scientific Writing and Effective Communication</td>
+            <td><a href="lessons/04">Effective Communication and Scientific Writing</a></td>
+            <td><a href="assignments/methodology/02">MA 2 (due Oct. 30)</a></td>
             <td><a href="assignments/projects/q1-week4-checkin">Week 4 TA Check-In (complete by Oct. 27)</a></td>
         </tr>
         <tr>
             <td>5</td>
             <td>Ethics (by Prof. David Danks)</td>
+            <td rowspan=6>There will be at least 5 methodology assignments. Methodology assignments will be released alongside the accompanying methodology lesson. Your methodology assignment grade will be the average of your 5 highest methodology assignment scores.</td>
             <td></td>
         </tr>
         <tr>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lesson 3 – Scientific Writing"
+title: "Lesson 4 – Effective Communication and Scientific Writing"
 nav_exclude: true
 ---
 
@@ -8,18 +8,15 @@ nav_exclude: true
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-# Lesson 3 – Scientific Writing
+# Lesson 4 – Effective Communication and Scientific Writing
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](https://edstem.org/us/courses/28947/discussion/1920037).
+All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](TODO).
 
-There is no Methodology Assignment associated with this lesson. However, there are a few "Action Items" and "Exercises" that you should complete while reading through the lesson, as they'll help you prepare for your Quarter 1 Project.
+Make sure to read this article before moving on to [Methodology Assignment 2](../../../assignments/methodology/02), which is due on Monday, October 30th. In addition, this article will be crucial in writing the report (and its checkpoint) for your [Quarter 1 Project](../../../assigmments/projects/q1).
 
-**Specifically, the [Quarter 1 Project Checkpoint](../../../assignments/projects/q1) is due at the end of Week 5, on Sunday, October 30th. The report part of your checkpoint submission will consist of the [title, abstract](#title-and-abstract), and [introduction](#introduction) of your Quarter 1 Project.**
-
-**Reminder:** Take a look at the new [Resources](../../../resources) tab of the course website.
-
-Also, refer to the [recording of this live session](../extra/intro-to-intros) as a supplement to this lesson.
+{: .red }
+**Remember, the [Quarter 1 Project Checkpoint](../../../assignments/projects/q1) is due at on Monday, November 6th. The report part of your checkpoint submission will consist of the [title, abstract](#title-and-abstract), and [introduction](#introduction) of your Quarter 1 Project. These components are discussed in more detail below.**
 
 ---
 
@@ -33,13 +30,13 @@ Also, refer to the [recording of this live session](../extra/intro-to-intros) as
 
 ## Overview
 
-The standards for effective written communication vary by domain. Your domain should have an example of a paper that models best practices.
+The standards for effective written communication vary by domain. Your domain should have an example of a scientific paper (henceforth, just "paper") that models best practices.
 - If your Quarter 1 Project involves replicating a paper, that paper is your example.
 - If, instead, your Quarter 1 Project consists of completing tasks from several papers, choose one of the papers that you've read in your domain.
 
 If it's not clear which paper you're meant to use as an example, you can ask your mentor:
 
->>> When writing the reports for our Quarter 1 Project and Quarter 2 Project, we are supposed to follow the style of a paper in our area. What paper should we use?
+> When writing the reports for our Quarter 1 Project and Quarter 2 Project, we are supposed to follow the style of a paper in our area. What paper should we use?
 
 As you read through this lecture, you should try and map the principles discussed to the example paper in your domain. Not all of the nitty-gritty details discussed here will apply to every domain, but the high-level ideas will.
 
@@ -47,9 +44,27 @@ As you read through this lecture, you should try and map the principles discusse
 
 ---
 
+## 🎥 Video: Effective Communication
+
+Before looking at scientific papers specifically, it's worth thinking about how to communicate effectively with different audiences more generally.
+
+Watch the [video](https://youtu.be/5O1MVncfbf4) below, prepared by HDSI and Bioengineering Professor Benjamin Smarr. Professor Smarr is a member of HDSI's Industry Board, where he frequently meets with data scientists and engineers from industry. They tell him that the most common skill they see candidates from the DSC program lack is **not technical skills, but rather, the ability to communicate their technical ideas effectively**. As such, he often teaches a course called "Hardening DSC with Soft Skills", in which he equips students with the communication skills they need to succeed in the real world. The video below synthesizes the key ideas in his course.
+
+<center>
+
+<iframe width="888" height="500" src="https://www.youtube.com/embed/5O1MVncfbf4?si=g47YO3ndNsqg0hJ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</center>
+
+After watching the video, complete [Methodology Assignment 2](../../../assignments/methodology/02), which will ask you to reflect on what you've learned.
+
+The rest of this article discusses how to structure papers specifically, though the ideas discussed in the video are still relevant, as they will be when it comes time to present your Quarter 2 Project to a live audience at the capstone showcase this upcoming March.
+
+---
+
 ## Goals of Scientific Writing
 
-Scientific papers (henceforth, just "papers") are structured differently than, say, books, blog posts, and lectures. Papers are structured in a way that makes it easy for readers with different backgrounds to easily:
+Papers are structured differently than, say, books, blog posts, and lectures. Papers are structured in a way that makes it easy for readers with different backgrounds to easily:
 - Determine if the paper will be of interest to them.
 - Read about just the parts of the project described in the paper that are relevant to them.
 
@@ -120,11 +135,11 @@ In your abstract, spend roughly one sentence on each of the following four compo
 3. Clearly stating your project's contribution to the problem. What was the "gap" that you closed, and how did you close it?
 4. Specifying relevant details to your methods.
 
-**Action Item**{: .label .label-red } Read the following abstract, taken from _[Robust Learning from Discriminative Feature Feedback (Dasgupta & Sabato, 2020)](https://arxiv.org/abs/2003.03946)_. Identify the sentences corresponding to each of the four components above.
+To practice, read the following abstract, taken from _[Robust Learning from Discriminative Feature Feedback (Dasgupta & Sabato, 2020)](https://arxiv.org/abs/2003.03946)_. Identify the sentences corresponding to each of the four components above.
 
->>> Recent work introduced the model of learning from discriminative feature feedback, in which a human annotator not only provides labels of instances, but also identifies discriminative features that highlight important differences between pairs of instances. It was shown that such feedback can be conducive to learning, and makes it possible to efficiently learn some concept classes that would otherwise be intractable. However, these results all relied upon perfect annotator feedback. In this paper, we introduce a more realistic, robust version of the framework, in which the annotator is allowed to make mistakes. We show how such errors can be handled algorithmically, in both an adversarial and a stochastic setting. In particular, we derive regret bounds in both settings that, as in the case of a perfect annotator, are independent of the number of features. We show that this result cannot be obtained by a naive reduction from the robust setting to the non-robust setting
+> Recent work introduced the model of learning from discriminative feature feedback, in which a human annotator not only provides labels of instances, but also identifies discriminative features that highlight important differences between pairs of instances. It was shown that such feedback can be conducive to learning, and makes it possible to efficiently learn some concept classes that would otherwise be intractable. However, these results all relied upon perfect annotator feedback. In this paper, we introduce a more realistic, robust version of the framework, in which the annotator is allowed to make mistakes. We show how such errors can be handled algorithmically, in both an adversarial and a stochastic setting. In particular, we derive regret bounds in both settings that, as in the case of a perfect annotator, are independent of the number of features. We show that this result cannot be obtained by a naive reduction from the robust setting to the non-robust setting
 
-### Introduction
+### 🎥 Introduction
 
 The introduction sets the context for the rest of the paper. After the abstract, it is the first part of your paper that readers will read, and often the only thing they will read. Your introduction will start broad and become narrower and narrower as you add more detail.
 
@@ -140,7 +155,12 @@ There are three pieces to an introduction section:
 - If you're in a data-focused domain, you should describe why the data you're using will help address the problem at hand.
 - If you're in a methods-focused domain (that is, a domain in which you're developing new methods), you should describe the kinds of data that your methods are applicable to. For instance, if you're developing methods for using convolutional neural networks with graphs, you should describe why graph-based data is useful in the real-world.
 
-**Action Item**{: .label .label-red } Your [Quarter 1 Project Checkpoint](../../../assignments/projects/q1) submission will consist of both a report submission and code submission. **Your report submission for the checkpoint should contain a working title, abstract, and introduction section.**
+Watch [the video](https://www.youtube.com/watch?v=X9gbQ7pme1E) below, prepared by capstone TA (and former DSC undergrad!) Praveen Nair. It speaks more about writing titles, abstracts, and introductions. The slides used in the video can be found [here](assets/5-intro-to-intros.pdf).
+
+<center><iframe width="888" height="500" src="https://www.youtube.com/embed/X9gbQ7pme1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+{: .red }
+**Remember, your [Quarter 1 Project Checkpoint](../../../assignments/projects/q1) submission will consist of both a report submission and code submission. Your report submission for the checkpoint should contain a working title, abstract, and introduction section. Watch the video above to help prepare!**
 
 ### Methods
 
@@ -160,9 +180,11 @@ In the discussion section, you'll provide your interpretation of the results fro
 
 Be honest in describing the impact and applicability of your results, along with the limitations of your approach. There's nothing wrong with your results having limitations; just be clear on what they are. Lastly, make sure to describe the possibilities for future work. How can someone else take your project and extend it even further?
 
+---
+
 ## Exercises
 
-While there is no required "Methodology Assignment", you will have to write the title, abstract, and introduction for your Quarter 1 Project and submit that as your checkpoint by the end of Week 5. As such, we've provided a few exercises below that will help you understand the role of the introduction section in a paper. You do not need to submit your answers anywhere, but you should still do them.
+You will have to write the title, abstract, and introduction for your Quarter 1 Project and submit that as your checkpoint by the start of Week 6. As such, we've provided a few exercises below that will help you understand the role of the introduction section in a paper. You do not need to submit your answers anywhere, but you should still do them.
 
 <br>
 
