@@ -13,10 +13,10 @@ nav_exclude: true
 
 All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](TODO).
 
-Make sure to read this article before moving on to [Methodology Assignment 2](../../../assignments/methodology/02), which is due on Monday, October 30th. In addition, this article will be crucial in writing the report (and its checkpoint) for your [Quarter 1 Project](../../../assigmments/projects/q1).
+Make sure to read this article before moving on to [Methodology Assignment 2](../../../assignments/methodology/02), which is due on Tuesday, October 31st. In addition, this article will be crucial in writing the report (and its checkpoint) for your [Quarter 1 Project](../../../assigmments/projects/q1).
 
 {: .red }
-**Remember, the [Quarter 1 Project Checkpoint](../../../assignments/projects/q1) is due at on Monday, November 6th. The report part of your checkpoint submission will consist of the [title, abstract](#title-and-abstract), and [introduction](#introduction) of your Quarter 1 Project. These components are discussed in more detail below.**
+**Remember, the [Quarter 1 Project Checkpoint](../../../assignments/projects/q1) is due on Monday, November 6th. The report part of your checkpoint submission will consist of the [title, abstract](#title-and-abstract), and [introduction](#introduction) of your Quarter 1 Project. These components are discussed in more detail below.**
 
 ---
 
@@ -44,9 +44,13 @@ As you read through this lecture, you should try and map the principles discusse
 
 ---
 
-## 🎥 Video: Effective Communication
+## Effective Communication
 
-Before looking at scientific papers specifically, it's worth thinking about how to communicate effectively with different audiences more generally.
+Before looking at scientific papers specifically, it's worth thinking about how to communicate effectively with different audiences more generally, regardless of the medium. Regardless of the audience, here are some general principles you should follow:
+- **Be as specific as possible**. Vagueness causes confusion. Use concrete and testable terms, and refrain from using adjectives and adverbs. (For instance, instead of saying "Our classifier is much more accurate than the previous state-of-the-art model on similar tasks" , say "Our classifer achieves a testing accuracy of 84% on TritonDataset, higher than the previous record set by TritonModel of 81%.")
+- **Avoid unnecessary terminology and the [curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)**. That is, define and explain concepts in plain English so that other data science majors outside of your domain and hiring managers at your dream company can understand what you did and why it's relevant. After writing a report, website, or poster, step aside and try to unlearn the things you already know. Then, approach the draft again with a fresh pair of eyes – more often than not, you will find blindspots of your earlier self.
+- **Try to tell a story**! Regardless of the platform, you are telling a story about your data. Stories are easier to follow if you have a main argument. Decide what is the [central dramatic argument](http://jtleek.com/ads2020/week-9.html#story-telling-in-data-analysis) of your delivery. Have a strand of arguments taht lead to the main point if it is complicated. Spend more time on the parts of your analyses that are interesting, and quickly cover the parts that are uninteresting (but still report them).
+
 
 Watch the [video](https://youtu.be/5O1MVncfbf4) below, prepared by HDSI and Bioengineering Professor Benjamin Smarr. Professor Smarr is a member of HDSI's Industry Board, where he frequently meets with data scientists and engineers from industry. They tell him that the most common skill they see candidates from the DSC program lack is **not technical skills, but rather, the ability to communicate their technical ideas effectively**. As such, he often teaches a course called "Hardening DSC with Soft Skills", in which he equips students with the communication skills they need to succeed in the real world. The video below synthesizes the key ideas in his course.
 

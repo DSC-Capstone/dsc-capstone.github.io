@@ -57,13 +57,13 @@ The schedule and dates below are subject to change throughout the quarter.
         </tr>
         <tr>
             <td>3</td>
-            <td>Software Organization</td>
+            <td><a href="lessons/03">Software Development for Data Science</a></td>
             <td></td>
         </tr>
         <tr>
             <td>4</td>
             <td><a href="lessons/04">Effective Communication and Scientific Writing</a></td>
-            <td><a href="assignments/methodology/02">MA 2 (due Oct. 30)</a></td>
+            <td><a href="assignments/methodology/02">MA 2 (due Oct. 31)</a></td>
             <td><a href="assignments/projects/q1-week4-checkin">Week 4 TA Check-In (complete by Oct. 27)</a></td>
         </tr>
         <tr>
