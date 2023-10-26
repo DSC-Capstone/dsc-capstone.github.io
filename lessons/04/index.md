@@ -11,7 +11,7 @@ nav_exclude: true
 # Lesson 4 – Effective Communication and Scientific Writing
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](TODO).
+All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Ed.
 
 Make sure to read this article before moving on to [Methodology Assignment 2](../../../assignments/methodology/02), which is due on Tuesday, October 31st. In addition, this article will be crucial in writing the report (and its checkpoint) for your [Quarter 1 Project](../../../assigmments/projects/q1).
 

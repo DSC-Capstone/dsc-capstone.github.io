@@ -11,7 +11,7 @@ nav_exclude: true
 # Lesson 3 – Software Development for Data Science
 {:.no_toc}
 
-All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson [here](TODO).
+All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Ed.
 
 There is no Methodology Assignment associated with this lesson, but you'll need to follow the principles outlined here when writing the code for your Quarter 1 and Quarter 2 Projects, as **you'll need to be able to justify how your code is structured in order to receive full credit for their code components**.
 
