@@ -13,7 +13,7 @@ This site is under construction! -->
 {: .fs-6 .fw-300 }
 
 {: .green }
-> Make sure to read the [**Quarter 1 Project guidelines**](assignments/projects/q1) and sign up for a [**Week 4 TA Check-In**](assignments/projects/q1-week4-checkin).
+> As a reminder, the [**Quarter 1 Project Checkpoint**](assignments/projects/q1) is due on Monday, November 6th!
 
 The schedule and dates below are subject to change throughout the quarter.
 
@@ -28,7 +28,7 @@ The schedule and dates below are subject to change throughout the quarter.
     <thead class="header">
         <tr>
             <th>Week</th>
-            <th colspan=2>Methodology<br><span style="font-weight:normal">Lessons are released on Tuesdays by 11:59PM.<br>Assignments are due on Mondays at 11:59PM.</span></th>
+            <th colspan=2>Methodology<br><span style="font-weight:normal">Lessons are released on Wednesdays by 11:59PM.<br>Assignments are due on Tuesdays at 11:59PM.</span></th>
             <th>Domain</th>
             <th>Project</th>
         </tr>
@@ -62,19 +62,20 @@ The schedule and dates below are subject to change throughout the quarter.
         </tr>
         <tr>
             <td>4</td>
-            <td><a href="lessons/04">Effective Communication and Scientific Writing</a></td>
+            <td><a href="lessons/04">Effective Communication and Scientific Writing</a><br><small>featuring Prof. Benjamin Smarr</small></td>
             <td><a href="assignments/methodology/02">MA 2 (due Oct. 31)</a></td>
             <td><a href="assignments/projects/q1-week4-checkin">Week 4 TA Check-In (complete by Oct. 27)</a></td>
         </tr>
         <tr>
             <td>5</td>
-            <td>Ethics (by Prof. David Danks)</td>
-            <td rowspan=6>There will be at least 5 methodology assignments. Methodology assignments will be released alongside the accompanying methodology lesson. Your methodology assignment grade will be the average of your 5 highest methodology assignment scores.</td>
+            <td><a href="lessons/05">Ethics and Values</a><br><small>by Prof. David Danks</small></td>
+            <td><a href="assignments/methodology/03">MA 3 (due Nov. 7)</a></td>
             <td></td>
         </tr>
         <tr>
             <td>6</td>
             <td>Git</td>
+            <td rowspan=5>There will be at least 5 methodology assignments. Methodology assignments will be released alongside the accompanying methodology lesson. Your methodology assignment grade will be the average of your 5 highest methodology assignment scores.</td>
             <td><a href="assignments/projects/q1">Q1 Project Checkpoint (due Nov. 6)</a></td>
         </tr>
         <tr>
