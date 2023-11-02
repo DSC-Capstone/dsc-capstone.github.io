@@ -13,7 +13,7 @@ nav_exclude: true
 
 All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Ed.
 
-Make sure to read this article before moving on to [Methodology Assignment 3](../../../assignments/methodology/03), which is due on Tuesday, November 7th.
+Make sure to read this article before moving on to [Methodology Assignment 3](../../../assignments/methodology/03), which is due on Wednesday, November 8th.
 
 {: .green }
 **This lesson was prepared by [Professor David Danks](https://www.daviddanks.org), who is jointly appointed in Data Science and Philosophy. All project groups will be required to check in with Professor Danks in Quarter 2 to reflect on how the principles below apply to their projects.**
