@@ -11,10 +11,10 @@ nav_order: 4
 - To see the areas of expertise for each TA, and to see the TA assigned to your domain, check the [🙋 Staff](../staff) page.
 - Ask your domain mentor for their office hours; they will not appear in this calendar.
 
-All office hours are held in-person. Suraj's office hours are held in [HDSI](https://map.concept3d.com/?id=1005#!m/246301) 349, and the TAs' office hours are held in [HDSI](https://map.concept3d.com/?id=1005#!m/246301) <strikethrough>155</strikethrough> <b>355, starting in Week 6</b>.
+All office hours are held in-person. Suraj's office hours are held in [HDSI](https://map.concept3d.com/?id=1005#!m/246301) 349, and the TAs' office hours are held in [HDSI](https://map.concept3d.com/?id=1005#!m/246301) <s>155</s> <b>355, starting in Week 6</b>.
 
-{: .red }
-**Remember that apart from on Monday, October 2nd, there are no live lectures for DSC 180A or DSC 180B.** The only weekly meeting you must attend is the one with your mentor (the time of which you can see [here](https://dsc-capstone.org/enrollment)). With that said, Suraj's office hours overlap with the lecture times on WebReg, so all students should be able to attend at least one of them.
+<!-- {: .red }
+**Remember that apart from on Monday, October 2nd, there are no live lectures for DSC 180A or DSC 180B.** The only weekly meeting you must attend is the one with your mentor (the time of which you can see [here](https://dsc-capstone.org/enrollment)). With that said, Suraj's office hours overlap with the lecture times on WebReg, so all students should be able to attend at least one of them. -->
 
 **If you'd like to meet with someone and can't make it to their office hours, feel free to send them an email to schedule an appointment**; emails can be found on the [🙋 Staff](../staff) page.
 
