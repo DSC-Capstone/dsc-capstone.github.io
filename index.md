@@ -69,7 +69,7 @@ The schedule and dates below are subject to change throughout the quarter.
         <tr>
             <td>5</td>
             <td><a href="lessons/05">Ethics and Values</a><br><small>by Prof. David Danks</small></td>
-            <td><a href="assignments/methodology/03">MA 3 (due Nov. 7)</a></td>
+            <td><a href="assignments/methodology/03">MA 3 (due Nov. 8)</a></td>
             <td></td>
         </tr>
         <tr>
