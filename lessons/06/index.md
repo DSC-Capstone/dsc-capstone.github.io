@@ -1,14 +1,15 @@
 ---
 layout: page
-title: "Quarter 2, Lesson 2 – Collaborating with Git"
+title: "Lesson 6 – Git"
 nav_exclude: true
 ---
 
-# Quarter 2, Lesson 2 – Collaborating with Git
+# Lesson 6 – Git
 {:.no_toc}
 
-{: .note }
-**Reminder**: Read the [Quarter 2 Syllabus](../../../../syllabus) and [Quarter 2 Project](../../../../assignments/projects/q2) specifications, and sign up for a [Week 3 TA Check-In](../../../../assignments/projects/q2-checkin).
+All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Ed.
+
+Make sure to read this article before moving on to [Methodology Assignment 4](../../../assignments/methodology/04), which is due on Thursday, November 16th.
 
 ---
 
@@ -22,7 +23,7 @@ nav_exclude: true
 
 ## Overview
 
-You've already used Git and GitHub before in some capacity – for instance, in DSC 30 and 80, you used it to access assignments, and in DSC 180A you created a few repositories to submit your work. However, you may not have had to use Git to work in a team, and as such may not be aware of some of its more powerful features. 
+You've already used Git and GitHub before in some capacity – for instance, in DSC 30 and 80, you used it to access assignments, and in this very class you created a few repositories to submit your work. However, you may not have had to use Git to work in a team, and as such may not be aware of some of its more powerful features. 
 
 In this lesson, we'll review the basics of Git and give you tips on how to work with Git on a team. **You will** mess up version control when working with others on your project; knowing the basics of how Git works will make it easier to fix things! When you use Git properly:
 - You'll be able to automatically backup your work without having to make copies.
@@ -122,7 +123,7 @@ While this workflow is useful when working alone – say, when you need to have 
 - You make changes to files A and B without repulling.
 - You try to push your changes to files A and B, but your push is rejected, because Git doesn't know how to combine your changes with your teammate's changes.
 
-This is known as a **merge conflict**, and you've likely run into one before. When working on larger projects, this single-branch workflow gets messy quickly, and there's a better solution – using multiple branches.
+This is known as a **merge conflict**, and you've likely run into one before. In fact, [Methodology Assignment 4](../../../assignments/methodology/04) will have you solve a more complicated merge conflict with a partner! When working on larger projects, this single-branch workflow gets messy quickly, and there's a better solution – using multiple branches.
 
 ### Multiple-Branch Workflows
 
@@ -141,7 +142,7 @@ In the figure above, each color is a different branch and each node is a commit.
 - Eventually, the `develop` branch is merged back into `main`, at which point `main` will contain new, working features.
 
 {: .note }
-**In DSC 180B, each member of a group will work on a separate branch, and the group will merge all branches into `main` once a week.** 
+**In DSC 180B, each member of a group will work on a separate branch, and the group will merge all branches into `main` once a week.** This is not required in DSC 180A, but it's a good habit to start getting into. 
 
 That is, you will each have your own version of a `develop` branch. Instead of simply naming your branches `develop`, your branches should be named and separated based on **features** – that is, create one branch for updating your data cleaning code, another branch for updating your model's features, etc. If one person is working on multiple unrelated tasks in a single repository, they should use a different branch for each task, too. You may elect to include team members' initials in branch names, e.g. `SR_etl`.
 
@@ -189,18 +190,17 @@ In the example above, there are two versions of the header – one above the `==
 <h1 class="header">Merge Demo</h1>
 ```
 
-Once you decide which version to keep, you can commit your changes.
+Once you decide which version to keep, you can commit your changes. You'll get practice with this in [Methodology Assignment 4](../../../assignments/methodology/04).
 
 ### Version Control and Notebooks
 
 Under the hood, Jupyter Notebooks are stored as JSON, a file format for storing data. Unfortunately, fixing merge conflicts is notoriously difficult in JSON, particular when code **output** is present. After all, Git is meant to version code, but notebook outputs are data.
 
-As we saw in DSC 180A, there are two kinds of notebooks – notebooks in which code is prototyped and notebooks that generate code-driven reports.
-
+There are two kinds of notebooks – notebooks in which code is prototyped and notebooks that generate code-driven reports.
 - Code prototyping notebooks should be personal and not used for collaboration. Whenever you write code that others need to use, it should be stored as library code (e.g. as functions in a `.py` file). If you'd to commit development notebooks, **never** commit them to `main`.
 - Code-driven reports should be versioned, but **always clear output** before committing, so that only code is versioned! Additionally, reports should always be quick to run; if not, save intermediate steps to files so that the report is generated quickly. If you want to commit output (e.g. a report), export a static document (e.g. HTML or PDF) into the `docs` directory of your repository.
 
-### Version Control in DSC 180B
+### Version Control Next Quarter in DSC 180B
 
 To recap what is expected of you:
 
@@ -211,6 +211,17 @@ To recap what is expected of you:
 - Before your weekly check-in with your mentor, all group members should merge their latest work into `main`.
     - Branches should be small in scope and correspond to weekly tasks – the longer you wait to merge a branch into main, the harder it becomes.
     - Reviewing pull requests for merging is a good way to "get up to speed" on what everyone else did that week!
+
+---
+
+## Aside: Storing Data
+
+From [Lesson 3, on Software Development for Data Science](../03/#never-edit-raw-data):
+
+> If you’re conducting an analysis, you should think of your results as being a function of your raw data, which you might want to store in the directory data/raw. Never edit this raw data, so that you always have the option of “undoing” parts of your project. Ideally, store raw data such that it is read-only (this is an option on, say, DSMLP).
+> Since raw data never changes, it should not be included in version control (i.e. Git). And since transformed data is generated by running source code on the raw data, transformed data should not be included in version control either. As a result, you should add data/ to your .gitignore, which is the file that tells Git which files and folders not to track.
+
+You may wonder, then, where to store large datasets. One option is in your `teams` directory in DSMLP. By default, all teams get access to 10GB of storage, but by emailing Suraj you can request more. However, non-capstone users can't access DSMLP. Public-facing options can be found [here](https://massive.io/file-transfer/best-cloud-storage-for-large-files/); you can request Amazon S3 credits from Suraj, and other services have free tiers that may suffice for your data.
 
 ---
 

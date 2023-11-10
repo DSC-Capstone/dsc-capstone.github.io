@@ -12,8 +12,8 @@ This site is under construction! -->
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-{: .green }
-> As a reminder, the [**Quarter 1 Project Checkpoint**](assignments/projects/q1) is due on Monday, November 6th!
+{: .red }
+**Remember to enroll in the DSC 180B discussion section that corresponds to your DSC 180A discussion section. You cannot change domains at this point!**
 
 The schedule and dates below are subject to change throughout the quarter.
 
@@ -74,13 +74,14 @@ The schedule and dates below are subject to change throughout the quarter.
         </tr>
         <tr>
             <td>6</td>
-            <td>Git</td>
-            <td rowspan=5>There will be at least 5 methodology assignments. Methodology assignments will be released alongside the accompanying methodology lesson. Your methodology assignment grade will be the average of your 5 highest methodology assignment scores.</td>
+            <td><a href="lessons/06">Git</a></td>
+            <td><a href="assignments/methodology/04">MA 4 (due Nov. 16)</a></td>
             <td><a href="assignments/projects/q1">Q1 Project Checkpoint (due Nov. 6)</a></td>
         </tr>
         <tr>
             <td>7</td>
             <td>LaTeX, Markdown, and GitHub Pages</td>
+            <td rowspan=4>There will be at least 5 methodology assignments. Methodology assignments will be released alongside the accompanying methodology lesson. Your methodology assignment grade will be the average of your 5 highest methodology assignment scores.</td>
             <td></td>
         </tr>
         <tr>
