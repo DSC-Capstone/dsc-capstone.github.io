@@ -8,10 +8,8 @@ nav_exclude: true
 # 💍 Quarter 2 Project Proposal
 {:.no_toc}
 
-{: .red }
-**Note: These specifications have not been updated for Fall 2023. They will change somewhat but will remain the same in spirit. This warning will be removed once they have been updated.**
-
-<!-- *This document also takes the place of Methodology Lesson 7. You should read it before you complete [Methodology Assignment 4](../../methodology/q1/04), due on Sunday, November 13th.* -->
+{: .green }
+**The specifications of the Quarter 1 Project have been finalized for Fall 2023.**
 
 As you know, your main deliverable throughout the capstone sequence is your Quarter 2 Project. In order to ensure that you'll be able to successfully execute your project, you're required to submit a detailed proposal.
 
@@ -20,7 +18,7 @@ The proposal consists of three parts. The proposal is worth 15% of your DSC 180A
 ### Groups
 {:.no_toc}
 
-Quarter 2 Projects **must** be worked on in groups of 2-4. You must submit your proposal with the same group that you'll work on the project with. It is up to your mentor to determine how groups are formed; you should ask them _how_ groups will be formed soon.
+Quarter 2 Projects **must** be worked on in groups of 2-4; you cannot work individually. You must submit your proposal with the same group that you'll work on the project with. It is up to your mentor to determine how groups are formed; you should ask them how groups will be formed. You're required to sign up and attend the [**Week 9/10 TA Check-In**](../q1-week-9-10-checkin) in groups, so you should try and identify your group sooner rather than later.
 
 ### Context
 {:.no_toc}
@@ -31,6 +29,21 @@ After this year, whether you work in industry or academia, you will often have t
 
 As such, you are required to write a project proposal here, not just to better plan your Quarter 2 Project, but to gain this valuable skill. You must write a proposal even if your mentor has already determined what your Quarter 2 Project is going to be.
 
+### Example Quarter 2 Projects
+{:.no_toc}
+
+As you start to think about your Quarter 2 work, it's a good idea to look at what students in your shoes last year were able to accomplish in the span of 10 weeks. Below, you'll find some selected examples, though you can see all of last year's projects at [dsc-capstone.org/showcase-23](https://dsc-capstone.org/showcase-23), and all capstone projects ever at [this sheet](https://docs.google.com/spreadsheets/d/1HJkTHUDJbfIPrPuMJ_DmWCvivxv5YU8Z_E8YCZao-84/edit#gid=511346602). You'll learn more about the specific deliverables you'll be required to produce in Quarter 2 in January (though you can read a draft of the full project spec [here](../q2) if you're curious); for now, just focus on the big picture.
+
+- **BlockBazaar - Smart Contracts for Decentralized E-Commerce**<br>
+  Matin Ghaffari, Yu Huang, Alan Amirian, Wenyuan Chen (Mentor: Sheffield Nolan from Franklin Templeton)<br>🪧 [Poster](https://drive.google.com/file/d/1qNdCDuVi9iCtT_K80sjAAzl3AlYuNww1/view?usp=drivesdk) • 🌐 [Website](https://wenyuanchen1326.github.io/BlockBazaar/) • 📖 [Report](https://drive.google.com/file/d/190sUeABNC-E0qooRXufQDKANdHkc-RxM/view?usp=drivesdk.pdf) • 💻 [Code](https://github.com/matin-g/Q2-DSC180B-A02)
+- **FinDL: Deep Learning Library for Finance Applications**<br>
+  Nathan Ng, Richard Tang, Gao Mo (Mentor: Zhiting Hu)<br>
+  🪧 [Poster](https://drive.google.com/file/d/1o4sLaCsXra1achSoUnr1Ym_56YwINxWw/view?usp=drivesdk) • 🌐 [Website](https://nathansng.github.io/fintech_library/) • 📖 [Report](https://drive.google.com/file/d/1XZFodTmqfSjhs_77ln-pnKJfeRohLKqq/view) • 💻 [Code](https://github.com/nathansng/fintech_library)
+- **Evaluating Fungal Feature Importance in Predicting Life Expectancy for Cancer Patients**<br>
+  Ethan Chan, Mark Zheng, Benjamin Sacks (Mentor: Rob Knight)<br>
+  🪧 [Poster](https://drive.google.com/file/d/16df6AgzYgigNHRHZur8AZHEg7FTVAb7l/view?usp=drivesdk) • 🌐 [Website](https://mzh4ng.github.io/DSC180B_Q2_Project/) • 📖 [Report](https://drive.google.com/file/d/15O5Jrf9JOiCC57OWpSJGujG4X2MItNMK/view?usp=drivesdk.pdf) • 💻 [Code](https://github.com/mzh4ng/DSC180B_Q2_Project)
+
+
 ---
 
 1. TOC
@@ -38,7 +51,7 @@ As such, you are required to write a project proposal here, not just to better p
 
 ---
 
-## Written Proposal
+## Written Proposal (Graded by your mentor)
 
 ### Description
 
@@ -48,9 +61,9 @@ The most important component of your proposal submission is a written proposal. 
 - Provide enough detail for a domain expert to understand whether the project's goals are realistic to complete using the methods described and in the timeframe allocated.
 - Specify the project's primary output, e.g. a report/paper, a website, or an application. (Note that even if your primary output is a website, you will still have to write a paper, and vice versa.)
 
-<!-->TODO: hyperlink introduction to introduction section of scientific writing<-->
+Like the Introduction section of a paper, which we discussed in [Lesson 4](../../../lessons/04#-introduction), a written proposal should consist of three parts, that start broad and get increasingly narrower. In fact, you will reuse a lot of your written proposal when writing your Quarter 2 Project's introduction section – and you may even see a lot of overlap between your written proposal and Quarter 1 Project report.
 
-Like the Introduction section of a paper, a written proposal should consist of three parts, that start broad and get increasingly narrower. (In fact, you will reuse a lot of your written proposal when writing your Quarter 2 Project's introduction section.) Specifically, your written proposal should have three sections:
+Specifically, your written proposal should have three sections:
 
 1. A broad problem statement, with context to justify the investment in spending 10 weeks on the project. This should be accessible to anyone – for instance, methodology staff, your family and friends, and hiring managers for the jobs you apply to should all be able to read this and understand what you are proposing and why it matters.
 
@@ -59,11 +72,14 @@ Like the Introduction section of a paper, a written proposal should consist of t
 3. A statement of the primary output (i.e., state whether you will create a report/paper, a website, or an application). If your project _analyzes_ data, specify how you will communicate the analyses. If your project _generates_ data, how will you analyze the data it produces?
 
 In addition to the above structure, you need to justify why your project will be successful. In particular, if your project relies on data that was _not_ used in the Quarter 1 Project, you need to prove the following:
-1. You can obtain the data.
-2. The data contains the information needed.
-3. The data is of sufficient quality.
+- You can obtain the data.
+- The data contains the information needed.
+- The data is of sufficient quality.
 
-The easiest way to do this is to actually obtain the data while writing the proposal and perform some preliminary analyses to ensure it will actually be able to help you accomplish your goals. In years past, many groups fell in the trap of waiting until Quarter 2 to obtain their data, and by the time they realized that they either can't obtain their data or that it won't actually help them with their project, they had wasted a significant portion of the quarter. **Don't let this be you!**
+The easiest way to do this is to actually obtain the data while writing the proposal and perform some preliminary analyses to ensure it will actually be able to help you accomplish your goals.
+
+{: .red }
+In years past, many groups fell in the trap of waiting until Quarter 2 to obtain their data, and by the time they realized that they either can't obtain their data or that it won't actually help them with their project, they had wasted a significant portion of the quarter. **Don't let this be you!**
 
 ### Working in Groups
 
@@ -78,21 +94,25 @@ The easiest way to do this is to actually obtain the data while writing the prop
   strengths. A proposal can consist of semi-independent pieces that
   fit individual team-member's strengths – for instance, one student can be responsible for building and designing an ML model, another can be responsible for a statistical investigation into the data generated by the ML model, and another can be responsible for developing custom visualizations of the results. All of these would be too much for a single person to do well in a quarter, but they are all achievable when working in a group.
 
+Just as you're required to with your [Quarter 1 Project](../q1), you'll be required to submit a contributions statement along with your Quarter 2 Project at the end of Quarter 2. Last year, we saw several cases where a student in a group contributed a single-digit percentage of the overall work done by the project group, and those students' scores suffered. **One of the main purposes of the proposal is to avoid instances of this!**
+
 ### Ideation
 
-<!-- As of the release of this assignment (Week 7), you may not be sure _what_ to propose for Quarter 2. That's totally fine. To help you get started, [Methodology Assignment 4](../../methodology/q1/04) will have you brainstorm ideas based on your current understanding of your domain. Your mentor will use your answers to encourage discussions about possible projects in Week 8. -->
+As of the release of these specifications (the end of Week 7), you may not be sure _what_ to propose for Quarter 2. That's totally fine. To help you get started, part of [Methodology Assignment 5](../../methodology/05#part-2-markdown-and-github-pages) will have you brainstorm ideas based on your current understanding of your domain.
 
 Note that the amount of freedom you have in proposing your own project will depend on your mentor. In fact, your mentor may already have determined what your Quarter 2 Project will be, and that's fine. In any case, your mentor will play a crucial role in your proposal, as they'll be able to help you come up with a plan that you can realistically execute in 10 weeks under their guidance. Your final proposal submission should not surprise them at any point, because you should be discussing it with them regularly and incorporating their feedback.
 
-It's also a good idea to look at the [Archive](https://dsc-capstone.github.io/archive/) to see what students were able to accomplish in Quarter 2 in years past.
-
 ### Deliverables and Grading
 
-You'll submit your written proposal as a PDF to Gradescope **as a group**. Your mentor will grade it according to [this rubric](../../../syllabus#general-rubric).
+You'll submit your written proposal as a PDF to Gradescope **as a group**. Like with your Quarter 1 Project, you must use our LaTeX template on Overleaf. Your mentor will grade your written proposal according to [this rubric](../../../syllabus#general-rubric).
+
+<span class="fs-3">
+[Access the LaTeX template on Overleaf here.](../../../latex-template){: .btn .btn-green }
+</span>
 
 ---
 
-## Schedule
+## Schedule (Graded by your mentor)
 
 ### Description
 
@@ -105,7 +125,7 @@ By writing your schedule now, it'll make it clear to both your group and your me
 Note:
 - Your schedules won't be set in stone, as you will encounter hiccups along the way. However, by having a "contract" of who is going to do what, when, you'll be able to hold everyone in your group accountable and will be able to help them if and when they get stuck.
 - The amount of work you plan to do should scale with the size of your group. Groups of 4 should expect to accomplish more than a group of 2. It will be clear from your schedule whether your plan is too ambitious or not ambitious enough.
-- DSC 180B – the capstone course you'll be enrolled in next quarter – is a 4-unit course, meaning that you should expect to spend 12 hours per week on it on average. Plan for 11 of those hours should be spent on your project. Quality work takes time!
+- **DSC 180B – the capstone course you'll be enrolled in next quarter – is a 4-unit course, meaning that you should expect to spend 12 hours per week on it on average. Plan for 11 of those hours to be spent on your project. Quality work takes time!**
 
 ### Frequently Asked Questions
 
@@ -123,17 +143,15 @@ As specific as possible.
 
 **How should we divide tasks up among group members?**
 
-Divide tasks so that they take advantage of the strengths of your group members and so that they can be parallelized.
-- Don't divide tasks so far that you have no idea what your partners are working on and are unable to help them!
-- More details to come in the next Methodology Lesson.
+Divide tasks so that they take advantage of the strengths of your group members and so that they can be parallelized. Don't divide tasks so far that you have no idea what your partners are working on and are unable to help them!
 
 ### Deliverables and Grading
 
-You'll submit your schedule as a PDF to Gradescope **as a group**. It will be separate from your written proposal PDF submission. Your mentor will grade it according to [this rubric](../../../syllabus#general-rubric).
+You'll submit your schedule as a PDF to Gradescope **as a group**. It will be separate from your written proposal PDF submission. We don't have any special formatting instructions for your schedule, though one idea is to make a table in a Google doc with one row per week and one column per group member, and submit a PDF of the doc. Your mentor will grade your schedule according to [this rubric](../../../syllabus#general-rubric).
 
 ---
 
-## Elevator Pitch
+## Elevator Pitch (Graded by your TA)
 
 ### Description
 
@@ -150,12 +168,21 @@ The [typical anatomy](https://www.northwestern.edu/climb/pdfs-powerpoints/resour
 - Question: Clearly state the question that addresses the problem.
 - Hypothesis: State your proposed solution. Propose a clear, quantifiable hypothesis that will advance our understanding.
 
+This framework should sound familiar, and that's because we discussed something similar in [Lesson 4](../../../lessons/04). You may want to re-watch Professor Benjamin Smarr's [video](https://youtu.be/5O1MVncfbf4?si=z7X9Z9Nw5WWf94X5) as you start to write your elevator pitch.
 
 {: .note }
-Unlike the other components of the proposal, pitches will be delivered individually!
+**Unlike the other components of the proposal, pitches will be delivered individually!**
 
-### Dry-Run
-TODO
+### Examples
+
+Here are a few selected elevator pitches from last year's cohort.
+
+<table style="box-shadow:none;">
+  <tr>
+    <td><iframe width="560" height="315" src="https://www.youtube.com/embed/vA81wwj9g1s?si=8MUQju6rxfMggH_5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><center>Nicole Brye (<a href="https://www.youtube.com/watch?v=vA81wwj9g1s">direct link</a>)</center></td>
+    <td><iframe width="560" height="315" src="https://www.youtube.com/embed/AvDyMEllmJI?si=kG5ojVpupLJh-puE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><center>Alan Miyazaki (<a href="https://youtu.be/AvDyMEllmJI?si=QdiT1TNcWeAOSxLo">direct link</a>)</center></td>
+  </tr>
+</table>
 
 ### Tips
 
@@ -171,20 +198,22 @@ Even though elevator pitches **do not contain slides**, it's a good idea to use 
 
 ### Deliverables and Grading
 
-You'll submit an **individually** recorded video of you presenting your elevator pitch to YouTube and submit a link to it on Gradescope. There should be no slides in the video, just your face talking. (Let Suraj know if you have any concerns with this requirement.)
+You'll present your elevator pitch in two stages:
+1. First, you'll deliver a _dry run_ of your elevator pitch to your TA and the rest of your project group. Think of the dry run as a "checkpoint" for your final elevator pitch – it doesn't need to be polished at this stage. You will present your dry run at your [**Week 9/10 TA check-in**](../q1-week-9-10-checkin); we'll make an announcement on Ed once you can sign up for these.
+2. Then, you'll **individually** record a video of you presenting your elevator pitch to YouTube and submit a link to it on Gradescope. There should be no slides in the video, just your face talking. (Let Suraj know if you have any concerns with this requirement.)
 
 Note that every member of your group will have to record separate videos, even if you write your pitches together and they are largely similar.
 
-Unlike the written proposal and schedule, your elevator pitch will be graded by methodology TAs. Each of the six bullet points below are worth 1 point.
+Unlike the written proposal and schedule, your elevator pitch will be graded by your TA. Each of the six bullet points below are worth 1 point.
 
-- Between 1 and 3 minutes long and clear, and is not too rushed or too basic (style)
-- Not overly scripted, though reading off of notes _a little_ is fine (style)
-- Introduces the problem area to a general audience (setup)
-- Explains why the area is interesting to a general audience (setup)
-- Describes the specific problem being approached (approach)
-- Describes how the problem will be approached and how to measure success (approach)
+- **Style**: Between 1 and 3 minutes long and clear, and is not too rushed or too basic.
+- **Style**: Not overly scripted, though reading off of notes _a little_ is fine.
+- **Setup**: Introduces the problem area to a general audience.
+- **Setup**: Explains why the area is interesting to a general audience.
+- **Approach**: Describes the specific problem being approached.
+- **Approach**: Describes how the problem will be approached and how to measure success.
 
-To assign a grade to your elevator pitch, we'll use the following scheme:
+To assign a grade to your elevator pitch, your TA will use the following scheme:
 
 | Letter Grade | Points |
 | --- | --- |
@@ -192,3 +221,20 @@ To assign a grade to your elevator pitch, we'll use the following scheme:
 | B | 3 - 4 |
 | C | 1 - 2 |
 | F | 0 |
+
+---
+
+## Summary of Deliverables
+
+All deliverables will be submitted to Gradescope.
+
+- Written Proposal.
+  - Submitted as a group.
+  - Must use the [LaTeX template](../../../latex-template).
+- Schedule.
+  - Submitted as a group.
+  - No required format.
+- Elevator Pitch.
+  - Submitted individually.
+  - Must present dry run during your group's [Week 9/10 TA Check-In](../q1-week-9-10-checkin).
+  - Must create YouTube video of final pitch.
