@@ -106,11 +106,9 @@ Note that the amount of freedom you have in proposing your own project will depe
 
 You'll submit your written proposal as a PDF to Gradescope **as a group**. Like with your Quarter 1 Project, you must use our LaTeX template on Overleaf. Your mentor will grade your written proposal according to [this rubric](../../../syllabus#general-rubric).
 
-<center>
 <span class="fs-3">
 [Access the LaTeX template on Overleaf here.](https://www.overleaf.com/read/swwcqhtsdwbg#80379d){: .btn .btn-green }
 </span>
-</center>
 
 ---
 
