@@ -12,8 +12,13 @@ This site is under construction! -->
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-{: .red }
-**Remember to enroll in the DSC 180B discussion section that corresponds to your DSC 180A discussion section. You cannot change domains at this point!**
+{: .green }
+> **Important reminders:**
+> - [Methodology Assignment 5](assignments/methodology/05) has been released and is due on **Monday, November 27th**. It's longer than usual; start early!
+> - The [Quarter 2 Project Proposal](assignments/projects/q2-proposal) specifications have been released. It is due on **Monday, December 11th**.
+> - The [Quarter 1 Project](assignments/projects/q1) is also due on **Monday, December 11th**. Make sure to use the newly-released [Capstone LaTeX template](https://www.overleaf.com/read/swwcqhtsdwbg#80379d) for your report.
+> - Soon (but not yet), you'll need to sign up for a [Week 9/10 TA Check-In](assignments/projects/q1-week-9-10-checkin) to meet with your TA between **Thursday, November 30th and Tuesday, December 5th**. A signup sheet is coming soon.
+> - Make sure to enroll in the same discussion section in DSC 180B that you're currently enrolled in for DSC 180A.
 
 The schedule and dates below are subject to change throughout the quarter.
 
@@ -57,7 +62,7 @@ The schedule and dates below are subject to change throughout the quarter.
         </tr>
         <tr>
             <td>3</td>
-            <td><a href="lessons/03">Software Development for Data Science</a></td>
+            <td><a href="lessons/03">Software Development for Data Science</a><br><small>Watch <a href="https://youtu.be/iXvBzLtI5Uk">this new video</a> on command-line arguments in Python!</small></td>
             <td></td>
         </tr>
         <tr>
@@ -80,24 +85,26 @@ The schedule and dates below are subject to change throughout the quarter.
         </tr>
         <tr>
             <td>7</td>
-            <td>LaTeX, Markdown, and GitHub Pages</td>
-            <td rowspan=4>There will be at least 5 methodology assignments. Methodology assignments will be released alongside the accompanying methodology lesson. Your methodology assignment grade will be the average of your 5 highest methodology assignment scores.</td>
+            <td colspan=2><a href="assignments/methodology/05">LaTeX, Markdown, and GitHub Pages (MA 5 due Nov. 27)</a></td>
             <td></td>
         </tr>
         <tr>
             <td>8</td>
-            <td>Containerization using Docker</td>
-            <td>Week 7-8 TA Check-In (complete by Nov. 21)</td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td>Project Management</td>
+            <td>No methodology lesson (Thanksgiving)</td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
+            <td>9</td>
+            <td>Containerization using Docker</td>
+            <td>MA 6 (due Dec. 4)</td>
+            <td><a href="assignments/projects/q1-week-9-10-checkin">Week 9/10 TA Check-In (complete by Dec. 5)</a></td>
+        </tr>
+        <tr>
             <td>10</td>
-            <td>No methodology lesson</td>
-            <td><a href="assignments/projects/q1">Q1 Project (due Dec. 11)</a><br><br>Q2 Project Proposal (due Dec. 11)</td>
+            <td>Project Management</td>
+            <td></td>
+            <td><a href="assignments/projects/q1">Q1 Project (due Dec. 11)</a><br><br><a href="assignments/projects/q2-proposal">Q2 Project Proposal (due Dec. 11)</a></td>
         </tr>
     </tbody>
 </table>

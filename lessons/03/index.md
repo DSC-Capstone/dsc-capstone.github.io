@@ -327,7 +327,7 @@ Note:
 - The line at the top, `#!/usr/bin/env python`, is known as the "shebang." It tells bash which Python installation to use (here, we specified our user's default Python).
 - The `get_data` function from `etl` is imported.
 - `__name__ == '__main__'` only evaluates to `True` when `run.py` is run as a script from the command-line. 
-    - `sys.argv` is a list of the arguments provided on the command-line when `run.py` is called. For instance, if we call `python run.py data dog zebra`, `sys.argv` is `['run.py', 'data', 'dog', 'zebra']`, and hence `sys.argv[1:]` is `['data', 'dog', 'zebra']`.
+    - `sys.argv` is a list of the arguments provided on the command-line when `run.py` is called. For instance, if we call `python run.py data dog zebra`, `sys.argv` is `['run.py', 'data', 'dog', 'zebra']`, and hence `sys.argv[1:]` is `['data', 'dog', 'zebra']`. **[This video](https://youtu.be/iXvBzLtI5Uk) talks a bit more about how to use command-line arguments in Python.**
     - Our `main` function runs `get_data` from `etl` using the parameters in `data-params.json` only if `data` is one of the command-line arguments called with `python run.py`.
 
 We'll cover build scripts in more detail in the [Build Scripts](#build-scripts) section of the article.
@@ -391,6 +391,14 @@ Let's cover a few of the aforementioned ideas in greater detail.
 
 ## Build Scripts
 
+### 🎥 Overview
+
+Watch the following [video](https://youtu.be/iXvBzLtI5Uk) for some context on build scripts, targets, and how to read command-line arguments in Python.
+
+<center>
+<iframe width="888" height="500" src="https://www.youtube.com/embed/iXvBzLtI5Uk?si=gk45OciiXIxHfCMh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
 ### What is a Build Script?
 
 As alluded to above, it's desirable for your project to be easy to run – ideally, future users can run `run project` in their Terminal and see the output of your work. That's precisely what build scripts enable!
@@ -413,8 +421,6 @@ A _target_ specifies what to build. Specifically, a target is a string describin
 You should create targets for all major "steps" in your project pipeline, particular for steps that it would make sense to run in isolation of other steps. For instance: 
 - You may have a target called `data` that prepares the data for your project by downloading data and running your ETL code. To use this target, users would run `python run.py data` in the Terminal.
 - You may also have a target called `features` that builds the features for your project, from the already-processed data. To use this target, users would run `python run.py features` in the Terminal.
-
-**As a reminder**, above in the [`run.py`](#runpy) section, we looked at how to use command-line arguments in Python.
 
 Above, we kept referring to "users", i.e. people using your project after you've finished building it. However, build scripts also make your life easier while working on your project. Here's an example workflow:
 - Write ETL logic in `src/etl.py`.
