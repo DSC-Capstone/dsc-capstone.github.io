@@ -1,14 +1,16 @@
 ---
 layout: page
-title: "Quarter 2, Lesson 1 – Project Management"
+title: "Lesson 9 – Project Management"
 nav_exclude: true
 ---
 
-# Quarter 2, Lesson 1 – Project Management
+# Lesson 9 – Project Management
 {:.no_toc}
 
-{: .note }
-**Reminder**: Read the [Quarter 2 Syllabus](../../../../syllabus) and [Quarter 2 Project](../../../../assignments/projects/q2) specifications.
+All lectures will be delivered as readings that you complete on your own time. Post questions with the lesson on Ed.
+
+{: .red }
+**While this lesson doesn't have an associated Methodology Assignment, you should read it before you finalize the [Schedule component of your Quarter 2 Project Proposal](../../assignments/projects/q2-proposal#schedule-graded-by-your-mentor), due on Monday, December 11th.<br><br>Also, please fill out both the official [Student Evaluations of Teaching](https://academicaffairs.ucsd.edu/Modules/Evals/) (by Saturday 12/9 at 8AM) and the [End-of-Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLScVWzqB2NOdSg2F-noR8CC1jTF3F6K9d-14swlVezbZQ4JGcQ/viewform) (by the end of finals week). Thank you for your feedback!** 
 
 ---
 
@@ -22,9 +24,11 @@ nav_exclude: true
 
 ## Overview
 
-In Quarter 2, the methodology lessons are designed to aid you as you execute your Quarter 2 Project. While there are no methodology assignments, you can think of the later project checkpoints as being replacements for methodology assignments, in that you will apply what you learn in each lesson to a particular aspect of your project (e.g. you'll learn how to create a website on GitHub Pages, and then submit a website checkpoint for your project). 
+In Quarter 2, you will work on **everything** in groups. This makes it important that your group is able to work well together; you only have 10 weeks to execute your project, which is not very long. To encourage your groups to work as productively as possible, we're going to:
+1. Require that all groups meet weekly _outside_ of discussion section.
+1. Require that all groups maintain a running meeting notes Google Doc that their mentor, TA, and Suraj all have access to; this will allow us to maintain a paper trail of who is doing (and saying) what. This document is also where each group will answer their weekly participation questions (which, as you guessed it, will also be answered in groups).
 
-Every single project deliverable, including your weekly [participation](../../../../assignments/participation/q2) assignments, must be submitted in groups. As the participation assignment mentions, you **must meet with your group members weekly outside of discussion**. In this lesson, we'll cover a few principles to follow, particularly in the context of developing software, so that you make the most of these weekly meetings and maximize your chances of successfully executing the proposal and schedule you developed at the end of Quarter 1. 
+We'll talk more about the specifics how Quarter 2 will work at the start of the quarter. For now, this lesson will cover a few principles to follow, particularly in the context of developing software, so that you make the most of your meetings with your group and maximize your chances of successfully executing your Quarter 2 Project Proposal.
 
 ---
 
@@ -40,7 +44,7 @@ Before the 1960s, software as we know it today didn't exist. At the time, comput
 
 Then, in the 1970s, hardware-agnostic programming languages – such as C – began to gain traction. This decoupling of software from hardware accelerated the growth of programming as a career, and the size of software projects dramatically increased.
 
-This led to an interesting confluence – programmers were writing code that _could_, in theory, be run on others' computers, but since they hadn't been paying attention to the [robustness or organization of their code](https://en.wikipedia.org/wiki/Cowboy_coding), their code often _couldn't_ run on others' computers. Most code didn't work when shipped, which meant that programmers would have to spend time fixing someone else's code before they could get it to run on their own machine. Unfortunately, in some ways, data science [is still in this phase](https://twitter.com/emollick/status/1597733433765433344?s=20&t=8tR_rzjUe6nIPdwltz62-Q), which is why one the goals of the methodology portion of DSC 180A was to have you write and maintain your code in such a way that others could obtain and run your code without any additional setup.
+This led to an interesting confluence – programmers were writing code that _could_, in theory, be run on others' computers, but since they hadn't been paying attention to the [robustness or organization of their code](https://en.wikipedia.org/wiki/Cowboy_coding), their code often _couldn't_ run on others' computers. Most code didn't work when shipped, which meant that programmers would have to spend time fixing someone else's code before they could get it to run on their own machine. Unfortunately, in some ways, data science [is still in this phase](https://twitter.com/emollick/status/1597733433765433344?s=20&t=8tR_rzjUe6nIPdwltz62-Q), which is why one the goals of the methodology portion of the capstone is to have you write and maintain your code in such a way that others can obtain and run your code without any additional setup.
 
 One proposed strategy for managing the development of large group software projects was **waterfall development**, which is still in use today in some organizations. In waterfall development, _before_ work begins on a project, the team clearly states:
 - What steps are required to execute the project.
@@ -78,14 +82,15 @@ The following video does a good job of providing intuition for the difference be
 
 As mentioned earlier, you're encouraged to follow the principles of Agile development when working on your projects this quarter. Waterfall development will **not** work – there is simply no time for you to sit idle for weeks while your partners work. All group members need to be active each week.
 
-When creating your schedule last quarter, you created a list of tasks that each group member will do each week. Now that you have more clarity on what the checkpoint deliverables are and when their deadlines are, you should modify your schedule such that each checkpoint deadline is accounted for.
+When creating the [**schedule for your Quarter 2 Project Proposal**](../../assignments/projects/q2-proposal#schedule-graded-by-your-mentor), you should create a list of tasks that each group member will do each week. Write your schedule in such a way that:
 
-You should plan your quarter in such a way that, every week:
-
-- **Each group member can work in parallel.** That is, Person B should not have to wait for Person A to finish a task before they can start working. If Person B is working on a feature that depends on Person A's output, Person B can use test data (or something similar) as a placeholder for Person A's output until it is finalized. (For a concrete example, Person A may be writing scripts that clean raw data, and Person B may be building a machine learning model.)
+- **Each group member can work in parallel.** That is, Person B should not have to wait for Person A to finish a task before they can start working. If Person B is working on a feature that depends on Person A's output, Person B can use synthetically-created data (or something similar) as a placeholder for Person A's output until it is finalized. (For a concrete example, Person A may be writing scripts that clean raw data, and Person B may be building a machine learning model.)
 - **Each group member is working on a different task than in the previous week.** It's totally fine if a particular task takes two weeks to complete, but the description of that task in your schedule should be different for both weeks, to reflect the breakdown of that task into smaller subtasks.
 - **Each group member knows what everyone else is actively working on.** Not only will this held each group member accountable, but it'll also give other group members the opportunity to help resolve issues with tasks that weren't initially assigned to them.
-- **The team, as a unit, produces code that is fully buildable and runnable.** All group members should regularly merge their code into the `main` branch of the repo, which will ensure that the `main` branch always contains a "complete" project.  It **should not** be the case that your group's codebase only runs in Week 7.  (Using the example from the embedded video above: your repo should always contain a fully-constructed house. The number of rooms and hallways of that house can change as the weeks go on, but it should always be a complete house.). We'll cover best practices for using Git and GitHub next week, but each week, all
+- **The team, as a unit, produces code that is fully buildable and runnable.** All group members should regularly merge their code into the `main` branch of the repo, which will ensure that the `main` branch always contains a "complete" project.  It **should not** be the case that your group's codebase only runs in Week 7.  (Using the example from the embedded video above: your repo should always contain a fully-constructed house. The number of rooms and hallways of that house can change as the weeks go on, but it should always be a complete house.). **Note what we said in [Lesson 6 (Git) regarding version control in DSC 180B](../06/#version-control-next-quarter-in-dsc-180b).**
 - **The team, as a unit, decides what the plan for the next week is, and if any part of the existing schedule needs to change.**
 
 To achieve all of these goals, it will be necessary to be in regular communication with your group, not just in section, but in your (required) separate weekly meetings and asynchronously.
+
+{: .green }
+**At the start of Quarter 2, we'll announce the due dates for all project deliverable checkpoints (e.g. poster checkpoint, code checkpoint, report checkpoint); at that point, you may need to modify your schedule slightly. You'll also need to modify it each week in the event anything changes. Keep things flexible!**

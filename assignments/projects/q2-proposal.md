@@ -127,6 +127,9 @@ Note:
 - The amount of work you plan to do should scale with the size of your group. Groups of 4 should expect to accomplish more than a group of 2. It will be clear from your schedule whether your plan is too ambitious or not ambitious enough.
 - **DSC 180B – the capstone course you'll be enrolled in next quarter – is a 4-unit course, meaning that you should expect to spend 12 hours per week on it on average. Plan for 11 of those hours to be spent on your project. Quality work takes time!**
 
+{: .green }
+**While working on your schedule, consult [Methodology Lesson 9, on Project Management](../../../lessons/09) for tips on how to allocate tasks each week.**
+
 ### Frequently Asked Questions
 
 **Why a 6 week schedule in a 10 week quarter?**

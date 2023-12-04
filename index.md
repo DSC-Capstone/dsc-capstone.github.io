@@ -13,11 +13,14 @@ This site is under construction! -->
 {: .fs-6 .fw-300 }
 
 {: .green }
-> **Important reminders:**
-> - [Methodology Assignment 5](assignments/methodology/05) has been released and is due on **Monday, November 27th**. It's longer than usual; start early!
-> - The [Quarter 2 Project Proposal](assignments/projects/q2-proposal) specifications have been released. It is due on **Monday, December 11th**.
-> - The [Quarter 1 Project](assignments/projects/q1) is also due on **Monday, December 11th**. Make sure to use the newly-released [Capstone LaTeX template](https://www.overleaf.com/read/swwcqhtsdwbg#80379d) for your report.
-> - Soon (but not yet), you'll need to sign up for a [Week 9/10 TA Check-In](assignments/projects/q1-week-9-10-checkin) to meet with your TA between **Thursday, November 30th and Tuesday, December 5th**. A signup sheet is coming soon.
+> **We're in the final stretch of the quarter! Here's what you need to know.**
+> - **If you haven't signed up for a REQUIRED [Week 9/10 TA Check-In](assignments/projects/q1-week-9-10-checkin), there are still slots for Monday 12/4 and Tuesday 12/5. Sign up ASAP if you haven't!**
+> - The following are due on **Monday, December 11th**:
+    > - The [**Quarter 2 Project Proposal**](assignments/projects/q2-proposal).
+    > - The [**Quarter 1 Project**](assignments/projects/q1). Make sure to use the newly-released [Capstone LaTeX template](https://www.overleaf.com/read/swwcqhtsdwbg#80379d) for your report.
+    > - The submission portals for all of the above are open on Gradescope, including a [Contributions Statement](https://www.gradescope.com/courses/637426/assignments/3752641/) that you must submit individually.
+> - **[Methodology Assignment 6](assignments/methodology/06) is due Wednesday 12/13;** [**Methodology Lesson 8 (Environments and Containerization)**](assignments/methodology/06) is combined with MA 6. Make sure to read it and [**Methodology Lesson 9 (Project Management)**](lessons/09) as well! 
+> - Please fill out both the official [**Student Evaluations of Teaching**](https://academicaffairs.ucsd.edu/Modules/Evals/) **by Saturday 12/9 at 8AM** and the [**End-of-Quarter Survey**](https://docs.google.com/forms/d/e/1FAIpQLScVWzqB2NOdSg2F-noR8CC1jTF3F6K9d-14swlVezbZQ4JGcQ/viewform) by the end of finals week. Thank you for your feedback!
 > - Make sure to enroll in the same discussion section in DSC 180B that you're currently enrolled in for DSC 180A.
 
 The schedule and dates below are subject to change throughout the quarter.
@@ -96,13 +99,12 @@ The schedule and dates below are subject to change throughout the quarter.
         </tr>
         <tr>
             <td>9</td>
-            <td>Containerization using Docker</td>
-            <td>MA 6 (due Dec. 4)</td>
+            <td colspan=2><a href="assignments/methodology/06">Environments and Containerization (MA 6 due Dec. 13)</a></td>
             <td><a href="assignments/projects/q1-week-9-10-checkin">Week 9/10 TA Check-In (complete by Dec. 5)</a></td>
         </tr>
         <tr>
             <td>10</td>
-            <td>Project Management</td>
+            <td><a href="lessons/09">Project Management</a></td>
             <td></td>
             <td><a href="assignments/projects/q1">Q1 Project (due Dec. 11)</a><br><br><a href="assignments/projects/q2-proposal">Q2 Project Proposal (due Dec. 11)</a></td>
         </tr>
