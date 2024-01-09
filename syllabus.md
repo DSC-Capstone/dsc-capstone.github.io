@@ -33,6 +33,67 @@ Throughout Quarter 1, there is a "methodology" component that supplements your k
 
 ---
 
+# Quarter 2 (DSC 180B, Winter 2024)
+
+In Quarter 2, you will execute your [Quarter 2 Project](../assignments/projects/q2), the proposal for which you submitted at the end of Quarter 1. You will also prepare to present your work to a variety of audiences, in a variety of formats (most notably, as a poster at our in-person capstone showcase on Friday, March 15th).
+
+## Getting Started
+
+A few things to note before the quarter begins:
+
+- Sections begin on Monday, January 8th. Confirm the date and time of your discussion section [here](https://docs.google.com/spreadsheets/d/1dCjs06QobZ3jrMBFIMeHYuqXDpGZHLZAxYUnraVQtNI/edit#gid=0).
+  - Make sure to enroll in your section ASAP if you haven't already, and to start participating from Day 1.
+- There are no new methodology lessons or assignments in Quarter 2. Everything you'll be required to submit will be in some way related to your Quarter 2 Project, and all deadlines are on the course homepage. There are, however, [Office Hours](../office-hours) held by Suraj and the methodology TAs each week.
+- Make sure you can access the following sites; email Suraj if you can't:
+    - The **new** Winter 2024 [Gradescope](https://www.gradescope.com/courses/697313), where all assignments will be submitted.
+    - We will use the same [Ed](https://edstem.org/us/courses/48541/discussion/) instance as we did in the fall. **All class-wide announcements will be sent here!**
+
+---
+
+## Course Components
+
+### Lecture (Methodology)
+
+There are no new methodology lessons or assignments this quarter; all relevant material was already presented and assessed in Quarter 1. Throughout this quarter, you should refer back to the relevant methodology content from last quarter.
+
+As was the case last quarter, there are no live lectures either.
+
+### Discussion (Domain)
+
+As in Quarter 1, discussion section will focus on your domain. Each week, a representative from each group will give a "weekly check-in," in which they present their group's work over the past week to the rest of the domain. To prepare for the check-in, starting in Week 2, each group must submit a weekly [Participation](../assignments/participation/q2) assignment 24 hours before discussion section.
+
+The weekly check-in gives you an opportunity to practice talking about technical material, solicit feedback from your mentor, and learn from other teams' successes and obstacles. As such, **attendance in discussion each week is mandatory, like in Quarter 1**. If you're unable to attend in a given week, work out an arrangement with your mentor in advance.
+
+### Office Hours
+
+In addition to any office hours your mentor may hold, methodology course staff will also hold office hours to help you resolve technical problems with your deliverables. See the [Office Hours](../office-hours) page for the schedule, and the [Staff](../staff) page to see who your TA is (who, like in Quarter 1, you'll be required to check in with a few times throughout the quarter in dedicated check-in slots).
+
+## Assignments and Grades
+
+See [Quarter 2 Project](../assignments/projects/q2) spec for a description of all project deliverables, and the [course homepage](../) for all due dates.
+
+_Note: These weights may change slightly during the first two weeks of the quarter._
+
+| Component | Description | Weight |
+| --- | --- | --- |
+| Checkpoints | Each component of the Quarter 2 Project has a checkpoint to ensure that you're on track. | 10% |
+| Primary deliverable | If your project is a traditional methods or analysis project, your primary deliverable is your **report** and your secondary deliverable is your **website**. <br><br> If your project is building a product (e.g. an application or dashboard), your primary deliverable is your **product** itself and your secondary deliverable is your **report**, though you will still have to create a separate website. See the [Quarter 2 Project](../assignments/projects/q2) spec for more details. |  45% |
+| Secondary deliverable | See above. | 15% |
+| Poster presentation | Your produced poster and presentations at the in-person capstone showcase will be graded on polish and clarity. | 15% |
+| Code artifact | Your final code submission will be graded based on the methodological standards introduced in Lesson 3 of Quarter 1. | 5% |
+| [Participation questions](../assignments/participation/q2) | Weekly prompts that require you to document each group member's progress so far and how your project plans have evolved.	 | 5% |
+| Overall participation | As in Quarter 1, your mentor will assign you an overall participation grade at the end of the quarter. | 5% |
+
+### Grading Policy
+
+Unless otherwise stated, we will follow the same [General Rubric](#general-rubric) as in Quarter 1. We'll also follow the same policy on [Letter Grades](#letter-grades). Note: your grade in DSC 180B is completely independent of your grade in DSC 180A.
+
+## Collaboration Policy and Academic Integrity
+
+Refer to the [Collaboration Policy and Academic Integrity](#collaboration-policy-and-academic-integrity-1) from Quarter 1.
+
+---
+
 # Quarter 1 (DSC 180A, Fall 2023)
 
 ## Getting Started
@@ -188,71 +249,3 @@ StackOverflow code!).
 
 {: .red }
 **Generative Artificial Intellience tools should not be used on any methodology assignments. As for your domain work (e.g. your weekly tasks, Quarter 1 Project, and Quarter 2 Project Proposal), whether and how you can use Generative AI is up to your mentor. Ask them!**
-
-<!-- 
-# Quarter 2 (DSC 180B, Winter 2024)
-
-In Quarter 2, you will execute your [Quarter 2 Project](../assignments/projects/q2), the proposal for which you submitted at the end of Quarter 1. You will also prepare to present your work to a variety of audiences, in a variety of formats (most notably, as a poster at our [in-person capstone showcase](https://dsc-capstone.github.io/showcase) on March 15th).
-
-## Getting Started
-
-A few things to note before the quarter begins:
-
-- Sections begin on Monday, January 9th. Confirm the date and time of your discussion section in the Winter 2024 tab of the [Domains and Mentors](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=829255333) spreadsheet.
-    - If your section is held in SDSC, follow the instructions found [here](../office-hours) to enter.
-  - Make sure to enroll in your section ASAP if you haven't already, and to start participating from Day 1.
-- There will be methodology lessons released each Monday to guide you through your Quarter 2 Projects, along with methodology [Office Hours](../office-hours) for you to get help. However, there are no live lecture help sessions or methodology assignments. 
-- Make sure you can access the following sites; email Suraj if you can't:
-    - The **new** Winter 2024 [Gradescope](https://www.gradescope.com/courses/479331), where all assignments will be submitted.
-    - We will use the same [EdStem](https://edstem.org/us/courses/28947/discussion/) instance as we did in the fall. **All class-wide announcements will be sent here!**
-
----
-
-## Course Components
-
-### Lecture (Methodology)
-
-As in Quarter 1, methodology lessons in Quarter 2 will be presented as a series of lecture notes that you read outside of class. Unlike in Quarter 1, there are no synchronous "lesson help" sessions, though you are still free to come to office hours to discuss the methodology lessons with the instructor and course staff. Lessons will be released on the Mondays listed in the calendar on the [course homepage](../).
-
-Quarter 2's methodology lessons are designed to support you as you complete your Quarter 2 Project deliverables (of which there are many). With that said, the time you spend on methodology lessons will be minimal, since most of your time will be spent executing your project.
-
-The live lecture slot on Monday will be used for Suraj's office hours; the live lecture slots on Wednesday and Friday will not be used for anything.
-
-### Discussion (Domain)
-
-As in Quarter 1, discussion section will focus on your domain. Each week, a representative from each group will give a "weekly check-in," in which they present their group's work over the past week to the rest of the domain. To prepare for the check-in, each group must submit a weekly [Participation](../assignments/participation/q2) assignment 24 hours before discussion section.
-
-The weekly check-in gives you an opportunity to practice talking about technical material, solicit feedback from your mentor, and learn from other teams' successes and obstacles. As such, **attendance in discussion each week is mandatory, like in Quarter 1**. If you're unable to attend in a given week, work out an arrangement with your mentor in advance.
-
-See the Winter 2024 tab of the [Domains and Mentors](https://docs.google.com/spreadsheets/d/1WSSB0kXRisLVnvrckY0VpJ8mPBt4yNXCyNfEAJ7x2J8/edit#gid=829255333) spreadsheet for the time and location of your discussion meetings, as they may have changed since the fall.
-
-### Office Hours
-
-In addition to any office hours your mentor may hold, methodology course staff will also hold office hours to help you resolve technical problems with your deliverables. See the [Office Hours](../office-hours) page for the schedule, and the [Staff](../staff) page for a listing of each TA's area of expertise. Note that each domain will have an assigned methodology TA starting Week 2, who you will be required to check in with periodically during the quarter.
-
-## Assignments and Grades
-
-See [Quarter 2 Project](../assignments/projects/q2) spec for a description of all project deliverables, and the [course homepage](../) for all due dates.
-
-_Note: These weights may change slightly during the first two weeks of the quarter._
-
-| Component | Description | Weight |
-| --- | --- | --- |
-| Checkpoints | Each component of the Quarter 2 Project has a checkpoint to ensure that you're on track. | 10% |
-| Primary deliverable | If your project is a traditional methods or analysis project, your primary deliverable is your **report** and your secondary deliverable is your **website**. <br><br> If your project is building a product (e.g. an application or dashboard), your primary deliverable is your **product** itself and your secondary deliverable is your **report**, though you will still have to create a separate website. See the [Quarter 2 Project](../assignments/projects/q2) spec for more details. |  45% |
-| Secondary deliverable | See above. | 15% |
-| Poster presentation | Your produced poster and presentations at the in-person capstone showcase will be graded on polish and clarity. | 15% |
-| Code artifact | Your final code submission will be graded based on the methodological standards introduced in Lessons 2, 5, and 6 of Quarter 1. | 5% |
-| [Participation questions](../assignments/participation/q2) | Weekly prompts that require you to document each group member's progress so far and how your project plans have evolved.	 | 5% |
-| Overall participation | As in Quarter 1, your mentor will assign you an overall participation grade at the end of the quarter. | 5% |
-
-
-### Grading Policy
-
-Unless otherwise stated, we will follow the same [General Rubric](#general-rubric) as in Quarter 1. We'll also follow the same policy on [Letter Grades](#letter-grades). Note: your grade in DSC 180B is completely independent of your grade in DSC 180A.
-
-## Collaboration Policy and Academic Integrity
-
-Refer to the [Collaboration Policy and Academic Integrity](#collaboration-policy-and-academic-integrity-1) from Quarter 1.
-
---- -->

@@ -13,17 +13,30 @@ This site is under construction! -->
 {: .fs-6 .fw-300 }
 
 {: .green }
-> **We're in the final stretch of the quarter! Here's what you need to know.**
-> - **If you haven't signed up for a REQUIRED [Week 9/10 TA Check-In](assignments/projects/q1-week-9-10-checkin), there are still slots for Monday 12/4 and Tuesday 12/5. Sign up ASAP if you haven't!**
-> - The following are due on **Monday, December 11th**:
-    > - The [**Quarter 2 Project Proposal**](assignments/projects/q2-proposal).
-    > - The [**Quarter 1 Project**](assignments/projects/q1). Make sure to use the newly-released [Capstone LaTeX template](https://www.overleaf.com/read/swwcqhtsdwbg#80379d) for your report.
-    > - The submission portals for all of the above are open on Gradescope, including a [Contributions Statement](https://www.gradescope.com/courses/637426/assignments/3752641/) that you must submit individually.
-> - **[Methodology Assignment 6](assignments/methodology/06) is due Wednesday 12/13;** [**Methodology Lesson 8 (Environments and Containerization)**](assignments/methodology/06) is combined with MA 6. Make sure to read it and [**Methodology Lesson 9 (Project Management)**](lessons/09) as well! 
-> - Please fill out both the official [**Student Evaluations of Teaching**](https://academicaffairs.ucsd.edu/Modules/Evals/) **by Saturday 12/9 at 8AM** and the [**End-of-Quarter Survey**](https://docs.google.com/forms/d/e/1FAIpQLScVWzqB2NOdSg2F-noR8CC1jTF3F6K9d-14swlVezbZQ4JGcQ/viewform) by the end of finals week. Thank you for your feedback!
-> - Make sure to enroll in the same discussion section in DSC 180B that you're currently enrolled in for DSC 180A.
+> **Welcome to DSC 180B, the second half of the capstone sequence! 👋**
+> - Read the [**Syllabus**](syllabus) and [**Quarter 2 Project**](assignments/projects/q2) specifications, and familiarize yourself with the deadlines below.
+> - Sections have begun. You can see your section time and location [**here**](https://docs.google.com/spreadsheets/d/1dCjs06QobZ3jrMBFIMeHYuqXDpGZHLZAxYUnraVQtNI/edit#gid=0).
+> - There are no live lectures for DSC 180B. Suraj and the TAs' office hours can be found [**here**](office-hours).
+> - Save the date: the capstone showcase is on **Friday, March 15th** in the morning to early afternoon. You'll be assigned a 1-2 hour block in which you'll be **required** to present your project poster.
 
 The schedule and dates below are subject to change throughout the quarter.
+
+| Week | Tasks<br><small>These are all in addition to [Weekly Participation Assignments](assignments/participation/q2), which are due 24 hours before discussion meetings starting in Week 2.</small> |
+| --- | --- |
+| 1 | Read the [**Syllabus**](syllabus) and [**Quarter 2 Project**](assignments/projects/q2) specifications.<br>Start attending sections. |
+| 2 | Start submitting [**Weekly Participation Assignments**](assignments/participation/q2) as a group.  |
+| 3 | Sign up for and attend a Week 3 TA Check-In. Before attending, **submit a pre-check-in assignment (to come).** |
+| 4 | Keep working! |
+| 5 | ✅ <b style="color:green">Submit</b> your [**report checkpoint**](assignments/projects/q2/report) and [**code checkpoint**](assignments/projects/q2/code) by <b>Sunday, February 11th</b>. |
+| 6 | ✅ <b style="color:green">Submit</b> your [**poster checkpoint**](assignments/projects/q2/poster-presentation) by  <b>Sunday, February 18th</b>. |
+| 7 | ✅ <b style="color:green">Submit</b> your [**website checkpoint**](assignments/projects/q2/website) by  <b>Sunday, February 25th</b>. |
+| 8 | Sign up for and attend a Week 8 TA Check-In, where you will present a dry run of your [**poster presentation**](assignments/projects/q2/poster-presentation).  |
+| 9 | Keep working! |
+| 10 | ✅ <b style="color:green">Submit</b> your [**poster**](assignments/projects/q2/poster-presentation) by <b>Sunday, March 10th</b>.<br>✅ <b style="color:green">Submit</b> your report, code, website, and contribution statement by <b>Thursday, March 14th</b>.<br>🗣️ <b style="color:#5080a6">Present</b> at the in-person capstone showcase on <b>Friday, March 15th</b>. Times TBD. |
+
+---
+
+You may find it useful to refer to last quarter's methodology content.
 
 <table>
     <colgroup>
@@ -110,84 +123,3 @@ The schedule and dates below are subject to change throughout the quarter.
         </tr>
     </tbody>
 </table>
-
-<!-- 
-<table>
-    <colgroup>
-        <col style="width: 1%" />
-        <col style="width: 1%" />
-        <col style="width: 48%" />
-        <col style="width: 25%" />
-        <col style="width: 25%" />
-    </colgroup>
-    <thead class="header">
-        <tr>
-            <th>Week</th>
-            <th>Date</th>
-            <th>Methodology</th>
-            <th>Domain</th>
-            <th><a href="assignments/projects/q2">Project</a></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1</td>
-            <td>Jan. 9</td>
-            <td><a href='lessons/q2/01'>Project Management</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Jan. 16</td>
-            <td><a href='lessons/q2/02'>Collaborating with Git</a></td>
-            <td rowspan=9>Starting Week 2, <a href="assignments/participation/q2">Participation</a> questions are due 24 hours before discussion meetings.<br><br>These are <b>required</b> and are to be submitted as a group. They are different from the participation questions from Quarter 1.</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td>Jan. 23</td>
-            <td><a href='lessons/q2/03'>Effective Communication</a></td>
-            <td><a href="assignments/projects/q2-checkin">Week 3 TA Check-In</a> (sign up by Jan. 20)</td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td>Jan. 30</td>
-            <td><a href='lessons/q2/04'>Posters and Oral Presentations</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>5</td>
-            <td>Feb. 6</td>
-            <td><a href='lessons/q2/05'>Websites</a></td>
-            <td><a href="assignments/projects/q2#report">Report checkpoint</a> and <a href="assignments/projects/q2#code-artifact">code checkpoint</a> (due Feb. 12)</td>
-        </tr>
-        <tr>
-            <td>6</td>
-            <td>Feb. 13</td>
-            <td rowspan=5>No further methodology lessons</td>
-            <td><a href="assignments/projects/q2#poster-presentation">Poster checkpoint</a> (due Feb. 19)</td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td>Feb. 20</td>
-            <td><a href="assignments/projects/q2#website">Website checkpoint</a> (due Feb. 26)</td>
-        </tr>
-        <tr>
-            <td>8</td>
-            <td>Feb. 27</td>
-            <td><a href="assignments/projects/q2-week8-checkin">Week 8 TA Check-In</a>  (sign up by Feb. 26, complete by Mar. 3)</td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td>Mar. 6</td>
-            <td><a href="assignments/projects/q2#poster-presentation">Poster</a> (due Mar. 9)<br><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSfoQiyTe5mNXIYqrerMA2Y9GMaCajPU8EMM-xkuceg6t4cLyA/viewform">Submission Link</a></b></td>
-        </tr>
-        <tr>
-            <td>10</td>
-            <td>Mar. 13</td>
-            <td><a href="assignments/projects/q2#report">Report</a>, <a href="assignments/projects/q2#code-artifact">code</a>, <a href="assignments/projects/q2#website">website</a>, and contribution statement (due. Mar. 14)<br><br>In-person showcase on Mar. 15</td>
-        </tr>
-    </tbody>
-</table>
--->
