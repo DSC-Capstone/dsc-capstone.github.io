@@ -60,9 +60,11 @@ As was the case last quarter, there are no live lectures either.
 
 ### Discussion (Domain)
 
-As in Quarter 1, discussion section will focus on your domain. Each week, a representative from each group will give a "weekly check-in," in which they present their group's work over the past week to the rest of the domain. To prepare for the check-in, starting in Week 2, each group must submit a weekly [Participation](../assignments/participation/q2) assignment 24 hours before discussion section.
+As in Quarter 1, discussion section will focus on your domain. Each week, a representative from each group will give a "weekly check-in," in which they present their group's work over the past week to the rest of the domain.
 
 The weekly check-in gives you an opportunity to practice talking about technical material, solicit feedback from your mentor, and learn from other teams' successes and obstacles. As such, **attendance in discussion each week is mandatory, like in Quarter 1**. If you're unable to attend in a given week, work out an arrangement with your mentor in advance.
+
+**With that all said, you're expected to meet with your group at least once per week outside of your discussion section.** To make sure that all group members are on track, we'll have you create a running Google Doc in which your group details who did what each week, and submit a snapshot of it each Sunday by 11:59PM. This constitutes the [Participation](../assignments/participation/q2) assignment this quarter.
 
 ### Office Hours
 

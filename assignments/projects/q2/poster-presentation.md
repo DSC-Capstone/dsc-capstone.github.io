@@ -37,6 +37,12 @@ If you've never seen a poster session before, you can see footage of the 2018 CS
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/wYV-ixiwE6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
+And here's a picture of last year's capstone showcase (which was the first in-person capstone showcase):
+
+<center><img src="../assets/showcase.jpeg" width="85%"></center>
+
+That'll be you soon!
+
 ---
 
 ## Conversations
@@ -107,13 +113,16 @@ From the [UC Davis Undergraduate Research Center](https://urc.ucdavis.edu/creati
 Your poster will primarily serve as a visual aid as you present your work. It **must** contain:
 
 - A prominent, informative title, that immediately tells the viewer what the project is about. (This should be the same as the title of your paper; if you haven't thought about what this will be, now is as good of a time as any.)
-- **The names, emails, and institutional affiliation for all group members, including your mentor. Your mentor's name should always appear last.**
+- **The names, emails, and institutional affiliation for all group members, including your mentor, directly underneath the title of your poster. Your mentor's name should always appear last.**
 - One section for each section of your report, in which the key points are summarized as **short bullet points** and in **tables and graphs** where possible.
-- A link to your project website (ideally using some sort of URL shortener or QR code), which will also have links to your paper and GitHub repository.
+    - You can include an acknowledgements section, but it shouldn't be longer than two sentences.
+    - Only include the references that are directly relevant for the material on the poster (should only be 2-3 max); don't include your entire bibliography.
+- A **single** QR code that links to your project website. Your project website should itself have links to your report and GitHub repository.
 
 Additionally:
 - Your poster will ultimately be submitted as a PDF of size **48" x 36"**.
 - Make sure that all text and figures on your poster are large and legible – to do this, ensure that your figures are exported at a resolution of 300 DPI (dots per inch). See [here](https://posterprintshop.com/file-preparation/) for some guidelines. As is mentioned below, you're free to use any software you'd like to edit your poster, but you should frequently export it as a PDF and zoom in to make sure all figures are high quality.
+- Yo
 
 {: .red }
 **While we won't enforce a particular poster template, we do ask that you follow the above guidelines carefully. Last year, many groups didn't include emails or their mentor's names. We will reiterate these guidelines a bit closer to the checkpoint deadline.**

@@ -40,8 +40,7 @@ The deadlines for each deliverable and checkpoint are above and on the [course h
 {: .note }
 DSC 180B is a 4-unit course, which per campus rules means you should expect to spend 12 hours per week on it total. Remember that your goal in DSC 180B is to produce a capstone project you'll be proud to show others and look back at in the future, _not_ just to receive an A.
 
-In addition to the aforementioned deliverables and checkpoints, you'll need to complete two mandatory check-ins with your TA – one in Week 3 and one in Week 8.
-
+In addition to the aforementioned deliverables and checkpoints, you'll need to complete two mandatory check-ins with your TA – one in Week 3 and one in Week 8. At some point, all groups will also be required to meet with Professor David Danks to discuss the ethical implications of their work.
 
 ---
 
