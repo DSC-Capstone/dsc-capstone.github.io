@@ -11,7 +11,16 @@ nav_order: 4
 - To see the areas of expertise for each TA, and to see the TA assigned to your domain, check the [🙋 Staff](../staff) page.
 - Ask your domain mentor for their office hours; they will not appear in this calendar.
 
-All office hours are held in-person. Suraj's office hours are held in [HDSI](https://map.concept3d.com/?id=1005#!m/246301) 349, and the TAs' office hours are held in [HDSI](https://map.concept3d.com/?id=1005#!m/246301) 355.
+All office hours are held in-person in [HDSI](https://map.concept3d.com/?id=1005#!m/246301). Check the calendar for specific rooms, since they're all held in different rooms.
+
+
+Trevor: 355
+Gabriel: 355
+Praveen: 336 (including the week they switch days)
+Samanvitha: 437
+Yuyao: 355
+Yanyi: 336
+Keng-Chi: 355
 
 {: .red }
 **Remember that there are no live lectures for DSC 180A or DSC 180B.**
