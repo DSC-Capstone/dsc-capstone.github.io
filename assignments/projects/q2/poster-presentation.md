@@ -16,7 +16,7 @@ _last updated Tuesday, January 9th, 2024_
 - Poster checkpoint due **Sunday, February 18th**
 - Presentation checkpoint delivered during **Week 8 Check-In**
 - Final poster due **Sunday, March 10th**
-- Presentation delivered at capstone showcase on **Friday, March 15th**
+- Presentation delivered at [**capstone showcase on Friday, March 15th**](https://dsc-capstone.org/showcase-24)
 - Poster graded by **mentors**, presentation graded by **methodology staff**
 
 ---
@@ -31,7 +31,7 @@ _last updated Tuesday, January 9th, 2024_
 
 ## Overview
 
-The capstone showcase on **Friday, March 15th** will be a poster session, which means you will present your project using a poster. During your 1-2 hour block (times TBD), you and your group will stand next to your poster as attendees approach you to ask and hear about your work.
+The capstone showcase on **Friday, March 15th** will be a poster session, which means you will present your project using a poster. During your assigned block – either 11AM-12:30PM or 1-2:30PM, you and your group will stand next to your poster as attendees approach you to ask and hear about your work.
 
 If you've never seen a poster session before, you can see footage of the 2018 CSE Internship Symposium poster session below.
 

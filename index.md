@@ -13,27 +13,24 @@ This site is under construction! -->
 {: .fs-6 .fw-300 }
 
 {: .green }
-> **Welcome to DSC 180B, the second half of the capstone sequence! 👋**
-> - Read the [**Syllabus**](syllabus) and [**Quarter 2 Project**](assignments/projects/q2) specifications, and familiarize yourself with the deadlines below.
-> - Sections have begun. You can see your section time and location [**here**](https://docs.google.com/spreadsheets/d/1dCjs06QobZ3jrMBFIMeHYuqXDpGZHLZAxYUnraVQtNI/edit#gid=0).
-> - The first [**Participation**](assignments/participation/q2) submission is due on **Sunday, January 14th.**
-> - There are no live lectures for DSC 180B. Suraj and the TAs' office hours can be found [**here**](office-hours).
-> - Save the date: the capstone showcase is on **Friday, March 15th** in the morning to early afternoon. You'll be assigned a 1-2 hour block in which you'll be **required** to present your project poster.
+> - Sign up for a [**Week 3 TA Check-In**](assignments/projects/q2-week3-checkin) ASAP! Check-ins start on Monday, January 22nd.
+> - Make sure to update your group's running meeting notes document each week and submit a PDF of it to Gradescope each Sunday. Read the [**Participation**](assignments/participation/q2) assignment for more details.
+> - Save the date: the [**capstone showcase is on Friday, March 15th from 11AM-2:30PM**](https://dsc-capstone.org/showcase-24). You're **required** to present your poster either in the 11AM-12:30PM block or the 1-2:30PM block; you'll be assigned a block in February.
 
 The schedule and dates below are subject to change throughout the quarter.
 
-| Week | Tasks<br><small>These are all in addition to [Weekly Participation Assignments](assignments/participation/q2), which are due on Sundays at 11:59. All groups must fill these out, no matter what other requirements your mentors give you.</small> |
+| Week | Tasks<br><small>These are all in addition to [Weekly Participation Assignments](assignments/participation/q2), which are due on Sundays at 11:59PM. All groups must fill these out, no matter what other requirements your mentors give you.</small> |
 | --- | --- |
 | 1 | Read the [**Syllabus**](syllabus) and [**Quarter 2 Project**](assignments/projects/q2) specifications.<br>Start attending sections.<br>✅ <b style="color:green">Submit</b> your first [**Weekly Participation Assignment**](assignments/participation/q2) as a group by <b>Sunday, January 14th</b>; make sure to submit a PDF to Gradescope and, as a one time step, to share your Google Doc with us. |
-| 2 | Sign up for a Week 3 TA Check-In.   |
-| 3 | Attend your Week 3 Check-In. Before attending, **submit a pre-check-in assignment (to come).** |
+| 2 | Keep working!   |
+| 3 | [**Sign up for and attend your Week 3 TA Check-In**](assignments/projects/q2-week3-checkin). |
 | 4 | Keep working! |
-| 5 | ✅ <b style="color:green">Submit</b> your [**report checkpoint**](assignments/projects/q2/report) and [**code checkpoint**](assignments/projects/q2/code) by <b>Sunday, February 11th</b>. |
+| 5 | ✅ <b style="color:green">Submit</b> your [**report checkpoint**](assignments/projects/q2/report) and [**code checkpoint**](assignments/projects/q2/code) by <b>Sunday, February 11th</b>.<br>Sign up for and attend an ethics check-in with Professor David Danks. |
 | 6 | ✅ <b style="color:green">Submit</b> your [**poster checkpoint**](assignments/projects/q2/poster-presentation) by  <b>Sunday, February 18th</b>. |
 | 7 | ✅ <b style="color:green">Submit</b> your [**website checkpoint**](assignments/projects/q2/website) by  <b>Sunday, February 25th</b>. |
-| 8 | Sign up for and attend a Week 8 TA Check-In, where you will present a dry run of your [**poster presentation**](assignments/projects/q2/poster-presentation). Plan to have a check-in with Professor David Danks. |
+| 8 | Sign up for and attend a Week 8 TA Check-In, where you will present a dry run of your [**poster presentation**](assignments/projects/q2/poster-presentation). |
 | 9 | Keep working! |
-| 10 | ✅ <b style="color:green">Submit</b> your [**poster**](assignments/projects/q2/poster-presentation) by <b>Sunday, March 10th</b>.<br>✅ <b style="color:green">Submit</b> your report, code, website, and contribution statement by <b>Thursday, March 14th</b>.<br>🗣️ <b style="color:#5080a6">Present</b> at the in-person capstone showcase on <b>Friday, March 15th</b>. Times TBD. |
+| 10 | ✅ <b style="color:green">Submit</b> your [**poster**](assignments/projects/q2/poster-presentation) by <b>Sunday, March 10th</b>.<br>✅ <b style="color:green">Submit</b> your report, code, website, and contribution statement by <b>Thursday, March 14th</b>.<br>🗣️ <b style="color:#5080a6">Present</b> at the <b><a href="https://dsc-capstone.org/showcase-24">in-person capstone showcase Friday, March 15th from 11AM-2:30PM</a></b>. |
 
 ---
 

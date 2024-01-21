@@ -35,7 +35,7 @@ Throughout Quarter 1, there is a "methodology" component that supplements your k
 
 # Quarter 2 (DSC 180B, Winter 2024)
 
-In Quarter 2, you will execute your [Quarter 2 Project](../assignments/projects/q2), the proposal for which you submitted at the end of Quarter 1. You will also prepare to present your work to a variety of audiences, in a variety of formats (most notably, as a poster at our in-person capstone showcase on Friday, March 15th).
+In Quarter 2, you will execute your [Quarter 2 Project](../assignments/projects/q2), the proposal for which you submitted at the end of Quarter 1. You will also prepare to present your work to a variety of audiences, in a variety of formats (most notably, as a poster at our [**in-person capstone showcase**](https://dsc-capstone.org/showcase-24) on Friday, March 15th).
 
 ## Getting Started
 
@@ -81,7 +81,7 @@ _Note: These weights may change slightly during the first two weeks of the quart
 | Checkpoints | Each component of the Quarter 2 Project has a checkpoint to ensure that you're on track. | 10% |
 | Primary deliverable | If your project is a traditional methods or analysis project, your primary deliverable is your **report** and your secondary deliverable is your **website**. <br><br> If your project is building a product (e.g. an application or dashboard), your primary deliverable is your **product** itself and your secondary deliverable is your **report**, though you will still have to create a separate website. See the [Quarter 2 Project](../assignments/projects/q2) spec for more details. |  45% |
 | Secondary deliverable | See above. | 15% |
-| Poster presentation | Your produced poster and presentations at the in-person capstone showcase will be graded on polish and clarity. | 15% |
+| Poster presentation | Your produced poster and presentations at the [**in-person capstone showcase**](https://dsc-capstone.org/showcase-24) will be graded on polish and clarity. | 15% |
 | Code artifact | Your final code submission will be graded based on the methodological standards introduced in Lesson 3 of Quarter 1. | 5% |
 | [Participation questions](../assignments/participation/q2) | Weekly prompts that require you to document each group member's progress so far and how your project plans have evolved.	 | 5% |
 | Overall participation | As in Quarter 1, your mentor will assign you an overall participation grade at the end of the quarter. | 5% |

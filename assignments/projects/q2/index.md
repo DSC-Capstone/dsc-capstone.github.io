@@ -24,7 +24,7 @@ You will have to produce four main deliverables for your Quarter 2 Project. Each
 | [**Report**](report) | Sunday, February 11th | Thursday, March 14th |
 | [**Code**](code) | Sunday, February 11th | Thursday, March 14th |
 | [**Website**](website) | Sunday, February 25th | Thursday, March 14th |
-| [**Poster and Presentation**](poster-presentation) | Poster checkpoint due Sunday, February 18th<br>Presentation checkpoint delivered in Week 8 Check-In | Poster due Sunday, March 10th<br>Presentation will be at capstone showcase on Friday, March 15th |
+| [**Poster and Presentation**](poster-presentation) | Poster checkpoint due Sunday, February 18th<br>Presentation checkpoint delivered in Week 8 Check-In | Poster due Sunday, March 10th<br>Presentation will be at [**capstone showcase on Friday, March 15th**](https://dsc-capstone.org/showcase-24) |
 
 {: .red }
 **Make sure to click and thoroughly read through all four pages linked in the first column of the table above!**
@@ -34,13 +34,13 @@ Roughly speaking, you'll spend the first half of the quarter working on your pro
 All deliverables and checkpoints must be submitted as a group on Gradescope. The only component you will submit individually is a "contribution statement" towards the end of the quarter. Each deliverable will be graded using the same [A/B/C/F rubric](../../../syllabus#general-rubric) from Quarter 1; different group members _can_ end up with different grades for the same work, depending on the answers to the weekly [participation](../../participation/q2) questions and the contribution statement.
 
 The deadlines for each deliverable and checkpoint are above and on the [course homepage](../../../). To reiterate, the most important dates are:
-  - **Friday, March 15th, in the morning to early afternoon**, which is when the in-person capstone showcase is. This will be attended by UCSD faculty and students, and HDSI industry partners. All capstone students will be required to present their poster for a 1-2 hour block on this day; we will assign groups to specific times sometime in February, but plan to be free this day.
+  - **Friday, March 15th from 11AM-2:30PM**, which is when the [**in-person capstone showcase**](https://dsc-capstone.org/showcase-24) is. This will be attended by UCSD faculty and students, and HDSI industry partners. All capstone students will be required to present their poster either during the 11AM-12:30PM block or the 1-2:30PM block; we will assign groups to blocks sometime in February.
   - **Sunday, March 10th at 11:59PM**, the deadline by which you must submit to us a PDF of the poster you will present at the capstone showcase. We are coordinating a bulk order with campus printing services and they may not be able to print your poster in time if we receive it any later than that. (You will not have to pay for your poster.)
 
 {: .note }
 DSC 180B is a 4-unit course, which per campus rules means you should expect to spend 12 hours per week on it total. Remember that your goal in DSC 180B is to produce a capstone project you'll be proud to show others and look back at in the future, _not_ just to receive an A.
 
-In addition to the aforementioned deliverables and checkpoints, you'll need to complete two mandatory check-ins with your TA – one in Week 3 and one in Week 8. At some point, all groups will also be required to meet with Professor David Danks to discuss the ethical implications of their work.
+In addition to the aforementioned deliverables and checkpoints, you'll need to complete two mandatory check-ins with your TA – one in Week 3 and one in Week 8. Additionally, during Weeks 5-6, all groups will also be required to meet with Professor David Danks to discuss the ethical implications of their work.
 
 ---
 
