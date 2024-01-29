@@ -13,7 +13,7 @@ This site is under construction! -->
 {: .fs-6 .fw-300 }
 
 {: .green }
-> - Sign up for a [**Week 3 TA Check-In**](assignments/projects/q2-week3-checkin) ASAP! Check-ins start on Monday, January 22nd.
+> - Sign up for an [**Ethics Check-In**](assignments/projects/q2-ethics-checkin) with Professor David Danks! Check-ins are **required** for all groups, and run from February 6th through 16th.
 > - Make sure to update your group's running meeting notes document each week and submit a PDF of it to Gradescope each Sunday. Read the [**Participation**](assignments/participation/q2) assignment for more details.
 > - Save the date: the [**capstone showcase is on Friday, March 15th from 11AM-2:30PM**](https://dsc-capstone.org/showcase-24). You're **required** to present your poster either in the 11AM-12:30PM block or the 1-2:30PM block; you'll be assigned a block in February.
 
@@ -24,8 +24,8 @@ The schedule and dates below are subject to change throughout the quarter.
 | 1 | Read the [**Syllabus**](syllabus) and [**Quarter 2 Project**](assignments/projects/q2) specifications.<br>Start attending sections.<br>✅ <b style="color:green">Submit</b> your first [**Weekly Participation Assignment**](assignments/participation/q2) as a group by <b>Sunday, January 14th</b>; make sure to submit a PDF to Gradescope and, as a one time step, to share your Google Doc with us. |
 | 2 | Keep working!   |
 | 3 | [**Sign up for and attend your Week 3 TA Check-In**](assignments/projects/q2-week3-checkin). |
-| 4 | Keep working! |
-| 5 | ✅ <b style="color:green">Submit</b> your [**report checkpoint**](assignments/projects/q2/report) and [**code checkpoint**](assignments/projects/q2/code) by <b>Sunday, February 11th</b>.<br>Sign up for and attend an ethics check-in with Professor David Danks. |
+| 4 | [**Sign up for an Ethics Check-In with Professor David Danks**](assignments/projects/q2-ethics-checkin). |
+| 5 | ✅ <b style="color:green">Submit</b> your [**report checkpoint**](assignments/projects/q2/report) and [**code checkpoint**](assignments/projects/q2/code) by <b>Sunday, February 11th</b>.<br>Attend an Ethics Check-In between February 6th and 16th. |
 | 6 | ✅ <b style="color:green">Submit</b> your [**poster checkpoint**](assignments/projects/q2/poster-presentation) by  <b>Sunday, February 18th</b>. |
 | 7 | ✅ <b style="color:green">Submit</b> your [**website checkpoint**](assignments/projects/q2/website) by  <b>Sunday, February 25th</b>. |
 | 8 | Sign up for and attend a Week 8 TA Check-In, where you will present a dry run of your [**poster presentation**](assignments/projects/q2/poster-presentation). |
