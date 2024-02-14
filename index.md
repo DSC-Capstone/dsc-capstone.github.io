@@ -14,7 +14,7 @@ This site is under construction! -->
 
 {: .green }
 > - Your poster checkpoint is due **this Sunday, February 18th** and your website checkpoint is due **next Sunday, February 25th**.
-> - Here's a good resource for helping better structure your code in notebooks: [Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://doi.org/10.1371/journal.pcbi.1007007) by Rule et. al.
+> - Here's a good resource for helping better structure your code in notebooks: [**Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks**](https://doi.org/10.1371/journal.pcbi.1007007) by Rule et. al.
 > - Make sure to update your group's running meeting notes document each week and submit a PDF of it to Gradescope each Sunday. Read the [**Participation**](assignments/participation/q2) assignment for more details.
 > - Save the date: the [**capstone showcase is on Friday, March 15th from 11AM-2:30PM**](https://dsc-capstone.org/showcase-24). You're **required** to present your poster either in the 11AM-12:30PM block or the 1-2:30PM block; you'll be assigned a block within the next week.
 
