@@ -17,7 +17,7 @@ This site is under construction! -->
 > - Your [**website checkpoint**](assignments/projects/q2/website) is due on **Sunday, February 25th**.
 > - Check Gradescope for any feedback from your mentor on your report/poster checkpoints.
 > - Stay tuned for signups for [**Week 8 TA Check-Ins**](assignments/projects/q2-week8-checkin). At your (required) Week 8 TA Check-In, you'll deliver a dry run of your showcase presentation. 
-> - The [**capstone showcase is on Friday, March 15th from 11AM-2:30PM in the Price Center East Ballroom**](https://dsc-capstone.org/showcase-24). You're required to present your poster during your assigned block (either 11-12:30PM or 1-2:30PM). **You can now see your assigned block**, both at [**hdsishowcase.com**](https://hdsishowcase.com) and [**this sheet**](https://docs.google.com/spreadsheets/d/1zUoCZ-sXjhJn1s9DrP_y3hEYMUoRdXKTxm2actH2NPg/edit#gid=0).
+> - The [**capstone showcase is on Friday, March 15th from 11AM-2:30PM in the Price Center East Ballroom**](https://dsc-capstone.org/showcase-24). You're required to present your poster during your assigned block (either 11-12:30PM or 1-2:30PM). **You can now see your assigned block**, both at [**hdsishowcase.com**](https://hdsishowcase.com) and [**this sheet**](https://docs.google.com/spreadsheets/d/1zUoCZ-sXjhJn1s9DrP_y3hEYMUoRdXKTxm2actH2NPg/edit#gid=0). RSVP for your block!
 > - In **[this sheet](https://docs.google.com/spreadsheets/d/1zUoCZ-sXjhJn1s9DrP_y3hEYMUoRdXKTxm2actH2NPg/edit#gid=0)**, you should add the title of your project.
 > - Update your poster to follow the new [**poster branding guidelines**](assignments/projects/q2/poster-presentation#branding).
 
@@ -32,7 +32,7 @@ The schedule and dates below are subject to change throughout the quarter.
 | 5 | ✅ <b style="color:green">Submit</b> your [**report checkpoint**](assignments/projects/q2/report) and [**code checkpoint**](assignments/projects/q2/code) by <b>Sunday, February 11th</b>.<br>Attend an Ethics Check-In between February 6th and 16th. |
 | 6 | ✅ <b style="color:green">Submit</b> your [**poster checkpoint**](assignments/projects/q2/poster-presentation) by  <b>Sunday, February 18th</b>. |
 | 7 | ✅ <b style="color:green">Submit</b> your [**website checkpoint**](assignments/projects/q2/website) by  <b>Sunday, February 25th</b>.<br> <b>Update</b> your poster to follow the new [**branding guidelines**](assignments/projects/q2/poster-presentation#branding). |
-| 8 | Sign up for and attend a [**Week 8 TA Check-In**](assignments/projects/q2-week8-checkin), where you will present a dry run of your [**poster presentation**](assignments/projects/q2/poster-presentation). |
+| 8 | Sign up for and attend a [**Week 8 TA Check-In**](assignments/projects/q2-week8-checkin), where you will present a dry run of your [**poster presentation**](assignments/projects/q2/poster-presentation).<br><b><a href="https://hdsishowcase.com">RSVP for your block at the showcase.</a></b> |
 | 9 | Keep working! |
 | 10 | ✅ <b style="color:green">Submit</b> your [**poster**](assignments/projects/q2/poster-presentation) by <b>Sunday, March 10th</b>.<br>✅ <b style="color:green">Submit</b> your report, code, website, and contribution statement by <b>Thursday, March 14th</b>.<br>🗣️ <b style="color:#5080a6">Present</b> at the <b><a href="https://dsc-capstone.org/showcase-24">in-person capstone showcase Friday, March 15th from 11AM-2:30PM</a></b>. |
 
