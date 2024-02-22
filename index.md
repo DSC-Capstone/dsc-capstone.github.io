@@ -17,9 +17,11 @@ This site is under construction! -->
 > - Your [**website checkpoint**](assignments/projects/q2/website) is due on **Sunday, February 25th**.
 > - Check Gradescope for any feedback from your mentor on your report/poster checkpoints. If you haven't received feedback, **ask for it!**
 > - Stay tuned for signups for [**Week 8 TA Check-Ins**](assignments/projects/q2-week8-checkin). At your (required) Week 8 TA Check-In, you'll deliver a dry run of your showcase presentation. 
-> - The [**capstone showcase is on Friday, March 15th from 11AM-2:30PM in the Price Center East Ballroom**](https://dsc-capstone.org/showcase-24). You're required to present your poster during your assigned block (either 11-12:30PM or 1-2:30PM). **You can now see your assigned block**, both at [**hdsishowcase.com**](https://hdsishowcase.com) and [**this sheet**](https://docs.google.com/spreadsheets/d/1zUoCZ-sXjhJn1s9DrP_y3hEYMUoRdXKTxm2actH2NPg/edit#gid=0). RSVP for your block!
-> - In **[this sheet](https://docs.google.com/spreadsheets/d/1zUoCZ-sXjhJn1s9DrP_y3hEYMUoRdXKTxm2actH2NPg/edit#gid=0)**, you should add the title of your project.
+> - The [**capstone showcase is on Friday, March 15th from 11AM-2:30PM in the Price Center East Ballroom**](https://dsc-capstone.org/showcase-24). You're required to present your poster during your assigned block (either 11-12:30PM or 1-2:30PM). **You can now see your assigned block at [this sheet](https://docs.google.com/spreadsheets/d/1zUoCZ-sXjhJn1s9DrP_y3hEYMUoRdXKTxm2actH2NPg/edit#gid=0)**.
+>   - Add the title of your project to **[this sheet](https://docs.google.com/spreadsheets/d/1zUoCZ-sXjhJn1s9DrP_y3hEYMUoRdXKTxm2actH2NPg/edit#gid=0)**.
+>   - RSVP for your block at [**hdsishowcase.com**](https://hdsishowcase.com).
 > - Update your poster to follow the new [**poster branding guidelines**](assignments/projects/q2/poster-presentation#branding).
+> - Don't forget to keep updating and submitting your [**meeting notes document**](assignments/participation/q2).
 
 The schedule and dates below are subject to change throughout the quarter.
 
