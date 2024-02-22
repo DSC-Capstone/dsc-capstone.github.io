@@ -39,7 +39,7 @@ The primary asks we have of the code you write in your project is that it is **r
 
 _*You'll have separate repos for your Quarter 1 and Quarter 2 Projects._
 
-The [lack of reproducibility in science](https://en.wikipedia.org/wiki/Replication_crisis), including data science, is a major issue. If nobody else can recreate your results, how do we know that they're valid? The authors of [Understanding and improving the quality and reproducibility of Jupyter notebooks](https://link.springer.com/article/10.1007/s10664-021-09961-9) by Pimentel, Murta, Braganholo, and Freire, conducted a study specifically around the reproducibility of work done in Jupyter Notebooks:
+The [lack of reproducibility in science](https://en.wikipedia.org/wiki/Replication_crisis), including data science, is a major issue. If nobody else can recreate your results, how do we know that they're valid? The authors of [**Understanding and improving the quality and reproducibility of Jupyter notebooks**](https://link.springer.com/article/10.1007/s10664-021-09961-9) by Pimentel, Murta, Braganholo, and Freire, conducted a study specifically around the reproducibility of work done in Jupyter Notebooks:
 
 > At the same time, there has been growing criticism that the way in which notebooks are being used leads to unexpected behavior, encourages poor coding practices, and makes it hard to reproduce its results. To better understand good and bad practices used in the development of real notebooks, in prior work we studied 1.4 million notebooks from GitHub. We presented a detailed analysis of their characteristics that impact reproducibility, proposed best practices that can improve the reproducibility, and discussed open challenges that require further research and development.
 
@@ -48,6 +48,8 @@ For others to be able to use your project in the future, it needs be:
 2. Flexible: It should be easy for someone else to re-use large pieces of your project while changing just the details that are necessary for their use case.
 
 We'll discuss how to accomplish these goals throughout this lesson. Be warned – it's pretty long. Skim through it now, and come back to it regularly as you start to write and structure your code.
+
+🆕 Another good resource is [**Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks**](https://doi.org/10.1371/journal.pcbi.1007007) by Rule et. al.
 
 ---
 
@@ -381,9 +383,11 @@ We've all written notebooks with uninsightful names, like `Untitled4-Copy1.ipynb
 <center><img src="assets/notebook.png" width="40%">
 </center>
 
-The study mentioned at the top of the article, [Understanding and improving the quality and reproducibility of Jupyter notebooks](https://link.springer.com/article/10.1007/s10664-021-09961-9), includes their own best practices for working with Jupyter notebooks. Find them [here](https://link.springer.com/article/10.1007/s10664-021-09961-9#Sec18). Some of the key ones are:
+The study mentioned at the top of the article, [**Understanding and improving the quality and reproducibility of Jupyter notebooks**](https://link.springer.com/article/10.1007/s10664-021-09961-9), includes their own best practices for working with Jupyter notebooks. Find them [here](https://link.springer.com/article/10.1007/s10664-021-09961-9#Sec18). Some of the key ones are:
 - Put imports at the beginning of notebooks. 
 - Re-run notebooks top to bottom before committing.
+
+🆕 Another good resource is [**Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks**](https://doi.org/10.1371/journal.pcbi.1007007) by Rule et. al.
 
 Let's cover a few of the aforementioned ideas in greater detail.
 

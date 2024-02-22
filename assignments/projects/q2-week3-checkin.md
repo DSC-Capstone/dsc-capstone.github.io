@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 3 TA Check-In
+title: Quarter 2 Week 3 TA Check-In
 nav_exclude: true
 ---
 

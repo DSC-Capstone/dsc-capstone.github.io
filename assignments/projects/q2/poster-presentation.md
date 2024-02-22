@@ -8,7 +8,7 @@ nav_exclude: true
 # 🗺️ Poster and Presentation – Quarter 2 Project
 {:.no_toc}
 
-_last updated Tuesday, January 9th, 2024_
+_last updated Wednesday, February 21st, 2024_
 
 [🔙 to the main Quarter 2 Project page](../)
 
@@ -99,7 +99,6 @@ Each of the six bullet points below are worth 1 point.
 
 Note that these don't all have to be touched on in your "elevator pitch"; they can be revealed in the conversations you have with your TA / other attendees. With that said, all group members will receive an **individual** presentation grade – so all group members need to be able to talk and answer questions about the project at the showcase.
 
-
 ---
 
 ## Posters
@@ -113,7 +112,7 @@ From the [UC Davis Undergraduate Research Center](https://urc.ucdavis.edu/creati
 Your poster will primarily serve as a visual aid as you present your work. It **must** contain:
 
 - A prominent, informative title, that immediately tells the viewer what the project is about. (This should be the same as the title of your paper; if you haven't thought about what this will be, now is as good of a time as any.)
-- **The names, emails, and institutional affiliation for all group members, including your mentor, directly underneath the title of your poster. Your mentor's name should always appear last.**
+- **The names and emails for all group members, including your mentor, directly underneath the title of your poster. Your mentor's name should always appear last. See more in [Branding](#branding).**
 - One section for each section of your report, in which the key points are summarized as **short bullet points** and in **tables and graphs** where possible.
     - You can include an acknowledgements section, but it shouldn't be longer than two sentences.
     - Only include the references that are directly relevant for the material on the poster (should only be 2-3 max); don't include your entire bibliography.
@@ -122,10 +121,9 @@ Your poster will primarily serve as a visual aid as you present your work. It **
 Additionally:
 - Your poster will ultimately be submitted as a PDF of size **48" x 36"**.
 - Make sure that all text and figures on your poster are large and legible – to do this, ensure that your figures are exported at a resolution of 300 DPI (dots per inch). See [here](https://posterprintshop.com/file-preparation/) for some guidelines. As is mentioned below, you're free to use any software you'd like to edit your poster, but you should frequently export it as a PDF and zoom in to make sure all figures are high quality.
-- Yo
 
 {: .red }
-**While we won't enforce a particular poster template, we do ask that you follow the above guidelines carefully. Last year, many groups didn't include emails or their mentor's names. We will reiterate these guidelines a bit closer to the checkpoint deadline.**
+**While we won't enforce a particular poster template, we do ask that you follow the above guidelines carefully. Last year, many groups didn't include emails or their mentor's names.
 
 While the focus should be on visuals, your poster should also be self-contained – just by looking at your poster, someone should be able to understand the main idea behind your project, the context in which it exists, and its impact, without you having to be present. After all, your poster may eventually be hung up in the hallway of the new HDSI building – passerbys looking at your poster should be able to understand what you did.
 
@@ -137,6 +135,43 @@ For actually creating your poster, you're free to use any tools you'd like, thou
 
 {: .note }
 **Start early**. Figure out what content you'd like to put on your poster, and then try and find a template (or create your own) that works for your content.
+
+### Branding
+
+_This section is new: it was only added on February 21st. Make sure to read it carefully!_
+
+Some requirements:
+- **The names and emails of all group members, including your mentor, should appear at the top of your poster, directly underneath the title of your poster. Your mentor's name should always appear last.**
+    - Many checkpoint submissions didn't follow this rule!
+    - Make sure individuals' emails appear directly underneath their names, rather than somewhere else on the page.
+    - For your mentor's name, you should put "Mentor:" before their name, e.g. "Mentor: Suraj Rampure" (and then underneath that, rampure@ucsd.edu).
+    - Since we're including the HDSI logo (see below), there's no need to separately write "Halıcıoğlu Data Science Institute."
+- **You must place one of the following two HDSI logos in the top right corner of your poster**:
+
+<center markdown="1">
+
+Option 1: Blue and Gold (download high-res version <a href="../../../../assets/images/hdsi-blue-gold.png">here</a>)<br><br>
+
+<img src="../../../../assets/images/hdsi-blue-gold.png" width="250"><br><br>
+
+Option 2: White (download high-res version <a href="../../../../assets/images/hdsi-white.png">here</a>)<br>Yes, this is intentionally hard to see on a white background – only use this logo if the top of your poster is a dark color!<br><br>
+
+<img src="../../../../assets/images/hdsi-white.png" width="250">
+
+</center>
+
+
+Here's a barebones example of a poster that follows the branding and formatting requirements exactly:
+
+<center>
+
+<img src="../../../../assets/images/poster-example.png" width="600">
+
+</center>
+
+If you're working with an industry partner, ask your mentor if they want their company's logo to be on the poster. If they say they'd like it to be, then either put their logo **to the right** of the HDSI one, or **in the top left corner of the poster** – it's up to you.
+
+### Guidance
 
 We won't reinvent the wheel here – there is a wealth of resources available online that you can consult for guidance on how to produce a poster. **Your mentor is also a valuable resource – they've almost certainly created a poster before, and ultimately they will be the ones grading your poster**.
 
