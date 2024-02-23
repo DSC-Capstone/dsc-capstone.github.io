@@ -27,6 +27,6 @@ To reiterate, all group members are expected to be present in-person, and all ar
 In addition to working through your presentation and poster, your TA will also give you feedback on your website, whose checkpoint is due on **February 25th**. You are expected to keep refining your website even after the checkpoint.
 
 {: .green }
-**To sign up for a check-in, go to [COMING SOON]**. Make sure to sign up as a group and include your group number (e.g. A04-1), and only for your TA!<br>Like the showcase, which is **mandatory** and **in-person only**, your Week 8 check-in with your TA is also **mandatory** and **in-person only**. All check-ins are held in-person in the HDSI building; locations can be found in the sheet.
+**To sign up for a check-in, go [here](https://docs.google.com/spreadsheets/d/1bKELdPBgv5vwq9DIxgBudE0_ITIUw-VIIke7FzPpOBU/edit#gid=0)**. Make sure to sign up as a group and include your group number (e.g. A04-1), and only for your TA!<br>Like the showcase, which is **mandatory** and **in-person only**, your Week 8 check-in with your TA is also **mandatory** and **in-person only**. All check-ins are held in-person in the HDSI building; locations can be found in the sheet.
 
 <!-- https://docs.google.com/spreadsheets/d/1bKELdPBgv5vwq9DIxgBudE0_ITIUw-VIIke7FzPpOBU/edit#gid=0 -->
