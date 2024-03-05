@@ -21,7 +21,7 @@ This site is under construction! -->
 > - Your poster is due **on Sunday at 11:59PM** to the Google Form below.
 >   - Update your poster to follow the new [**poster branding guidelines**](assignments/projects/q2/poster-presentation#branding).
 >   - Pick up your poster from Suraj in his office (HDSI 349) on Wednesday 3/13 from 5-7PM (preferred) or Thursday 3/14 from 1-2PM.
-> - All other deliverables (your report, code, and website) are due on **Thursday, March 14th**.<br><br>
+> - All other deliverables (report, code, website, and contributions statement) are due on **Thursday, March 14th**.<br><br>
 > [Submit your poster as a PDF here by Sunday, March 10th at 11:59PM.](https://docs.google.com/forms/d/e/1FAIpQLSeMo9A12Bl4E6RDkCOJWCsrdRH7At0rDjemLRhMX2R2Y_vPAg/viewform){: .btn .btn-blue }
 
 The schedule and dates below are subject to change throughout the quarter.
