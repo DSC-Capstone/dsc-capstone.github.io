@@ -19,6 +19,8 @@ _last updated Wednesday, February 21st, 2024_
 - Presentation delivered at [**capstone showcase on Friday, March 15th**](https://dsc-capstone.org/showcase-24)
 - Poster graded by **mentors**, presentation graded by **methodology staff**
 
+[Submit your poster as a PDF here by Sunday, March 10th at 11:59PM.](https://docs.google.com/forms/d/e/1FAIpQLSeMo9A12Bl4E6RDkCOJWCsrdRH7At0rDjemLRhMX2R2Y_vPAg/viewform){: .btn .btn-blue }
+
 ---
 
 ## Table of contents
@@ -207,7 +209,9 @@ Then, consult the following links for additional guidance.
 > 
 > For this checkpoint, all you need to do is submit a draft of your poster as a PDF. Your mentor will provide feedback on this draft.
 
-On Sunday, March 10th, you will submit your poster to us as a PDF of size **48" x 36"** via Google Form (form to come).
+On Sunday, March 10th, you will submit your poster to us as a PDF of size **48" x 36"** via Google Form:
+
+[Submit your poster as a PDF here by Sunday, March 10th at 11:59PM.](https://docs.google.com/forms/d/e/1FAIpQLSeMo9A12Bl4E6RDkCOJWCsrdRH7At0rDjemLRhMX2R2Y_vPAg/viewform){: .btn .btn-blue }
 
 {: .red }
 **We will print your poster for you (and pay for the printing costs), but only if you submit on time (by Sunday, March 10th)!**
