@@ -50,3 +50,7 @@ Tip: The figures in your report should **not** be created from screenshots:
 > - A **contributions** section at the end that details the tasks that each group member was responsible for so far.
 > 
 > Your checkpoint report should also be written in the aforementioned LaTeX template.
+
+<br>
+
+<b><a href="https://edstem.org/us/courses/48541/discussion/4550660">Follow the instructions here to submit your work.</a></b>

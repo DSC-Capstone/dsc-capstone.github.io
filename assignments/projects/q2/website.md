@@ -73,3 +73,7 @@ If your project is a traditional methods or analysis project, your primary deliv
 > 
 > To submit the checkpoint, you'll submit a link to the repository containing the code to your website (not the link to your website itself). The `README.md` in that code repository should contain a link to the website itself, which we can use to visit your page.
 > Your TA will review your website with you in your Week 8 Check-In.
+
+<br>
+
+<b><a href="https://edstem.org/us/courses/48541/discussion/4550660">Follow the instructions here to submit your work.</a></b> You'll need to start by creating an <b><a href="https://github.com/DSC-Capstone/artifact-directory-template">artifacts repository</a></b>.

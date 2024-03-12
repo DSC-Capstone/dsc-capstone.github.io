@@ -17,12 +17,8 @@ This site is under construction! -->
 > - The capstone showcase is on Friday, March 15th from 11AM-2:30PM in the Price Center East Ballroom.
 >   - RSVP for your assigned block [**here**](https://hdsishowcase.com).
 >   - You must be present 30 minutes before your assigned block, along with your poster (see below). **The dress code is business casual.** Let Suraj know if you need a table to present a demo (e.g. for your laptop).
->   - Add a title for your project **[this sheet](https://docs.google.com/spreadsheets/d/1zUoCZ-sXjhJn1s9DrP_y3hEYMUoRdXKTxm2actH2NPg/edit#gid=0)**.
-> - Your poster is due **on Sunday at 11:59PM** to the Google Form below.
->   - Update your poster to follow the new [**poster branding guidelines**](assignments/projects/q2/poster-presentation#branding).
->   - Pick up your poster from Suraj in his office (HDSI 349) on Wednesday 3/13 from 5-7PM (preferred) or Thursday 3/14 from 1-2PM.
-> - All other deliverables (report, code, website, and contributions statement) are due on **Thursday, March 14th**.<br><br>
-> [Submit your poster as a PDF here by Sunday, March 10th at 11:59PM.](https://docs.google.com/forms/d/e/1FAIpQLSeMo9A12Bl4E6RDkCOJWCsrdRH7At0rDjemLRhMX2R2Y_vPAg/viewform){: .btn .btn-blue }
+>  - Pick up your poster from Suraj in his office (HDSI 349) on Wednesday 3/13 from 5-7PM (preferred) or Thursday 3/14 from 1-2PM.
+> - All other deliverables (report, code, website, and contributions statement) are due on **Thursday, March 14th**. <b><a href="https://edstem.org/us/courses/48541/discussion/4550660">Follow the instructions here to submit your work.</a></b>
 
 The schedule and dates below are subject to change throughout the quarter.
 
@@ -37,7 +33,7 @@ The schedule and dates below are subject to change throughout the quarter.
 | 7 | ✅ <b style="color:green">Submit</b> your [**website checkpoint**](assignments/projects/q2/website) by  <b>Sunday, February 25th</b>.<br> <b>Update</b> your poster to follow the new [**branding guidelines**](assignments/projects/q2/poster-presentation#branding). |
 | 8 | Sign up for and attend a [**Week 8 TA Check-In**](assignments/projects/q2-week8-checkin), where you will present a dry run of your [**poster presentation**](assignments/projects/q2/poster-presentation).<br><b><a href="https://hdsishowcase.com">RSVP for your block at the showcase.</a></b> |
 | 9 | Keep working! |
-| 10 | ✅ <b style="color:green">Submit</b> your [**poster**](assignments/projects/q2/poster-presentation) by <b>Sunday, March 10th <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMo9A12Bl4E6RDkCOJWCsrdRH7At0rDjemLRhMX2R2Y_vPAg/viewform">at this link</a></b>.<br>✅ <b style="color:green">Submit</b> your report, code, website, and contribution statement by <b>Thursday, March 14th</b>.<br>🗣️ <b style="color:#5080a6">Present</b> at the <b><a href="https://dsc-capstone.org/showcase-24">in-person capstone showcase Friday, March 15th from 11AM-2:30PM</a></b>. |
+| 10 | ✅ <b style="color:green">Submit</b> your [**poster**](assignments/projects/q2/poster-presentation) by <b>Sunday, March 10th <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMo9A12Bl4E6RDkCOJWCsrdRH7At0rDjemLRhMX2R2Y_vPAg/viewform">at this link</a></b>.<br>✅ <b style="color:green">Submit</b> your report, code, website, and contribution statement by <b>Thursday, March 14th</b>.<br><b><a href="https://edstem.org/us/courses/48541/discussion/4550660">Follow the instructions here to submit your work.</a></b><br>🗣️ <b style="color:#5080a6">Present</b> at the <b><a href="https://dsc-capstone.org/showcase-24">in-person capstone showcase Friday, March 15th from 11AM-2:30PM</a></b>. |
 
 ---
 

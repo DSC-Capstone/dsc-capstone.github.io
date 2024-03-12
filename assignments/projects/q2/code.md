@@ -30,3 +30,7 @@ Your public GitHub repo should be updated incrementally and regularly to reflect
 > The purpose of the code checkpoint is to verify that your code:
 > - Is well documented and build instructions are found in `README.md`. In particular, there need to be instructions on how to recreate the environment used to develop the code, e.g. how to create the necessary `conda` environment or Docker image.
 - Is structured logically (e.g. uses build scripts, has library code in `.py` files rather than in notebooks, etc.)
+
+<br>
+
+<b><a href="https://edstem.org/us/courses/48541/discussion/4550660">Follow the instructions here to submit your work.</a></b> You'll need to start by creating an <b><a href="https://github.com/DSC-Capstone/artifact-directory-template">artifacts repository</a></b>.
