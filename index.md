@@ -17,7 +17,7 @@ This site is under construction! -->
 > - The capstone showcase is on Friday, March 15th from 11AM-2:30PM in the Price Center East Ballroom.
 >   - RSVP for your assigned block [**here**](https://hdsishowcase.com).
 >   - You must be present 30 minutes before your assigned block, along with your poster (see below). **The dress code is business casual.** Let Suraj know if you need a table to present a demo (e.g. for your laptop).
->  - Pick up your poster from Suraj in his office (HDSI 349) on Wednesday 3/13 from 5-7PM (preferred) or Thursday 3/14 from 1-2PM.
+>  - Pick up your poster from Suraj in his office (HDSI 349) on Wednesday 3/13 from **6-8PM** (preferred) or Thursday 3/14 from 1-2PM.
 > - All other deliverables (report, code, website, and contributions statement) are due on **Thursday, March 14th**. <b><a href="https://edstem.org/us/courses/48541/discussion/4550660">Follow the instructions here to submit your work.</a></b>
 
 The schedule and dates below are subject to change throughout the quarter.
