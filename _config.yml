@@ -13,35 +13,26 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DSC 180AB
-tagline: Data Science Capstone
-description: DSC 180AB, Fall 2023 and Winter 2024 at UC San Diego
-author: Suraj Rampure
+title: DSC Capstone
+description: DSC Capstone Program @ UC San Diego
+tagline: Landing page for the UCSD DSC senior capstone program.
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://dsc-capstone.org' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+author: Suraj Rampure
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
-# remote_theme: just-the-docs/just-the-docs@v0.3.3
 color_scheme: bluecsd
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-aux_links:
-  Gradescope:
-    - 'https://www.gradescope.com/courses/697313/'
-  Ed:
-    - 'https://edstem.org/us/courses/48541/discussion/'
-  Winter 2024 Meeting Times:
-    - 'https://docs.google.com/spreadsheets/d/1dCjs06QobZ3jrMBFIMeHYuqXDpGZHLZAxYUnraVQtNI/edit#gid=0'
-  Domain Descriptions:
-    - 'https://dsc-capstone.github.io/enrollment'
 footer_content:
 
 # Collections for website data
 collections:
   staffers:
+  staffersnobio:
   modules:
   schedules:
   announcements:
@@ -52,7 +43,13 @@ defaults:
       type: staffers
     values:
       layout: staffer
-      subpath: '/assets/staff-images/'
+      subpath: '/assets/images/'
+  - scope:
+      path: ''
+      type: staffersnobio
+    values:
+      layout: staffer_no_bio
+      subpath: '/assets/images/'
   - scope:
       path: ''
       type: modules
@@ -82,18 +79,18 @@ plugins:
 
 # callouts
 callouts:
-  red:
-    title: 
+  warning:
+    title: Warning
+    color: red
+  important:
+    title: ""
     color: red
   note:
     title: Note
     color: yellow
-  checkpoint:
-    title: Checkpoint
+  success:
+    title: ""
     color: green
-  blue:
-    title: 
+  announcement:
+    title: ""
     color: blue
-  green:
-    title: 
-    color: green
