@@ -10,13 +10,15 @@ nav_order: 1
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
+{: .success }
+**Students can now view the domain offerings for Fall 2024 [here](https://dsc-capstone.org/enrollment). Remember that first pass begins on Friday, May 24th!**
+
 Eventually, this page will point to the student-facing course website for the 2024-25 offering of the DSC capstone. For now, we'll point to several important pages of general interest.
 
 Here, "last year" refers to the 2023-24 academic year.
 
 **For everyone**:
 - Last year's [final project submissions](https://dsc-capstone.org/showcase-24).
-- Last year's [domain descriptions and enrollment page](https://dsc-capstone.org/enrollment).
 
 **For students**:
 
