@@ -21,12 +21,12 @@ Here, "last year" refers to the 2023-24 academic year.
 
 **For students**:
 
-- Last year's [course website](https://dsc-capstone.org/2023-24). Specific subpages:
-    - The [syllabus](https://dsc-capstone.org/2023-24/syllabus).
-    - The [Quarter 2 Project specifications](https://dsc-capstone.org/2023-24/assignments/projects/q2).
+- [course website](https://dsc-capstone.org/2024-25). Specific subpages:
+    - The [syllabus](https://dsc-capstone.org/2024-25/syllabus).
+    - The [Quarter 2 Project specifications](https://dsc-capstone.org/2024-25/assignments/projects/q2).
 
 **For mentors**:
 
-- Last year's [mentor guide](https://dsc-capstone.org/2023-24/mentors).
+- [mentor guide](https://dsc-capstone.org/2024-25/mentors).
 
 <center><img src="showcase.jpeg" width="35%"><br>The 2023-24 capstone showcase was held on March 15th, 2024.</center>
