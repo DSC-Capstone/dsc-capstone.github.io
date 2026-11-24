@@ -11,7 +11,10 @@ nav_order: 1
 {: .fs-6 .fw-300 }
 
 {: .success }
-**The  domain offerings for the Fall 2026 - Winter 2027 are [here](https://dsc-capstone.org/domains-fall-winter). Note that this is a living document and is subject to change.**
+**The  domain offerings for the Fall 2026 - Winter 2027 are [here](https://dsc-capstone.org/domains-fall-winter).**
+
+{: .success }
+**The domain offerings for the Winter-Spring 2027 are [here](https://dsc-capstone.org/domains-winter-spring)**
 
 
 Here, "last year" refers to the 2025-26 academic year.
@@ -19,8 +22,11 @@ Here, "last year" refers to the 2025-26 academic year.
 **For everyone**:
 - Last year's [final project submissions](https://dsc-capstone.org/showcase-26).
 
-**For students**:
-
+**For students - there are two offerings in each academic year. Select the one that applies to YOU!**:
+- [Course website for the Winter-Spring Cohort](https://dsc-capstone.org/2026-27-ws). Specific subpages:
+    - The [syllabus](https://dsc-capstone.org/2026-27-ws/syllabus).
+    - The [Quarter 2 Project specifications](https://dsc-capstone.org/2026-27-ws/assignments/projects/q2).
+  
 - [course website for the Fall-Winter Cohort](https://dsc-capstone.org/2026-27). Specific subpages:
     - The [syllabus](https://dsc-capstone.org/2026-27/syllabus).
     - The [Quarter 2 Project specifications](https://dsc-capstone.org/2026-27/assignments/projects/q2).
